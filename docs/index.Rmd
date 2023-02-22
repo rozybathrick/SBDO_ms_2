@@ -1,5 +1,5 @@
 ---
-title: "Rozy's Project Homepage"
+title: "Rozy's SBDO Homepage"
 author: "Rozy Bathrick"
 date: "2022-11-17"
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Welcome to Rozy's class page
+Welcome to Short-billed Dowitcher land
 
 [Final Project: R Reference Guide](final_R_reference.html)
 
