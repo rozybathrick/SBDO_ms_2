@@ -1,0 +1,15 @@
+---
+title: "Rozy's Project Homepage"
+author: "Rozy Bathrick"
+date: "2022-11-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Rozy's class page
+
+[Final Project: R Reference Guide](final_R_reference.html)
+
