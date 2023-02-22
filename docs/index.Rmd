@@ -11,5 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to Short-billed Dowitcher land
 
-[Final Project: R Reference Guide](final_R_reference.html)
 
