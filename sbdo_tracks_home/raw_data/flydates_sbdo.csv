@@ -1,31 +1,25 @@
-﻿id,,final_day_home,days_btw_home_away,lat_arcata_40.8,lat_sand_32.7,arr_day,site,year,win_long,win_lat,,arrival day minus departure day,,st dev
-181624,Beluga,7/15/22,2,8/6/22,8/12/22,8/16/22,Beluga,2022,-109.5437698,26.6968956,,32,,
-181625,Beluga,7/11/22,2,7/15/22,7/17/22,7/25/22,Beluga,2022,-114.1791382,27.7489281,,14,,
-181626,Beluga,7/27/22,2,8/18/22,.,8/20/22,Beluga,2022,-122.1248932,37.5963783,,24,,
-198752,Beluga,7/12/21,12,8/11/21,8/11/21,8/11/21,Beluga,2021,-113.08397,31.10833,,30,,
-198758,Beluga,6/21/21,51,8/11/21,8/11/21,8/17/21,Beluga,2021,-110.36284,27.21542,"no data between 21 jun and 12 jul, nor aug 17 to sept 4",57,,
-198761,Beluga,7/21/21,9,8/2/22,8/11/21,8/11/21,Beluga,2021,-122.14115,37.6151,data jumps every 9-11 days,30,,
-198763,Beluga,7/12/21,9,8/20/21,8/20/21,9/1/21,Beluga,2021,-113.95237,27.73395,data jumps every 9-11 days,51,,
-198767,Beluga,.,.,.,.,8/20/21,Beluga,2021,-107.49947,24.42392,"no data between 15-24 jul, 24 jul - 11aug, 11aug-20 aug",36,,
-198773,Beluga,7/12/21,21,.,.,8/8/21,Beluga,2021,-112.13553,25.14788,"big gaps. Bird flew from CI to AK Peninsula, and then there is a 6 day gap but it landed in Guerreru Negro",27,,
-233811,Beluga,7/5/22,2,7/21/22,8/4/22,8/6/22,Beluga,2022,-109.37455,25.8487415,,32,,
-233812,Beluga,7/13/22,2,.,.,.,Beluga,2022,.,.,,,,
-233813,Beluga,7/31/22,2,8/28/22,9/25/22,9/25/22,Beluga,2022,-112.313766,29.3374329,,56,,13.69140407
-233815,KS,7/13/22,2,7/13/22,7/29/22,7/29/22,King Salmon,2022,-114.065269,27.6838779,,16,,
-233816,KS,7/11/22,2,7/17/22,7/25/22,7/27/22,King Salmon,2022,-109.776245,26.7705212,,16,,
-233817,KS,7/3/22,2,7/7/22,7/21/22,8/4/22,King Salmon,2022,-107.944176,24.7619705,,32,,
-233818,KS,7/11/22,2,7/13/22,7/25/22,7/29/22,King Salmon,2022,-114.236938,27.7004414,,18,,
-233819,KS,7/11/22,2,7/13/22,7/15/22,7/17/22,King Salmon,2022,-110.55835,27.4519176,,6,,
-233820,KS,6/25/22,5,7/3/22,7/21/22,7/27/22,King Salmon,2022,-108.033882,25.0537338,,32,,
-233821,KS,8/2/22,4,8/6/22,8/6/22,8/12/22,King Salmon,2022,-110.46486,27.3187447,,10,,
-233823,KS,6/30/22,5,7/3/22,7/11/22,7/11/22,King Salmon,2022,-114.014481,31.5171204,,11,,
-233824,KS,7/9/22,2,8/4/22,.,8/12/22,King Salmon,2022,-122.08255,37.4991226,,34,,10.57250102
-,,,,,,,,,,,,,,
-,,"Question - how many degrees of longitude should be consider departure - first flight ""range"" - in km - 80?",,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,number of days between fixes? ,,,,,,,,,,,,
-,,the models might not be that helpful in deciding departure date,,,,,,,,,,,,
-,,familiarize myself with the models - then decide if it's worth it,,,,,,,,,,,,
-,,look at wind data - is the pattern obvious enough / is it variable enough,,,,,,,,,,,,
-,,ie. for the 5 day bird - maybe I can conclude ,,,,,,,,,,,,
-,,or look at day-to-day wind data - what is gained?,,,,,,,,,,,,
+﻿id,,final_day_home,days_btw_home_away,lat_arcata_40.8,lat_sand_32.7,arr_day,site,year,win_long,win_lat
+181624,Beluga,7/15/22,2,8/6/22,8/12/22,8/16/22,Beluga,2022,-109.5437698,26.6968956
+181625,Beluga,7/11/22,2,7/15/22,7/17/22,7/25/22,Beluga,2022,-114.1791382,27.7489281
+181626,Beluga,7/27/22,2,8/18/22,.,8/20/22,Beluga,2022,-122.1248932,37.5963783
+233811,Beluga,7/5/22,2,7/21/22,8/4/22,8/6/22,Beluga,2022,-109.37455,25.8487415
+233812,Beluga,7/13/22,2,.,.,.,Beluga,2022,.,.
+233813,Beluga,7/31/22,2,8/28/22,9/25/22,9/25/22,Beluga,2022,-112.313766,29.3374329
+233815,KS,7/13/22,2,7/13/22,7/29/22,7/29/22,King Salmon,2022,-114.065269,27.6838779
+233816,KS,7/11/22,2,7/17/22,7/25/22,7/27/22,King Salmon,2022,-109.776245,26.7705212
+233817,KS,7/3/22,2,7/7/22,7/21/22,8/4/22,King Salmon,2022,-107.944176,24.7619705
+233818,KS,7/11/22,2,7/13/22,7/25/22,7/29/22,King Salmon,2022,-114.236938,27.7004414
+233819,KS,7/11/22,2,7/13/22,7/15/22,7/17/22,King Salmon,2022,-110.55835,27.4519176
+233820,KS,6/25/22,5,7/3/22,7/21/22,7/27/22,King Salmon,2022,-108.033882,25.0537338
+233821,KS,8/2/22,4,8/6/22,8/6/22,8/12/22,King Salmon,2022,-110.46486,27.3187447
+233823,KS,6/30/22,5,7/3/22,7/11/22,7/11/22,King Salmon,2022,-114.014481,31.5171204
+233824,KS,7/9/22,2,8/4/22,.,8/12/22,King Salmon,2022,-122.08255,37.4991226
+,,,,,,,,,,
+,,"Question - how many degrees of longitude should be consider departure - first flight ""range"" - in km - 80?",,,,,,,,
+,,,,,,,,,,
+,,number of days between fixes? ,,,,,,,,
+,,the models might not be that helpful in deciding departure date,,,,,,,,
+,,familiarize myself with the models - then decide if it's worth it,,,,,,,,
+,,look at wind data - is the pattern obvious enough / is it variable enough,,,,,,,,
+,,ie. for the 5 day bird - maybe I can conclude ,,,,,,,,
+,,or look at day-to-day wind data - what is gained?,,,,,,,,
