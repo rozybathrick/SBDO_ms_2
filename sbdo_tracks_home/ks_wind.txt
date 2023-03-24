@@ -1,0 +1,35 @@
+File raw_data/ks_wind.nc (NC_FORMAT_64BIT):
+
+     2 variables (excluding dimension variables):
+        short u[longitude,latitude,time]   
+            scale_factor: 0.000347076665039398
+            add_offset: 1.68228104769653
+            _FillValue: -32767
+            missing_value: -32767
+            units: m s**-1
+            long_name: U component of wind
+            standard_name: eastward_wind
+        short v[longitude,latitude,time]   
+            scale_factor: 0.000353377015969799
+            add_offset: 1.66165421359162
+            _FillValue: -32767
+            missing_value: -32767
+            units: m s**-1
+            long_name: V component of wind
+            standard_name: northward_wind
+
+     3 dimensions:
+        longitude  Size:6 
+            units: degrees_east
+            long_name: longitude
+        latitude  Size:3 
+            units: degrees_north
+            long_name: latitude
+        time  Size:2208 
+            units: hours since 1900-01-01 00:00:00.0
+            long_name: time
+            calendar: gregorian
+
+    2 global attributes:
+        Conventions: CF-1.6
+        history: 2023-03-15 21:10:41 GMT by grib_to_netcdf-2.25.1: /opt/ecmwf/mars-client/bin/grib_to_netcdf.bin -S param -o /cache/data9/adaptor.mars.internal-1678914632.147946-12953-8-471bd163-fad0-41eb-9573-2dfc980a3756.nc /cache/tmp/471bd163-fad0-41eb-9573-2dfc980a3756-adaptor.mars.internal-1678914472.756889-12953-14-tmp.grib

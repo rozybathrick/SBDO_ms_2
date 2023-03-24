@@ -35,6 +35,7 @@ getwd()
 
 beluga_wind <- read_stars("raw_data/beluga_adaptor.mars.internal-1678228485.4156082-12592-6-a63fe570-53be-4b4f-852e-fece8e6c6429.nc", proxy=TRUE)
 st_crs(beluga_wind) = 4326
+head(beluga_wind)
 
 april19 <- read_stars("april2019.nc", proxy = TRUE)
 st_crs(april19) = 4326
