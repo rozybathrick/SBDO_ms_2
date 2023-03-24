@@ -16,6 +16,8 @@ require(aniMotum)
 require(ggplot2)
 ```
 `aniMotum` provides a few different ways to fit a move persistence model to obtain estimates of a continuous-valued behavioural index along individual tracks (Auger-Méthé et al. 2017; Jonsen et al. 2019). In `aniMotum` versions prior to 1.0-5, move persistence was estimated via `fit_mpm()` and, when fitting to Argos or other location error-prone data types, required a two-stage approach of first calling `fit_ssm()` and then calling `fit_mpm()`. The first step fits a state-space model to account for location error in the data:
+
+
 ```{r fit ssm, warning=FALSE, message=FALSE}
 d <- subset(sese, id == "ct109-186-14")
 fit <- fit_ssm(d, 

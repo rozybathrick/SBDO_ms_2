@@ -25,14 +25,29 @@ fitcrw48 <-
 
 summary(fitcrw48)
 
-## this is on a 24 hour time step (filling in every other day that didn't capture a fix)
-fitcrw24 <-
+## 24 hour time step with max speed (filling in every other day that didn't capture a fix)
+fitcrw24_speed <-
   fit_ssm(
     x = sbdo_22,
     model = "crw",
-    time.step = 24)
+    time.step = 24,
+    vmax=20)
 
 summary(fitcrw24)
+
+p24loc<- ploc <- grab(fitcrw24, what = "predicted", as_sf = TRUE)
+ploc[1:15,]
+
+## 24 hour time step (filling in every other day that didn't capture a fix)
+fitcrw24_nospeed <-
+  fit_ssm(
+    x = sbdo_22,
+    model = "crw",
+    time.step = 24,
+    vmax=15)
+
+summary(fitcrw24)
+
 
 ## 12 hour time step
 
@@ -40,7 +55,8 @@ fitcrw12 <-
   fit_ssm(
     x = sbdo_22,
     model = "crw",
-    time.step = 12)
+    time.step = 12,
+    vmax=15)
 
 summary(fitcrw12)
 
@@ -55,19 +71,19 @@ fitcrw6 <-
 summary(fitcrw6)
 
 
-## comparing models
+## comparing models #this doesn't work
 aictab(fitcrw12, fitcrw24)
 
 aictable<-c(fitcrw12$AICc, fitcrw24$AICc)
 
 # plot fitted locations as 1-D timeseries
-plot(fitcrw,
+plot(fitcrw24,
      what = "p", 
      pages = 0,
      type=1,
      ask=FALSE)
 
-map(fitcrw,
+map(fitcrw24,
     what = "p", 
     pages = 0,
     ask=FALSE,
@@ -93,6 +109,8 @@ map(KS_test,
 ## movement persistence model = Movements are random with correlation in direction and magnitude that varies in time.
 ## fit_mpm(), which can take as input either location data or SSM-estimated locations from an fit_ssm() model fit object. 
 ## This approach is generally more appropriate when the data have minimal measurement error
+
+
 fmp <- fit_mpm(fitcrw12, 
                what = "predicted", 
                model = "mpm",
