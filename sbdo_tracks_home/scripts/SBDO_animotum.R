@@ -1,8 +1,7 @@
 library(aniMotum)
 library(tidyverse)
-install.packages("AICcmodavg")
-library(AICcmodavg)
-install.packages("Rtools")
+install.packages("TMB", type='source')
+
 
 R.version
 
@@ -31,7 +30,28 @@ fitcrw24_speed <-
     x = sbdo_22,
     model = "crw",
     time.step = 24,
-    vmax=20)
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+## model visualization
+
+plot(fitcrw24_speed, what="fitted")
+plot(fitcrw24_speed, what="predicted")
+
+## visualizing as 2D tracks: this maps predicted plots on top of observations
+plot(fitcrw24_speed, "p", type=2, alpha=0.1)
+
+## validating model - needs to be done with one-step-ahead-prediction residual
+
+require(patchwork)
+
+#calculate and plot residuals
+
+res.24<-osar(fitcrw24_speed)
+
+bird1<-filter(res.24, id=="233823_King_Salmon")
+
+  (plot(bird1, type="ts")| plot(bird1, type="qq")) / (plot(bird1, type="acf"))
 
 summary(fitcrw24)
 
@@ -44,7 +64,8 @@ fitcrw24_nospeed <-
     x = sbdo_22,
     model = "crw",
     time.step = 24,
-    vmax=15)
+    vmax=15,
+    control=ssm_control(verbose=0))
 
 summary(fitcrw24)
 
@@ -56,7 +77,13 @@ fitcrw12 <-
     x = sbdo_22,
     model = "crw",
     time.step = 12,
-    vmax=15)
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+## 12 hour model visualization
+
+plot(fitcrw12, what="fitted")
+plot(fitcrw12, what="predicted")
 
 summary(fitcrw12)
 
@@ -70,11 +97,6 @@ fitcrw6 <-
 
 summary(fitcrw6)
 
-
-## comparing models #this doesn't work
-aictab(fitcrw12, fitcrw24)
-
-aictable<-c(fitcrw12$AICc, fitcrw24$AICc)
 
 # plot fitted locations as 1-D timeseries
 plot(fitcrw24,
@@ -111,7 +133,7 @@ map(KS_test,
 ## This approach is generally more appropriate when the data have minimal measurement error
 
 
-fmp <- fit_mpm(fitcrw12, 
+fmp24 <- fit_mpm(fitcrw24_dep, 
                what = "predicted", 
                model = "mpm",
                control = mpm_control(verbose = 0))
@@ -130,3 +152,43 @@ map(fitcrw12, fmp, what = "predicted", silent = TRUE)
 
 floc <- grab(fit, what = "fitted")
 ploc<-grab(fit, what="predicted", as_sf = TRUE)
+
+
+
+#### filtering data for just the first couple of months, to look at Departure window
+
+sbdo_dep<-filter(sbdo_22, date < '2022-08-01 00:00:00')
+
+## 24 hour time step with max speed (filling in every other day that didn't capture a fix)
+fitcrw24_dep <-
+  fit_ssm(
+    x = sbdo_dep,
+    model = "crw",
+    time.step = 24,
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+## model visualization
+
+plot(fitcrw24_dep, what="fitted")
+plot(fitcrw24_dep, what="predicted")
+
+## visualizing as 2D tracks: this maps predicted plots on top of observations
+plot(fitcrw24_dep, "p", type=2, alpha=0.1)
+
+## validating model - needs to be done with one-step-ahead-prediction residual
+
+require(patchwork)
+
+#calculate and plot residuals
+
+res.24_dep<-osar(fitcrw24_dep)
+
+bird1_dep<-filter(res.24_dep, id=="233823_King_Salmon")
+
+(plot(bird1_dep, type="ts")| plot(bird1_dep, type="qq")) / (plot(bird1_dep, type="acf"))
+
+
+
+p24loc<- ploc <- grab(fitcrw24, what = "predicted", as_sf = TRUE)
+ploc[1:15,]
