@@ -1,918 +1,907 @@
-tag-local-identifier,timestamp,location-long,location-lat,gps:fix-type-raw,height-above-ellipsoid,lotek:crc-status,lotek:crc-status-text,sensor-type,individual-taxon-canonical-name
-181624,2022-07-03,-151.0293121,61.2111473,,,,,gps,Limnodromus griseus
-181624,2022-07-05,-151.0252228,61.2096367,,,,,gps,Limnodromus griseus
-181624,2022-07-07,-150.994751,61.1754379,,,,,gps,Limnodromus griseus
-181624,2022-07-09,-151.0250092,61.166069,,,,,gps,Limnodromus griseus
-181624,2022-07-11,-150.9924927,61.1838341,,,,,gps,Limnodromus griseus
-181624,2022-07-13,-151.0291901,61.1608429,,,,,gps,Limnodromus griseus
-181624,2022-07-15,-151.452652,61.0144386,,,,,gps,Limnodromus griseus
-181624,2022-07-17,-124.08078,46.9017715,,,,,gps,Limnodromus griseus
-181624,2022-07-21,-124.1136475,47.0179443,,,,,gps,Limnodromus griseus
-181624,2022-07-23,-124.0930939,46.992115,,,,,gps,Limnodromus griseus
-181624,2022-07-25,-124.0270462,46.9097099,,,,,gps,Limnodromus griseus
-181624,2022-07-27,-124.0502396,46.89468,,,,,gps,Limnodromus griseus
-181624,2022-08-06,-120.2522278,37.1700592,,,,,gps,Limnodromus griseus
-181624,2022-08-08,-119.5403137,34.401062,,,,,gps,Limnodromus griseus
-181624,2022-08-10,-119.6627808,34.4213104,,,,,gps,Limnodromus griseus
-181624,2022-08-12,-114.545372,31.7214336,,,,,gps,Limnodromus griseus
-181624,2022-08-14,-111.3942108,28.3638401,,,,,gps,Limnodromus griseus
-181624,2022-08-16,-109.5437698,26.6968956,,,,,gps,Limnodromus griseus
-181624,2022-08-20,-109.556976,26.6939526,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-08-22,-109.556313,26.6943607,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-08-26,-109.554573,26.6932354,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-08-28,-109.554237,26.6937218,2D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-08-30,-109.557137,26.6937733,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-03,-109.556236,26.6934395,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-05,-109.533585,26.7081089,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-07,-109.55529,26.6939774,2D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-09,-109.555161,26.6940041,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-11,-109.554497,26.6939259,2D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-13,-109.554138,26.693594,3D,-1000,G,OK,gps,Limnodromus griseus
-181624,2022-09-15,-109.586319,26.7008133,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-06-25,-150.9251709,61.2120209,,,,,gps,Limnodromus griseus
-181625,2022-06-30,-150.9511566,61.2188797,,,,,gps,Limnodromus griseus
-181625,2022-07-01,-150.9510498,61.2188797,,,,,gps,Limnodromus griseus
-181625,2022-07-03,-150.9255524,61.2124786,,,,,gps,Limnodromus griseus
-181625,2022-07-05,-150.8340302,61.2454529,,,,,gps,Limnodromus griseus
-181625,2022-07-07,-150.8327484,61.2451439,,,,,gps,Limnodromus griseus
-181625,2022-07-09,-150.8327332,61.2452736,,,,,gps,Limnodromus griseus
-181625,2022-07-11,-150.8330841,61.2448654,,,,,gps,Limnodromus griseus
-181625,2022-07-13,-142.7277679,57.2551537,,,,,gps,Limnodromus griseus
-181625,2022-07-15,-124.1620636,40.8410492,,,,,gps,Limnodromus griseus
-181625,2022-07-17,-122.2304153,37.513588,,,,,gps,Limnodromus griseus
-181625,2022-07-19,-122.245079,37.5182991,,,,,gps,Limnodromus griseus
-181625,2022-07-21,-122.2457504,37.5169907,,,,,gps,Limnodromus griseus
-181625,2022-07-23,-115.9666824,30.3954296,,,,,gps,Limnodromus griseus
-181625,2022-07-25,-114.1791382,27.7489281,,,,,gps,Limnodromus griseus
-181625,2022-07-27,-114.1794968,27.7496967,,,,,gps,Limnodromus griseus
-181625,2022-07-29,-114.1903992,27.7281666,,,,,gps,Limnodromus griseus
-181625,2022-07-31,-114.1861725,27.7218952,,,,,gps,Limnodromus griseus
-181625,2022-08-08,-114.1811829,27.7525368,,,,,gps,Limnodromus griseus
-181625,2022-08-10,-114.2343826,27.7005692,,,,,gps,Limnodromus griseus
-181625,2022-08-12,-114.2247314,27.7119865,,,,,gps,Limnodromus griseus
-181625,2022-08-14,-114.2267761,27.71278,,,,,gps,Limnodromus griseus
-181625,2022-08-16,-114.2341537,27.698061,,,,,gps,Limnodromus griseus
-181625,2022-08-18,-114.2335587,27.6958599,,,,,gps,Limnodromus griseus
-181625,2022-08-20,-114.1812897,27.7524872,,,,,gps,Limnodromus griseus
-181625,2022-08-22,-114.1810532,27.7523327,,,,,gps,Limnodromus griseus
-181625,2022-08-24,-114.2342529,27.7000313,,,,,gps,Limnodromus griseus
-181625,2022-08-26,-114.23159,27.699852,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-08-28,-114.222786,27.7083778,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-08-30,-114.229851,27.7118073,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-01,-114.229698,27.7136002,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-03,-114.18351,27.755558,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-05,-114.181313,27.7524872,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-07,-114.181129,27.7525368,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-09,-114.176758,27.7548923,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-11,-114.180367,27.7514877,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-13,-114.227753,27.707098,3D,-1000,G,OK,gps,Limnodromus griseus
-181625,2022-09-15,-114.180824,27.7522812,3D,-1000,G,OK,gps,Limnodromus griseus
-181626,2022-06-25,-151.0236816,61.2151184,,,,,gps,Limnodromus griseus
-181626,2022-06-30,-151.0254669,61.2136078,,,,,gps,Limnodromus griseus
-181626,2022-07-01,-151.0164337,61.2169609,,,,,gps,Limnodromus griseus
-181626,2022-07-03,-151.0173798,61.2163696,,,,,gps,Limnodromus griseus
-181626,2022-07-05,-151.0231476,61.2134781,,,,,gps,Limnodromus griseus
-181626,2022-07-07,-150.9237823,61.212429,,,,,gps,Limnodromus griseus
-181626,2022-07-09,-151.0228119,61.2134514,,,,,gps,Limnodromus griseus
-181626,2022-07-11,-151.0167389,61.1774864,,,,,gps,Limnodromus griseus
-181626,2022-07-13,-151.0287781,61.160511,,,,,gps,Limnodromus griseus
-181626,2022-07-15,-151.0168915,61.2146797,,,,,gps,Limnodromus griseus
-181626,2022-07-17,-151.0108032,61.1726723,,,,,gps,Limnodromus griseus
-181626,2022-07-19,-151.0174103,61.2150917,,,,,gps,Limnodromus griseus
-181626,2022-07-21,-150.993927,61.1770477,,,,,gps,Limnodromus griseus
-181626,2022-07-25,-151.025238,61.1660919,,,,,gps,Limnodromus griseus
-181626,2022-07-27,-151.0454407,61.1529617,,,,,gps,Limnodromus griseus
-181626,2022-07-29,-133.9013214,55.0538864,,,,,gps,Limnodromus griseus
-181626,2022-07-31,-124.0607605,46.9631615,,,,,gps,Limnodromus griseus
-181626,2022-08-02,-123.9701385,46.9679985,,,,,gps,Limnodromus griseus
-181626,2022-08-04,-123.9700317,46.9680519,,,,,gps,Limnodromus griseus
-181626,2022-08-06,-124.1243744,47.0322304,,,,,gps,Limnodromus griseus
-181626,2022-08-08,-124.0075378,46.9951363,,,,,gps,Limnodromus griseus
-181626,2022-08-10,-123.9607391,46.9670792,,,,,gps,Limnodromus griseus
-181626,2022-08-12,-123.9630966,46.9674873,,,,,gps,Limnodromus griseus
-181626,2022-08-14,-123.9621735,46.969101,,,,,gps,Limnodromus griseus
-181626,2022-08-16,-124.0647049,46.9100914,,,,,gps,Limnodromus griseus
-181626,2022-08-18,-122.4413071,38.1233521,,,,,gps,Limnodromus griseus
-181626,2022-08-20,-122.1248932,37.5963783,,,,,gps,Limnodromus griseus
-181626,2022-08-24,-122.1073303,37.616703,,,,,gps,Limnodromus griseus
-181626,2022-08-26,-122.1282654,37.6053123,,,,,gps,Limnodromus griseus
-181626,2022-08-28,-122.1326752,37.6030083,,,,,gps,Limnodromus griseus
-181626,2022-08-30,-122.1392517,37.6052361,,,,,gps,Limnodromus griseus
-181626,2022-09-01,-122.1407394,37.6041603,,,,,gps,Limnodromus griseus
-181626,2022-09-03,-122.231926,37.5120239,,,,,gps,Limnodromus griseus
-181626,2022-09-05,-122.2347107,37.511898,,,,,gps,Limnodromus griseus
-181626,2022-09-07,-122.2345581,37.5096703,,,,,gps,Limnodromus griseus
-181626,2022-09-11,-122.2326126,37.5092354,,,,,gps,Limnodromus griseus
-233811,2022-06-10,-151.0164795,61.2110214,,28,,,gps,Limnodromus griseus
-233811,2022-06-15,-151.0178986,61.2120438,,31,,,gps,Limnodromus griseus
-233811,2022-06-20,-151.01651,61.2118416,,36,,,gps,Limnodromus griseus
-233811,2022-06-25,-150.9169006,61.2119675,,15,,,gps,Limnodromus griseus
-233811,2022-06-30,-150.9184418,61.2128639,,2,,,gps,Limnodromus griseus
-233811,2022-07-01,-150.918457,61.2130432,,18,,,gps,Limnodromus griseus
-233811,2022-07-03,-150.9184418,61.2129936,,3,,,gps,Limnodromus griseus
-233811,2022-07-05,-151.0166931,61.2118416,,33,,,gps,Limnodromus griseus
-233811,2022-07-07,-150.1302643,60.7982483,,77,,,gps,Limnodromus griseus
-233811,2022-07-09,-146.3188171,59.4272652,,20,,,gps,Limnodromus griseus
-233811,2022-07-11,-146.318604,59.4272652,3D,16,G,OK,gps,Limnodromus griseus
-233811,2022-07-13,-146.39476,59.4036369,3D,19,G,OK,gps,Limnodromus griseus
-233811,2022-07-15,-146.386597,59.4110603,3D,19,C,OK(corrected),gps,Limnodromus griseus
-233811,2022-07-17,-146.377335,59.4103432,3D,30,C,OK(corrected),gps,Limnodromus griseus
-233811,2022-07-19,-146.377106,59.4083443,3D,21,G,OK,gps,Limnodromus griseus
-233811,2022-07-21,-120.645546,34.9635468,3D,-31,G,OK,gps,Limnodromus griseus
-233811,2022-07-23,-121.740608,36.8151436,3D,-27,G,OK,gps,Limnodromus griseus
-233811,2022-07-25,-121.789963,36.7923317,3D,-24,G,OK,gps,Limnodromus griseus
-233811,2022-07-27,-121.790398,36.7930222,3D,-33,G,OK,gps,Limnodromus griseus
-233811,2022-07-29,-121.791626,36.7894402,3D,-27,G,OK,gps,Limnodromus griseus
-233811,2022-07-31,-121.789452,36.7938423,3D,-25,G,OK,gps,Limnodromus griseus
-233811,2022-08-02,-121.789757,36.7933311,3D,-28,G,OK,gps,Limnodromus griseus
-233811,2022-08-04,-114.041718,27.6789627,3D,-26,G,OK,gps,Limnodromus griseus
-233811,2022-08-06,-109.37455,25.8487415,3D,-5,G,OK,gps,Limnodromus griseus
-233811,2022-08-08,-109.37233,25.8493824,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-08-10,-109.374832,25.8486137,3D,-25,G,OK,gps,Limnodromus griseus
-233811,2022-08-12,-109.373505,25.8501759,2D,0,G,OK,gps,Limnodromus griseus
-233811,2022-08-14,-109.375221,25.8483334,3D,-24,G,OK,gps,Limnodromus griseus
-233811,2022-08-16,-109.374863,25.8307972,3D,-11,G,OK,gps,Limnodromus griseus
-233811,2022-08-18,-109.360115,25.8091145,3D,-14,G,OK,gps,Limnodromus griseus
-233811,2022-08-20,-109.360603,25.8117752,3D,-21,G,OK,gps,Limnodromus griseus
-233811,2022-08-22,-109.359856,25.8091908,2D,0,G,OK,gps,Limnodromus griseus
-233811,2022-08-24,-109.360268,25.8116474,3D,-22,G,OK,gps,Limnodromus griseus
-233811,2022-08-26,-109.359604,25.8118782,3D,-1,G,OK,gps,Limnodromus griseus
-233811,2022-08-28,-109.367439,25.7987194,2D,0,G,OK,gps,Limnodromus griseus
-233811,2022-08-30,-109.357658,25.8090115,2D,0,G,OK,gps,Limnodromus griseus
-233811,2022-09-01,-109.353539,25.8208637,3D,-6,G,OK,gps,Limnodromus griseus
-233811,2022-09-03,-109.351997,25.8212223,3D,-19,G,OK,gps,Limnodromus griseus
-233811,2022-09-07,-109.359528,25.8262653,3D,-22,G,OK,gps,Limnodromus griseus
-233811,2022-09-09,-109.360603,25.8103161,3D,-22,G,OK,gps,Limnodromus griseus
-233811,2022-09-11,-109.359116,25.8119545,3D,-15,G,OK,gps,Limnodromus griseus
-233811,2022-09-13,-109.361931,25.8117752,3D,-18,G,OK,gps,Limnodromus griseus
-233811,2022-09-19,-109.379318,25.8609276,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-09-21,-109.366745,25.804327,3D,-19,G,OK,gps,Limnodromus griseus
-233811,2022-09-23,-109.365669,25.7950592,3D,16,G,OK,gps,Limnodromus griseus
-233811,2022-09-27,-109.383385,25.8642559,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-09-29,-109.396439,25.8718586,3D,-19,G,OK,gps,Limnodromus griseus
-233811,2022-10-01,-109.383286,25.8613625,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-10-03,-109.387253,25.8658943,3D,-16,C,OK(corrected),gps,Limnodromus griseus
-233811,2022-10-05,-109.38446,25.8633595,3D,8,C,OK(corrected),gps,Limnodromus griseus
-233811,2022-10-07,-109.388329,25.8492279,3D,-13,G,OK,gps,Limnodromus griseus
-233811,2022-10-09,-109.392784,25.8243713,3D,-16,G,OK,gps,Limnodromus griseus
-233811,2022-10-11,-109.367996,25.8037376,3D,-20,G,OK,gps,Limnodromus griseus
-233811,2022-10-13,-109.367081,25.8046856,3D,-22,G,OK,gps,Limnodromus griseus
-233811,2022-10-15,-109.367386,25.8037376,3D,-27,G,OK,gps,Limnodromus griseus
-233811,2022-10-17,-109.368439,25.8043003,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-10-19,-109.369125,25.810112,3D,-16,G,OK,gps,Limnodromus griseus
-233811,2022-10-21,-109.396515,25.8509178,3D,-17,G,OK,gps,Limnodromus griseus
-233811,2022-11-12,-109.397034,26.0121727,3D,-26,G,OK,gps,Limnodromus griseus
-233811,2022-11-17,-109.400589,26.006567,3D,-28,G,OK,gps,Limnodromus griseus
-233811,2022-11-22,-109.388428,26.0141449,3D,-24,G,OK,gps,Limnodromus griseus
-233811,2022-11-27,-109.385124,26.0046711,3D,-10,G,OK,gps,Limnodromus griseus
-233811,2022-12-02,-109.399696,26.0059013,3D,-29,G,OK,gps,Limnodromus griseus
-233811,2022-12-07,-109.393036,25.996582,3D,-25,G,OK,gps,Limnodromus griseus
-233811,2022-12-12,-109.409142,25.9908218,3D,-24,G,OK,gps,Limnodromus griseus
-233811,2022-12-17,-109.441986,26.7134075,3D,-28,G,OK,gps,Limnodromus griseus
-233811,2022-12-22,-109.443237,26.6902142,3D,-25,G,OK,gps,Limnodromus griseus
-233811,2022-12-27,-109.464767,26.6914692,3D,-21,G,OK,gps,Limnodromus griseus
-233811,2022-07-25,-121.78213,36.7793,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-08-10,-109.37144,25.84706,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-08-18,-109.35946,25.81076,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-08-26,-109.35229,25.80646,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-09-01,-109.33434,25.82472,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-09-09,-109.34853,25.80622,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-09-13,-109.38017,25.79481,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-10-01,-109.39916,25.86407,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-10-21,-109.39139,25.85122,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-12-07,-109.39523,25.99498,,,,,argos-doppler-shift,Limnodromus griseus
-233811,2022-12-27,-109.46364,26.70394,,,,,argos-doppler-shift,Limnodromus griseus
-233812,2022-06-10,-151.0220642,61.2099953,,34,,,gps,Limnodromus griseus
-233812,2022-06-15,-151.0181732,61.2113533,,45,,,gps,Limnodromus griseus
-233812,2022-06-20,-150.9458618,61.2221832,,10,,,gps,Limnodromus griseus
-233812,2022-06-25,-150.4843445,61.2573586,,46,,,gps,Limnodromus griseus
-233812,2022-06-30,-150.4850311,61.2575607,,16,,,gps,Limnodromus griseus
-233812,2022-07-01,-150.4837189,61.2575378,,20,,,gps,Limnodromus griseus
-233812,2022-07-03,-150.4834137,61.2571526,,12,,,gps,Limnodromus griseus
-233812,2022-07-05,-150.4874115,61.257946,,19,,,gps,Limnodromus griseus
-233812,2022-07-09,-150.4871826,61.257946,,12,,,gps,Limnodromus griseus
-233812,2022-07-11,-150.484955,61.2599411,3D,19,G,OK,gps,Limnodromus griseus
-233812,2022-07-13,-150.483063,61.2587395,3D,14,G,OK,gps,Limnodromus griseus
-233812,2022-07-15,-147.606003,60.9575539,3D,25,G,OK,gps,Limnodromus griseus
-233812,2022-07-17,-145.360123,60.2842484,3D,19,G,OK,gps,Limnodromus griseus
-233812,2022-07-19,-145.269257,60.342411,3D,23,G,OK,gps,Limnodromus griseus
-233812,2022-07-21,-145.329773,60.2831993,3D,-1,G,OK,gps,Limnodromus griseus
-233812,2022-07-23,-145.330368,60.2818451,2D,0,G,OK,gps,Limnodromus griseus
-233812,2022-07-25,-144.22731,60.1052284,3D,17,G,OK,gps,Limnodromus griseus
-233812,2022-07-27,-144.178497,60.1341057,3D,24,G,OK,gps,Limnodromus griseus
-233812,2022-07-29,-145.665543,60.3630981,3D,23,G,OK,gps,Limnodromus griseus
-233812,2022-07-31,-145.269089,60.342617,3D,23,G,OK,gps,Limnodromus griseus
-233812,2022-08-02,-145.431,60.3812981,3D,19,G,OK,gps,Limnodromus griseus
-233812,2022-08-04,-145.430878,60.3826065,3D,45,G,OK,gps,Limnodromus griseus
-233812,2022-08-06,-145.431381,60.3829117,3D,30,G,OK,gps,Limnodromus griseus
-233812,2022-08-12,-145.421021,60.3760757,3D,23,G,OK,gps,Limnodromus griseus
-233812,2022-08-14,-145.419205,60.3753853,2D,0,G,OK,gps,Limnodromus griseus
-233812,2022-08-16,-145.421036,60.3761024,3D,32,G,OK,gps,Limnodromus griseus
-233812,2022-08-18,-145.421478,60.3762817,2D,0,G,OK,gps,Limnodromus griseus
-233812,2022-08-22,-145.420837,60.3759995,3D,26,G,OK,gps,Limnodromus griseus
-233812,2022-08-24,-145.421097,60.3761292,3D,20,G,OK,gps,Limnodromus griseus
-233812,2022-08-28,-145.421066,60.3761024,3D,23,G,OK,gps,Limnodromus griseus
-233812,2022-08-30,-145.421097,60.3760757,3D,24,G,OK,gps,Limnodromus griseus
-233813,2022-06-10,-151.0160828,61.216526,,39,,,gps,Limnodromus griseus
-233813,2022-06-15,-151.0161743,61.2163963,,33,,,gps,Limnodromus griseus
-233813,2022-06-20,-151.0158691,61.2167282,,36,,,gps,Limnodromus griseus
-233813,2022-06-25,-150.9497681,61.195713,,8,,,gps,Limnodromus griseus
-233813,2022-06-30,-151.0314941,61.2091789,,37,,,gps,Limnodromus griseus
-233813,2022-07-01,-151.0453949,61.2058258,,31,,,gps,Limnodromus griseus
-233813,2022-07-03,-151.0218353,61.2128639,,35,,,gps,Limnodromus griseus
-233813,2022-07-05,-151.0703735,61.1756172,,49,,,gps,Limnodromus griseus
-233813,2022-07-07,-151.0318909,61.2125816,,34,,,gps,Limnodromus griseus
-233813,2022-07-09,-151.0333557,61.2115593,,37,,,gps,Limnodromus griseus
-233813,2022-07-11,-150.9958038,61.1841393,,21,,,gps,Limnodromus griseus
-233813,2022-07-13,-151.0410919,61.1537552,,10,,,gps,Limnodromus griseus
-233813,2022-07-15,-151.026108,61.2114296,3D,39,G,OK,gps,Limnodromus griseus
-233813,2022-07-17,-150.994598,61.178894,3D,14,G,OK,gps,Limnodromus griseus
-233813,2022-07-19,-151.025497,61.2110977,3D,38,G,OK,gps,Limnodromus griseus
-233813,2022-07-21,-150.994629,61.1774597,3D,13,G,OK,gps,Limnodromus griseus
-233813,2022-07-23,-150.950363,61.1980171,3D,11,G,OK,gps,Limnodromus griseus
-233813,2022-07-25,-150.990326,61.1812744,3D,12,G,OK,gps,Limnodromus griseus
-233813,2022-07-27,-151.025848,61.2122765,3D,40,G,OK,gps,Limnodromus griseus
-233813,2022-07-29,-150.991013,61.178688,3D,11,G,OK,gps,Limnodromus griseus
-233813,2022-07-31,-150.990555,61.1792259,3D,16,G,OK,gps,Limnodromus griseus
-233813,2022-08-04,-145.440063,60.3856773,3D,19,G,OK,gps,Limnodromus griseus
-233813,2022-08-06,-145.456085,60.3929214,3D,111,G,OK,gps,Limnodromus griseus
-233813,2022-08-08,-145.488525,60.4000626,3D,35,G,OK,gps,Limnodromus griseus
-233813,2022-08-10,-145.458984,60.3684464,3D,20,G,OK,gps,Limnodromus griseus
-233813,2022-08-12,-145.457428,60.3726196,3D,24,G,OK,gps,Limnodromus griseus
-233813,2022-08-14,-145.45932,60.3891068,3D,29,G,OK,gps,Limnodromus griseus
-233813,2022-08-16,-145.457428,60.3726196,3D,24,G,OK,gps,Limnodromus griseus
-233813,2022-08-18,-145.457397,60.3726196,3D,21,G,OK,gps,Limnodromus griseus
-233813,2022-08-20,-145.457504,60.372673,3D,19,G,OK,gps,Limnodromus griseus
-233813,2022-08-22,-145.489365,60.4001656,3D,31,G,OK,gps,Limnodromus griseus
-233813,2022-08-24,-144.884567,60.3204994,3D,246,G,OK,gps,Limnodromus griseus
-233813,2022-08-28,-119.194511,43.2516975,3D,1236,G,OK,gps,Limnodromus griseus
-233813,2022-09-07,-118.811378,43.2952461,3D,1230,G,OK,gps,Limnodromus griseus
-233813,2022-09-09,-118.792923,43.2988014,3D,1235,G,OK,gps,Limnodromus griseus
-233813,2022-09-11,-119.237389,43.2450676,3D,1240,G,OK,gps,Limnodromus griseus
-233813,2022-09-13,-119.261963,43.2606087,3D,1241,G,OK,gps,Limnodromus griseus
-233813,2022-09-15,-119.085175,43.2470131,3D,1237,G,OK,gps,Limnodromus griseus
-233813,2022-09-17,-114.389465,36.1287041,3D,299,G,OK,gps,Limnodromus griseus
-233813,2022-09-19,-114.474022,36.1036148,3D,300,G,OK,gps,Limnodromus griseus
-233813,2022-09-21,-114.473869,36.1038971,3D,301,G,OK,gps,Limnodromus griseus
-233813,2022-09-23,-114.473846,36.1039238,3D,301,G,OK,gps,Limnodromus griseus
-233813,2022-09-25,-112.313766,29.3374329,3D,-18,G,OK,gps,Limnodromus griseus
-233813,2022-09-27,-112.300606,29.3343353,3D,-22,G,OK,gps,Limnodromus griseus
-233813,2022-09-29,-112.30806,29.3296509,3D,-20,G,OK,gps,Limnodromus griseus
-233813,2022-10-01,-111.832741,28.7736969,3D,-21,G,OK,gps,Limnodromus griseus
-233813,2022-10-03,-111.44529,28.3768711,3D,-19,G,OK,gps,Limnodromus griseus
-233813,2022-10-05,-111.391808,28.3683453,3D,-14,G,OK,gps,Limnodromus griseus
-233813,2022-10-07,-111.855476,28.7721081,3D,-20,G,OK,gps,Limnodromus griseus
-233813,2022-10-09,-111.856499,28.7716217,3D,-18,G,OK,gps,Limnodromus griseus
-233813,2022-10-11,-111.892494,28.7794552,3D,-21,G,OK,gps,Limnodromus griseus
-233813,2022-10-13,-111.91256,28.8049793,3D,-25,G,OK,gps,Limnodromus griseus
-233813,2022-10-15,-111.406448,28.3638916,3D,-23,G,OK,gps,Limnodromus griseus
-233813,2022-10-19,-111.402176,28.3614845,3D,-22,G,OK,gps,Limnodromus griseus
-233813,2022-10-23,-111.392548,28.367424,3D,-33,G,OK,gps,Limnodromus griseus
-233813,2022-10-25,-111.403709,28.3667831,3D,-23,G,OK,gps,Limnodromus griseus
-233813,2022-10-27,-111.401382,28.3656311,3D,-20,G,OK,gps,Limnodromus griseus
-233813,2022-10-29,-111.436554,28.3667583,3D,-17,G,OK,gps,Limnodromus griseus
-233813,2022-10-31,-111.448128,28.3620224,3D,-20,G,OK,gps,Limnodromus griseus
-233813,2022-11-02,-111.400848,28.3521156,3D,-17,G,OK,gps,Limnodromus griseus
-233813,2022-11-07,-111.400871,28.3520641,3D,-24,G,OK,gps,Limnodromus griseus
-233813,2022-11-12,-111.400848,28.3520641,3D,-27,G,OK,gps,Limnodromus griseus
-233813,2022-11-17,-111.400871,28.3520889,3D,-29,G,OK,gps,Limnodromus griseus
-233813,2022-11-22,-111.400848,28.3521156,3D,-19,G,OK,gps,Limnodromus griseus
-233813,2022-11-27,-111.400871,28.3521156,3D,-26,G,OK,gps,Limnodromus griseus
-233813,2022-12-07,-111.400871,28.3521156,3D,-31,G,OK,gps,Limnodromus griseus
-233813,2022-12-12,-111.400818,28.3520889,3D,-23,G,OK,gps,Limnodromus griseus
-233813,2022-12-17,-111.400871,28.3520889,3D,-30,G,OK,gps,Limnodromus griseus
-233813,2022-12-22,-111.400848,28.3520889,3D,-29,G,OK,gps,Limnodromus griseus
-233813,2022-12-27,-111.40097,28.3520393,3D,3,G,OK,gps,Limnodromus griseus
-233813,2023-01-01,-111.400894,28.3520889,3D,-18,G,OK,gps,Limnodromus griseus
-233813,2023-01-06,-111.400871,28.3521156,3D,-24,G,OK,gps,Limnodromus griseus
-233813,2023-01-11,-111.400871,28.3521156,3D,-27,G,OK,gps,Limnodromus griseus
-233813,2023-01-16,-111.400894,28.3521671,3D,-28,G,OK,gps,Limnodromus griseus
-233813,2023-01-21,-111.400818,28.3520889,3D,-24,G,OK,gps,Limnodromus griseus
-233813,2022-08-26,-145.486481,60.4006004,3D,25,C,OK(corrected),gps,Limnodromus griseus
-233813,2022-10-21,-111.392471,28.3677559,3D,-23,C,OK(corrected),gps,Limnodromus griseus
-233813,2022-12-02,-111.400871,28.3520889,3D,-21,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-06-05,-156.678772,58.682663,,21,,,gps,Limnodromus griseus
-233815,2022-06-10,-156.7088013,58.7091331,,42,,,gps,Limnodromus griseus
-233815,2022-06-15,-156.719574,58.7166061,,43,,,gps,Limnodromus griseus
-233815,2022-06-20,-156.7463531,58.7210884,,43,,,gps,Limnodromus griseus
-233815,2022-06-25,-156.7435455,58.7207794,,38,,,gps,Limnodromus griseus
-233815,2022-06-30,-156.7436371,58.7190666,,38,,,gps,Limnodromus griseus
-233815,2022-07-01,-156.7348938,58.7228546,,37,,,gps,Limnodromus griseus
-233815,2022-07-03,-156.849823,58.7716217,,51,,,gps,Limnodromus griseus
-233815,2022-07-05,-156.849823,58.7721863,,50,,,gps,Limnodromus griseus
-233815,2022-07-07,-156.848938,58.7674751,,58,,,gps,Limnodromus griseus
-233815,2022-07-09,-156.840973,58.7657585,3D,52,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-07-11,-156.848526,58.7665291,3D,51,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-07-13,-122.860916,38.0376701,3D,542,G,OK,gps,Limnodromus griseus
-233815,2022-07-15,-117.104988,32.6097031,3D,-22,G,OK,gps,Limnodromus griseus
-233815,2022-07-17,-117.109879,32.6364784,3D,-23,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-07-19,-117.111488,32.6374016,3D,-26,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-07-21,-117.111206,32.6483841,3D,-22,G,OK,gps,Limnodromus griseus
-233815,2022-07-23,-117.10936,32.6488686,3D,-32,G,OK,gps,Limnodromus griseus
-233815,2022-07-25,-117.129486,32.6076279,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-07-27,-117.097893,32.6180725,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-07-29,-114.065269,27.6838779,3D,-31,G,OK,gps,Limnodromus griseus
-233815,2022-08-02,-114.073257,27.6776314,3D,-36,G,OK,gps,Limnodromus griseus
-233815,2022-08-04,-114.059433,27.6816521,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-08-06,-114.057487,27.679142,3D,-3,G,OK,gps,Limnodromus griseus
-233815,2022-08-08,-114.059151,27.679987,3D,-18,G,OK,gps,Limnodromus griseus
-233815,2022-08-10,-114.063889,27.68713,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-08-12,-114.040077,27.6846714,3D,-18,G,OK,gps,Limnodromus griseus
-233815,2022-08-14,-114.06015,27.6923256,3D,-31,G,OK,gps,Limnodromus griseus
-233815,2022-08-16,-114.079529,27.680397,3D,-22,G,OK,gps,Limnodromus griseus
-233815,2022-08-18,-114.07914,27.6803207,3D,-11,G,OK,gps,Limnodromus griseus
-233815,2022-08-20,-114.070389,27.6844921,3D,-29,G,OK,gps,Limnodromus griseus
-233815,2022-08-22,-114.064011,27.6872311,3D,-31,G,OK,gps,Limnodromus griseus
-233815,2022-08-24,-114.065834,27.6834431,3D,-34,G,OK,gps,Limnodromus griseus
-233815,2022-08-26,-114.065704,27.6832638,3D,-33,G,OK,gps,Limnodromus griseus
-233815,2022-08-28,-114.081367,27.6775551,3D,-19,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-08-30,-114.064011,27.6837769,3D,-13,G,OK,gps,Limnodromus griseus
-233815,2022-09-01,-114.078705,27.6796799,3D,-13,G,OK,gps,Limnodromus griseus
-233815,2022-09-03,-114.065346,27.6851845,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-09-05,-114.060402,27.671257,3D,-33,G,OK,gps,Limnodromus griseus
-233815,2022-09-07,-114.065315,27.685236,3D,-17,G,OK,gps,Limnodromus griseus
-233815,2022-09-09,-114.064781,27.6834431,3D,-34,G,OK,gps,Limnodromus griseus
-233815,2022-09-11,-114.065117,27.6825218,3D,-16,G,OK,gps,Limnodromus griseus
-233815,2022-09-13,-114.065521,27.682394,3D,-26,G,OK,gps,Limnodromus griseus
-233815,2022-09-15,-114.054108,27.6880264,3D,-21,G,OK,gps,Limnodromus griseus
-233815,2022-09-17,-114.065292,27.6854649,3D,-20,G,OK,gps,Limnodromus griseus
-233815,2022-09-19,-114.064629,27.6843128,3D,-28,G,OK,gps,Limnodromus griseus
-233815,2022-09-21,-114.064911,27.6847744,3D,-20,G,OK,gps,Limnodromus griseus
-233815,2022-09-23,-114.067825,27.6817017,3D,-22,G,OK,gps,Limnodromus griseus
-233815,2022-09-25,-114.080215,27.6758919,3D,-28,G,OK,gps,Limnodromus griseus
-233815,2022-09-27,-114.074379,27.6787319,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-09-29,-114.06514,27.6802692,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-10-01,-114.062042,27.6857986,3D,-22,G,OK,gps,Limnodromus griseus
-233815,2022-10-03,-114.039024,27.6621189,3D,-19,G,OK,gps,Limnodromus griseus
-233815,2022-10-05,-114.064957,27.6844921,3D,-12,G,OK,gps,Limnodromus griseus
-233815,2022-10-07,-114.03936,27.6897926,3D,-13,G,OK,gps,Limnodromus griseus
-233815,2022-10-09,-114.091148,27.6785278,3D,4,G,OK,gps,Limnodromus griseus
-233815,2022-10-11,-114.085648,27.6824951,3D,-3,G,OK,gps,Limnodromus griseus
-233815,2022-10-13,-113.996864,27.6618366,3D,-21,G,OK,gps,Limnodromus griseus
-233815,2022-10-15,-114.074051,27.6770172,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-10-17,-114.051414,27.6797047,3D,-23,G,OK,gps,Limnodromus griseus
-233815,2022-10-21,-114.069748,27.6612225,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-10-23,-114.079193,27.6542587,3D,-28,G,OK,gps,Limnodromus griseus
-233815,2022-10-25,-114.065956,27.6939907,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-10-27,-114.049828,27.6519032,3D,-25,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-10-29,-113.995789,27.6619911,3D,-23,G,OK,gps,Limnodromus griseus
-233815,2022-10-31,-114.008362,27.6627064,3D,-21,G,OK,gps,Limnodromus griseus
-233815,2022-11-02,-114.051186,27.6805,3D,-26,G,OK,gps,Limnodromus griseus
-233815,2022-11-07,-114.086128,27.6730232,3D,-14,G,OK,gps,Limnodromus griseus
-233815,2022-11-12,-114.048241,27.6535416,3D,-27,G,OK,gps,Limnodromus griseus
-233815,2022-11-17,-114.047501,27.6525955,3D,-30,G,OK,gps,Limnodromus griseus
-233815,2022-11-22,-114.086235,27.6723843,3D,-26,G,OK,gps,Limnodromus griseus
-233815,2022-11-27,-114.049858,27.6817017,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-12-02,-114.064423,27.6828041,3D,-29,G,OK,gps,Limnodromus griseus
-233815,2022-12-07,-114.087746,27.6789112,3D,-34,G,OK,gps,Limnodromus griseus
-233815,2022-12-12,-114.049881,27.6907387,3D,-28,G,OK,gps,Limnodromus griseus
-233815,2022-12-17,-114.075996,27.6838779,3D,-25,G,OK,gps,Limnodromus griseus
-233815,2022-12-22,-114.085289,27.6776066,3D,-30,C,OK(corrected),gps,Limnodromus griseus
-233815,2022-12-27,-114.082314,27.6814213,3D,-30,G,OK,gps,Limnodromus griseus
-233815,2023-01-11,-114.075172,27.6595592,3D,-31,G,OK,gps,Limnodromus griseus
-233815,2023-01-16,-114.063934,27.6754055,3D,-20,G,OK,gps,Limnodromus griseus
-233816,2022-06-05,-156.7175598,58.7134094,,40,,,gps,Limnodromus griseus
-233816,2022-06-10,-156.7113342,58.7135353,,42,,,gps,Limnodromus griseus
-233816,2022-06-15,-156.713562,58.7142525,,45,,,gps,Limnodromus griseus
-233816,2022-06-20,-156.7127991,58.7142029,,42,,,gps,Limnodromus griseus
-233816,2022-06-25,-156.7107239,58.7146378,,42,,,gps,Limnodromus griseus
-233816,2022-06-30,-156.9972076,58.8073845,,27,,,gps,Limnodromus griseus
-233816,2022-07-01,-156.9969025,58.8074112,,24,,,gps,Limnodromus griseus
-233816,2022-07-03,-157.0128021,58.8027267,,24,,,gps,Limnodromus griseus
-233816,2022-07-05,-157.0827942,58.7448196,,18,,,gps,Limnodromus griseus
-233816,2022-07-07,-157.0820007,58.7463036,,32,,,gps,Limnodromus griseus
-233816,2022-07-09,-157.081924,58.7421074,3D,16,G,OK,gps,Limnodromus griseus
-233816,2022-07-11,-157.082352,58.7428474,3D,23,G,OK,gps,Limnodromus griseus
-233816,2022-07-15,-120.84433,35.3407097,3D,-27,G,OK,gps,Limnodromus griseus
-233816,2022-07-17,-120.843124,35.3417091,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-07-19,-120.842583,35.3436546,3D,-21,G,OK,gps,Limnodromus griseus
-233816,2022-07-21,-120.842766,35.3437576,3D,-30,G,OK,gps,Limnodromus griseus
-233816,2022-07-23,-120.843658,35.3442955,3D,-27,G,OK,gps,Limnodromus griseus
-233816,2022-07-25,-110.341133,27.1929989,3D,-19,G,OK,gps,Limnodromus griseus
-233816,2022-07-27,-109.776245,26.7705212,3D,-25,G,OK,gps,Limnodromus griseus
-233816,2022-07-29,-109.773811,26.7693958,3D,-20,G,OK,gps,Limnodromus griseus
-233816,2022-07-31,-109.822655,26.787878,3D,-20,G,OK,gps,Limnodromus griseus
-233816,2022-08-02,-109.776344,26.7682953,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-08-06,-109.780952,26.7666302,3D,-28,G,OK,gps,Limnodromus griseus
-233816,2022-08-08,-109.823273,26.7876472,3D,-16,G,OK,gps,Limnodromus griseus
-233816,2022-08-10,-109.811264,26.7901573,3D,-22,G,OK,gps,Limnodromus griseus
-233816,2022-08-12,-109.821556,26.7870083,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-08-14,-109.823502,26.7883129,3D,-14,G,OK,gps,Limnodromus griseus
-233816,2022-08-18,-109.824547,26.7869816,3D,-14,G,OK,gps,Limnodromus griseus
-233816,2022-08-20,-109.823753,26.787878,3D,-18,G,OK,gps,Limnodromus griseus
-233816,2022-08-22,-109.823318,26.7869568,3D,-19,G,OK,gps,Limnodromus griseus
-233816,2022-08-24,-109.824371,26.7873669,3D,-21,G,OK,gps,Limnodromus griseus
-233816,2022-08-26,-109.82296,26.7874947,3D,-26,G,OK,gps,Limnodromus griseus
-233816,2022-08-28,-109.82235,26.7876472,3D,-20,G,OK,gps,Limnodromus griseus
-233816,2022-08-30,-109.824806,26.7863426,3D,-26,G,OK,gps,Limnodromus griseus
-233816,2022-09-01,-109.821732,26.7871876,3D,-21,G,OK,gps,Limnodromus griseus
-233816,2022-09-03,-109.819305,26.7868538,2D,0,G,OK,gps,Limnodromus griseus
-233816,2022-09-05,-109.823166,26.7872124,3D,-19,G,OK,gps,Limnodromus griseus
-233816,2022-09-07,-109.804787,26.8004475,3D,-28,G,OK,gps,Limnodromus griseus
-233816,2022-09-09,-109.814156,26.7872391,3D,-19,G,OK,gps,Limnodromus griseus
-233816,2022-09-11,-109.821915,26.7870331,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-09-13,-109.811928,26.7866745,3D,-17,G,OK,gps,Limnodromus griseus
-233816,2022-09-15,-109.811958,26.786726,3D,-15,G,OK,gps,Limnodromus griseus
-233816,2022-09-17,-109.811699,26.7958908,3D,-10,G,OK,gps,Limnodromus griseus
-233816,2022-09-19,-109.803223,26.7963257,3D,-22,G,OK,gps,Limnodromus griseus
-233816,2022-09-21,-109.826851,26.7943802,3D,-21,G,OK,gps,Limnodromus griseus
-233816,2022-09-23,-109.81295,26.7754879,3D,-17,G,OK,gps,Limnodromus griseus
-233816,2022-09-25,-109.823296,26.7868805,3D,-23,G,OK,gps,Limnodromus griseus
-233816,2022-09-27,-109.813339,26.7750015,3D,-19,G,OK,gps,Limnodromus griseus
-233816,2022-09-29,-109.807884,26.7971458,3D,-16,G,OK,gps,Limnodromus griseus
-233816,2022-10-01,-109.824753,26.7839108,3D,0,G,OK,gps,Limnodromus griseus
-233816,2022-10-03,-109.819939,26.7862148,2D,0,G,OK,gps,Limnodromus griseus
-233816,2022-10-05,-109.833435,26.7780743,3D,-16,G,OK,gps,Limnodromus griseus
-233816,2022-10-07,-109.813797,26.7733631,3D,-23,G,OK,gps,Limnodromus griseus
-233816,2022-10-09,-109.810677,26.7956104,3D,-18,G,OK,gps,Limnodromus griseus
-233816,2022-10-15,-109.814926,26.7725182,3D,-17,G,OK,gps,Limnodromus griseus
-233816,2022-10-17,-109.824654,26.7746181,3D,-28,G,OK,gps,Limnodromus griseus
-233816,2022-10-19,-109.833641,26.7785091,3D,-17,G,OK,gps,Limnodromus griseus
-233816,2022-10-21,-109.743805,26.7300987,3D,0,G,OK,gps,Limnodromus griseus
-233816,2022-10-23,-109.831718,26.7820168,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-10-25,-109.83149,26.7790203,3D,-23,G,OK,gps,Limnodromus griseus
-233816,2022-10-27,-109.82975,26.782196,2D,0,G,OK,gps,Limnodromus griseus
-233816,2022-10-29,-109.738945,26.7352962,3D,-4,G,OK,gps,Limnodromus griseus
-233816,2022-11-02,-109.744652,26.7405434,3D,-23,G,OK,gps,Limnodromus griseus
-233816,2022-11-07,-109.596535,26.7146111,3D,-22,G,OK,gps,Limnodromus griseus
-233816,2022-11-12,-109.511284,26.7029629,3D,-22,G,OK,gps,Limnodromus griseus
-233816,2022-11-17,-109.597168,26.7129726,3D,-31,G,OK,gps,Limnodromus griseus
-233816,2022-11-27,-109.51062,26.6983299,3D,-29,G,OK,gps,Limnodromus griseus
-233816,2022-12-02,-109.542976,26.7065468,3D,-26,G,OK,gps,Limnodromus griseus
-233816,2022-12-07,-109.512283,26.7033463,3D,-15,G,OK,gps,Limnodromus griseus
-233816,2022-12-12,-109.510796,26.7027836,3D,-28,G,OK,gps,Limnodromus griseus
-233816,2022-12-17,-109.503754,26.7266693,3D,-26,G,OK,gps,Limnodromus griseus
-233816,2023-01-01,-109.501862,26.7299709,3D,-23,G,OK,gps,Limnodromus griseus
-233816,2023-01-06,-109.511459,26.701479,3D,-24,G,OK,gps,Limnodromus griseus
-233816,2022-08-16,-109.821091,26.7867775,3D,-21,C,OK(corrected),gps,Limnodromus griseus
-233816,2022-10-11,-109.817329,26.7692165,3D,-21,C,OK(corrected),gps,Limnodromus griseus
-233816,2022-10-13,-109.814514,26.7738743,3D,-20,C,OK(corrected),gps,Limnodromus griseus
-233816,2022-10-31,-109.735741,26.7359352,3D,-21,C,OK(corrected),gps,Limnodromus griseus
-233816,2022-12-27,-109.505501,26.7224712,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233816,2023-01-11,-109.513535,26.6892414,3D,-26,C,OK(corrected),gps,Limnodromus griseus
-233817,2022-06-05,-156.7088013,58.7091064,,40,,,gps,Limnodromus griseus
-233817,2022-06-10,-156.7088013,58.709671,,42,,,gps,Limnodromus griseus
-233817,2022-06-15,-156.7087708,58.7091331,,42,,,gps,Limnodromus griseus
-233817,2022-06-20,-156.7304535,58.7205238,,42,,,gps,Limnodromus griseus
-233817,2022-06-25,-156.7137451,58.7236481,,40,,,gps,Limnodromus griseus
-233817,2022-06-30,-156.7302551,58.7204208,,39,,,gps,Limnodromus griseus
-233817,2022-07-01,-156.7291565,58.7199097,,37,,,gps,Limnodromus griseus
-233817,2022-07-03,-156.7302246,58.7204475,,37,,,gps,Limnodromus griseus
-233817,2022-07-05,-142.8343201,49.2754555,,1297,,,gps,Limnodromus griseus
-233817,2022-07-07,-123.8762589,40.7041168,,1363,,,gps,Limnodromus griseus
-233817,2022-07-09,-122.216232,37.7471619,3D,-29,G,OK,gps,Limnodromus griseus
-233817,2022-07-11,-122.216919,37.7470856,3D,-21,G,OK,gps,Limnodromus griseus
-233817,2022-07-13,-122.215332,37.746521,3D,-20,G,OK,gps,Limnodromus griseus
-233817,2022-07-15,-122.215408,37.7442436,3D,-21,G,OK,gps,Limnodromus griseus
-233817,2022-07-17,-122.216331,37.7468796,3D,-22,G,OK,gps,Limnodromus griseus
-233817,2022-07-19,-117.097847,32.6181488,3D,-22,G,OK,gps,Limnodromus griseus
-233817,2022-07-23,-112.198128,28.9735031,3D,-27,G,OK,gps,Limnodromus griseus
-233817,2022-07-25,-112.195442,28.9736328,3D,-32,G,OK,gps,Limnodromus griseus
-233817,2022-07-27,-111.907646,28.8271751,3D,-26,G,OK,gps,Limnodromus griseus
-233817,2022-07-29,-111.906677,28.8270473,3D,-24,G,OK,gps,Limnodromus griseus
-233817,2022-07-31,-111.907188,28.8273544,3D,-28,G,OK,gps,Limnodromus griseus
-233817,2022-08-02,-111.908211,28.8269176,3D,-30,G,OK,gps,Limnodromus griseus
-233817,2022-08-04,-107.944176,24.7619705,3D,-18,G,OK,gps,Limnodromus griseus
-233817,2022-08-06,-107.652412,24.5047932,3D,-19,G,OK,gps,Limnodromus griseus
-233817,2022-08-08,-107.670647,24.528244,3D,-11,G,OK,gps,Limnodromus griseus
-233817,2022-08-10,-107.659813,24.5505409,3D,-24,G,OK,gps,Limnodromus griseus
-233817,2022-08-12,-107.662857,24.5321865,3D,-17,G,OK,gps,Limnodromus griseus
-233817,2022-08-14,-107.656746,24.534029,3D,-18,G,OK,gps,Limnodromus griseus
-233817,2022-08-16,-107.656975,24.5400696,3D,-18,G,OK,gps,Limnodromus griseus
-233817,2022-08-18,-107.666496,24.5419388,3D,-7,G,OK,gps,Limnodromus griseus
-233817,2022-08-20,-107.911255,24.7649403,3D,-20,G,OK,gps,Limnodromus griseus
-233817,2022-08-22,-107.968086,24.7571068,3D,-1,G,OK,gps,Limnodromus griseus
-233817,2022-08-24,-107.967888,24.7569542,3D,-17,G,OK,gps,Limnodromus griseus
-233817,2022-08-28,-107.967812,24.7572346,3D,-15,G,OK,gps,Limnodromus griseus
-233817,2022-09-05,-107.966476,24.7604351,3D,-21,G,OK,gps,Limnodromus griseus
-233817,2022-07-21,-112.195824,28.9739132,3D,-27,C,OK(corrected),gps,Limnodromus griseus
-233817,2022-08-26,-107.914505,24.7670135,3D,-6,C,OK(corrected),gps,Limnodromus griseus
-233817,2022-09-03,-107.967934,24.7571068,3D,-27,C,OK(corrected),gps,Limnodromus griseus
-233818,2022-06-05,-156.7175293,58.7133827,,38,,,gps,Limnodromus griseus
-233818,2022-06-10,-156.7113342,58.7135353,,43,,,gps,Limnodromus griseus
-233818,2022-06-15,-156.7233124,58.6617966,,36,,,gps,Limnodromus griseus
-233818,2022-06-20,-157.6691132,57.5168915,,25,,,gps,Limnodromus griseus
-233818,2022-06-25,-157.6623993,57.5095406,,26,,,gps,Limnodromus griseus
-233818,2022-06-30,-156.7095947,58.7403374,,39,,,gps,Limnodromus griseus
-233818,2022-07-01,-156.6776886,58.7373428,,42,,,gps,Limnodromus griseus
-233818,2022-07-03,-157.0317383,58.9485435,,28,,,gps,Limnodromus griseus
-233818,2022-07-05,-157.0393677,58.9240723,,25,,,gps,Limnodromus griseus
-233818,2022-07-07,-157.0307465,58.9217682,,4,,,gps,Limnodromus griseus
-233818,2022-07-09,-157.035049,58.9256592,3D,22,G,OK,gps,Limnodromus griseus
-233818,2022-07-11,-156.989532,58.8614006,3D,23,G,OK,gps,Limnodromus griseus
-233818,2022-07-13,-124.116394,40.8461685,3D,-27,G,OK,gps,Limnodromus griseus
-233818,2022-07-17,-124.171326,40.8279419,3D,-21,G,OK,gps,Limnodromus griseus
-233818,2022-07-19,-124.169205,40.8176765,3D,-20,G,OK,gps,Limnodromus griseus
-233818,2022-07-21,-124.170563,40.8300171,3D,-20,G,OK,gps,Limnodromus griseus
-233818,2022-07-25,-114.063217,28.1512833,3D,-30,G,OK,gps,Limnodromus griseus
-233818,2022-07-27,-114.053749,28.1579647,3D,-27,G,OK,gps,Limnodromus griseus
-233818,2022-07-29,-114.236938,27.7004414,3D,-28,G,OK,gps,Limnodromus griseus
-233818,2022-07-31,-114.23671,27.7009277,3D,-32,G,OK,gps,Limnodromus griseus
-233818,2022-08-02,-114.229721,27.7087097,3D,-32,G,OK,gps,Limnodromus griseus
-233818,2022-08-04,-114.237526,27.7007751,3D,-27,G,OK,gps,Limnodromus griseus
-233818,2022-08-06,-114.24247,27.7017727,3D,-27,G,OK,gps,Limnodromus griseus
-233818,2022-08-08,-114.240982,27.7014904,3D,-29,G,OK,gps,Limnodromus griseus
-233818,2022-08-10,-114.236687,27.6999035,3D,-31,G,OK,gps,Limnodromus griseus
-233818,2022-08-12,-114.236458,27.7011833,3D,-32,G,OK,gps,Limnodromus griseus
-233818,2022-08-14,-114.234482,27.7013378,3D,-32,G,OK,gps,Limnodromus griseus
-233818,2022-08-16,-114.236534,27.700058,3D,-23,G,OK,gps,Limnodromus griseus
-233818,2022-08-18,-114.239754,27.699852,3D,-29,G,OK,gps,Limnodromus griseus
-233818,2022-08-20,-114.239502,27.699852,3D,-26,G,OK,gps,Limnodromus griseus
-233818,2022-08-22,-114.236275,27.7002888,3D,-35,G,OK,gps,Limnodromus griseus
-233818,2022-08-24,-114.236427,27.700058,3D,-28,G,OK,gps,Limnodromus griseus
-233818,2022-08-26,-114.235939,27.7014408,3D,-34,G,OK,gps,Limnodromus griseus
-233818,2022-08-28,-114.224861,27.7062531,3D,-28,G,OK,gps,Limnodromus griseus
-233818,2022-08-30,-114.236816,27.6998272,2D,0,G,OK,gps,Limnodromus griseus
-233818,2022-09-01,-114.236481,27.6996727,3D,-24,G,OK,gps,Limnodromus griseus
-233818,2022-09-03,-114.243111,27.7020283,3D,-31,G,OK,gps,Limnodromus griseus
-233818,2022-09-05,-114.244034,27.7008514,3D,-27,G,OK,gps,Limnodromus griseus
-233818,2022-09-07,-114.237122,27.7006969,3D,-28,G,OK,gps,Limnodromus griseus
-233818,2022-09-09,-114.244003,27.704998,3D,-23,G,OK,gps,Limnodromus griseus
-233818,2022-09-11,-114.237251,27.7023354,3D,-33,G,OK,gps,Limnodromus griseus
-233818,2022-09-13,-114.222961,27.709734,3D,-22,G,OK,gps,Limnodromus griseus
-233818,2022-09-15,-114.228157,27.7123203,3D,-24,G,OK,gps,Limnodromus griseus
-233818,2022-09-19,-114.236427,27.7000828,3D,-17,G,OK,gps,Limnodromus griseus
-233818,2022-09-23,-114.23661,27.699955,3D,-13,G,OK,gps,Limnodromus griseus
-233818,2022-09-25,-114.227264,27.7052803,3D,-25,G,OK,gps,Limnodromus griseus
-233818,2022-09-27,-114.224655,27.7064571,3D,-25,G,OK,gps,Limnodromus griseus
-233818,2022-07-15,-124.174324,40.8222084,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233818,2022-07-23,-124.155075,40.8580208,3D,-22,C,OK(corrected),gps,Limnodromus griseus
-233818,2022-09-17,-114.239426,27.6994686,3D,-20,C,OK(corrected),gps,Limnodromus griseus
-233818,2022-09-29,-114.254196,27.7097092,2D,0,C,OK(corrected),gps,Limnodromus griseus
-233818,2022-10-03,-114.254608,27.7097607,3D,-3,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-06-05,-156.6592407,58.709671,,32,,,gps,Limnodromus griseus
-233819,2022-06-10,-156.9867859,58.7485809,,0,,,gps,Limnodromus griseus
-233819,2022-06-15,-156.8725128,58.6745987,,46,,,gps,Limnodromus griseus
-233819,2022-06-20,-157.0854034,58.751194,,20,,,gps,Limnodromus griseus
-233819,2022-06-25,-157.0733185,58.7415924,,21,,,gps,Limnodromus griseus
-233819,2022-06-30,-156.9961395,58.8089218,,23,,,gps,Limnodromus griseus
-233819,2022-07-01,-156.9962158,58.8089981,,25,,,gps,Limnodromus griseus
-233819,2022-07-03,-156.998642,58.8085136,,23,,,gps,Limnodromus griseus
-233819,2022-07-05,-157.0778198,58.746254,,24,,,gps,Limnodromus griseus
-233819,2022-07-07,-157.0675812,58.7454834,,19,,,gps,Limnodromus griseus
-233819,2022-07-11,-157.009811,58.8045425,3D,24,G,OK,gps,Limnodromus griseus
-233819,2022-07-13,-123.200729,36.3498116,3D,757,G,OK,gps,Limnodromus griseus
-233819,2022-07-17,-117.09951,32.6191483,3D,-34,G,OK,gps,Limnodromus griseus
-233819,2022-07-19,-117.097969,32.6184311,3D,-23,G,OK,gps,Limnodromus griseus
-233819,2022-07-23,-117.106674,32.6130829,3D,-29,G,OK,gps,Limnodromus griseus
-233819,2022-07-25,-117.115997,32.6465149,3D,-28,G,OK,gps,Limnodromus griseus
-233819,2022-07-27,-117.114944,32.6471291,3D,-26,G,OK,gps,Limnodromus griseus
-233819,2022-07-29,-113.921906,31.6261253,3D,-28,G,OK,gps,Limnodromus griseus
-233819,2022-07-31,-113.926231,31.6220036,3D,-25,G,OK,gps,Limnodromus griseus
-233819,2022-08-02,-113.925415,31.6235142,3D,-24,G,OK,gps,Limnodromus griseus
-233819,2022-08-04,-113.922829,31.6229,3D,-20,G,OK,gps,Limnodromus griseus
-233819,2022-08-06,-113.909798,31.6243076,3D,-32,G,OK,gps,Limnodromus griseus
-233819,2022-08-08,-113.922829,31.6272774,2D,0,G,OK,gps,Limnodromus griseus
-233819,2022-08-10,-113.922546,31.6268158,3D,-22,G,OK,gps,Limnodromus griseus
-233819,2022-08-14,-113.91095,31.6403065,3D,-25,G,OK,gps,Limnodromus griseus
-233819,2022-08-16,-113.925621,31.6244602,3D,-26,G,OK,gps,Limnodromus griseus
-233819,2022-08-18,-113.920547,31.628788,3D,-17,G,OK,gps,Limnodromus griseus
-233819,2022-08-20,-113.909821,31.6236935,3D,-30,G,OK,gps,Limnodromus griseus
-233819,2022-08-22,-113.910515,31.6248188,3D,-26,G,OK,gps,Limnodromus griseus
-233819,2022-08-24,-113.920677,31.6263561,3D,-15,G,OK,gps,Limnodromus griseus
-233819,2022-08-26,-113.922653,31.6273022,3D,-23,G,OK,gps,Limnodromus griseus
-233819,2022-08-28,-113.921753,31.6266365,3D,-30,G,OK,gps,Limnodromus griseus
-233819,2022-08-30,-113.921165,31.6290169,3D,-26,G,OK,gps,Limnodromus griseus
-233819,2022-09-01,-113.922806,31.6245632,3D,-22,G,OK,gps,Limnodromus griseus
-233819,2022-09-03,-113.921806,31.6270466,3D,-22,G,OK,gps,Limnodromus griseus
-233819,2022-09-05,-113.920883,31.6272774,3D,-26,G,OK,gps,Limnodromus griseus
-233819,2022-09-07,-113.922653,31.6272774,3D,-15,G,OK,gps,Limnodromus griseus
-233819,2022-09-09,-113.922653,31.6268425,3D,-23,G,OK,gps,Limnodromus griseus
-233819,2022-09-11,-113.920425,31.629324,3D,-25,G,OK,gps,Limnodromus griseus
-233819,2022-09-19,-110.245361,27.1647625,3D,-25,G,OK,gps,Limnodromus griseus
-233819,2022-09-21,-110.133827,27.1304569,3D,-7,G,OK,gps,Limnodromus griseus
-233819,2022-09-23,-110.235741,27.1688328,3D,-18,G,OK,gps,Limnodromus griseus
-233819,2022-09-25,-110.260925,27.1555977,3D,-7,G,OK,gps,Limnodromus griseus
-233819,2022-09-27,-110.245949,27.1670399,3D,-21,G,OK,gps,Limnodromus griseus
-233819,2022-09-29,-110.140991,27.1291256,3D,-5,G,OK,gps,Limnodromus griseus
-233819,2022-10-01,-110.141968,27.1291256,3D,-20,G,OK,gps,Limnodromus griseus
-233819,2022-10-03,-110.140533,27.1292038,3D,-21,G,OK,gps,Limnodromus griseus
-233819,2022-10-05,-110.16687,27.1448193,3D,-17,G,OK,gps,Limnodromus griseus
-233819,2022-10-07,-110.142349,27.1284866,3D,-15,G,OK,gps,Limnodromus griseus
-233819,2022-10-09,-110.137947,27.1286144,3D,-25,G,OK,gps,Limnodromus griseus
-233819,2022-10-11,-110.133751,27.1236744,3D,-11,G,OK,gps,Limnodromus griseus
-233819,2022-10-13,-110.173759,27.1381111,3D,-15,G,OK,gps,Limnodromus griseus
-233819,2022-10-15,-110.163597,27.1385975,3D,-22,G,OK,gps,Limnodromus griseus
-233819,2022-10-17,-110.171326,27.1363201,3D,24,G,OK,gps,Limnodromus griseus
-233819,2022-11-12,-108.997597,25.6530552,3D,-28,G,OK,gps,Limnodromus griseus
-233819,2022-11-17,-108.933258,25.6608391,3D,-24,G,OK,gps,Limnodromus griseus
-233819,2022-11-22,-108.943344,25.6625023,3D,-27,G,OK,gps,Limnodromus griseus
-233819,2022-12-12,-108.041046,24.9995651,3D,-21,G,OK,gps,Limnodromus griseus
-233819,2022-12-17,-108.04023,25.0072193,3D,-23,G,OK,gps,Limnodromus griseus
-233819,2022-12-22,-107.553421,24.47118,3D,-21,G,OK,gps,Limnodromus griseus
-233819,2022-12-27,-107.58419,24.5252228,3D,-23,G,OK,gps,Limnodromus griseus
-233819,2023-01-11,-107.51722,24.4866428,3D,-20,G,OK,gps,Limnodromus griseus
-233819,2023-01-16,-107.586266,24.5251713,3D,-9,G,OK,gps,Limnodromus griseus
-233819,2022-07-09,-157.082336,58.7504768,3D,17,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-07-15,-117.104935,32.6090622,3D,-30,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-07-21,-117.106903,32.6134148,3D,-28,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-09-15,-113.922058,31.6237431,3D,-17,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-09-17,-110.55835,27.4519176,3D,-23,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-10-19,-110.168869,27.1336327,3D,-18,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-10-21,-110.172508,27.142643,3D,-9,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-10-23,-110.176422,27.1399288,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233819,2022-11-27,-108.973915,25.669466,3D,-23,C,OK(corrected),gps,Limnodromus griseus
-233819,2023-01-01,-107.584526,24.5251198,3D,-15,C,OK(corrected),gps,Limnodromus griseus
-233819,2023-01-06,-107.606003,24.5062008,3D,-22,C,OK(corrected),gps,Limnodromus griseus
-233820,2022-06-10,-156.7117767,58.7160721,,40,,,gps,Limnodromus griseus
-233820,2022-06-15,-156.7146606,58.7175827,,46,,,gps,Limnodromus griseus
-233820,2022-06-20,-156.7148895,58.7174797,,43,,,gps,Limnodromus griseus
-233820,2022-06-25,-156.6282349,58.6470795,,28,,,gps,Limnodromus griseus
-233820,2022-06-30,-142.4147339,53.1137657,,1977,,,gps,Limnodromus griseus
-233820,2022-07-01,-127.3301926,42.4985199,,795,,,gps,Limnodromus griseus
-233820,2022-07-03,-122.1691742,37.6786804,,-35,,,gps,Limnodromus griseus
-233820,2022-07-05,-122.1126785,37.5638924,,-22,,,gps,Limnodromus griseus
-233820,2022-07-07,-122.248024,37.5213699,,-22,,,gps,Limnodromus griseus
-233820,2022-07-09,-122.116135,37.5652237,3D,-28,G,OK,gps,Limnodromus griseus
-233820,2022-07-11,-122.245796,37.5187836,3D,-29,G,OK,gps,Limnodromus griseus
-233820,2022-07-13,-122.248642,37.5211143,3D,-18,G,OK,gps,Limnodromus griseus
-233820,2022-07-17,-122.116341,37.5653,3D,-21,G,OK,gps,Limnodromus griseus
-233820,2022-07-19,-122.237968,37.5052147,3D,-23,G,OK,gps,Limnodromus griseus
-233820,2022-07-21,-115.127281,29.5982971,3D,2386,G,OK,gps,Limnodromus griseus
-233820,2022-07-23,-113.068787,26.6279297,3D,-26,G,OK,gps,Limnodromus griseus
-233820,2022-07-25,-109.374374,25.8602886,3D,-24,G,OK,gps,Limnodromus griseus
-233820,2022-07-27,-108.033882,25.0537338,3D,-1,G,OK,gps,Limnodromus griseus
-233820,2022-07-29,-108.034164,25.0538368,3D,-26,G,OK,gps,Limnodromus griseus
-233820,2022-07-31,-108.033981,25.0537605,3D,-16,G,OK,gps,Limnodromus griseus
-233820,2022-08-02,-108.034447,25.0534534,3D,-16,G,OK,gps,Limnodromus griseus
-233820,2022-08-04,-108.034416,25.0538883,3D,-17,G,OK,gps,Limnodromus griseus
-233820,2022-08-06,-108.034676,25.0529156,3D,-19,G,OK,gps,Limnodromus griseus
-233820,2022-08-08,-108.033936,25.0539913,3D,-15,G,OK,gps,Limnodromus griseus
-233820,2022-08-10,-108.033546,25.0539646,2D,0,G,OK,gps,Limnodromus griseus
-233820,2022-08-12,-108.043304,25.0288773,3D,-22,G,OK,gps,Limnodromus griseus
-233820,2022-08-14,-108.043633,25.0317192,3D,-14,G,OK,gps,Limnodromus griseus
-233820,2022-08-16,-108.042992,25.0345592,3D,-25,G,OK,gps,Limnodromus griseus
-233820,2022-08-18,-108.041641,25.032999,3D,-13,G,OK,gps,Limnodromus griseus
-233820,2022-08-20,-108.039307,25.0289288,3D,-23,G,OK,gps,Limnodromus griseus
-233820,2022-08-22,-108.04438,25.0629768,3D,-18,G,OK,gps,Limnodromus griseus
-233820,2022-08-24,-108.034164,25.0537605,3D,-25,G,OK,gps,Limnodromus griseus
-233820,2022-08-26,-108.034058,25.0539131,3D,-13,G,OK,gps,Limnodromus griseus
-233820,2022-08-28,-108.033905,25.0541439,3D,-16,G,OK,gps,Limnodromus griseus
-233820,2022-08-30,-108.035133,25.0477695,3D,-22,G,OK,gps,Limnodromus griseus
-233820,2022-09-03,-108.034851,25.0468731,3D,-21,G,OK,gps,Limnodromus griseus
-233820,2022-09-05,-108.034264,25.0538883,3D,-13,G,OK,gps,Limnodromus griseus
-233820,2022-09-07,-108.035316,25.0476418,3D,-20,G,OK,gps,Limnodromus griseus
-233820,2022-09-09,-108.035088,25.0466423,3D,-18,G,OK,gps,Limnodromus griseus
-233820,2022-09-11,-108.035088,25.0462589,3D,-11,G,OK,gps,Limnodromus griseus
-233820,2022-09-13,-108.035164,25.04846,3D,-5,G,OK,gps,Limnodromus griseus
-233820,2022-09-15,-108.034698,25.0456696,3D,-10,G,OK,gps,Limnodromus griseus
-233820,2022-09-25,-108.035492,25.0420361,3D,-12,G,OK,gps,Limnodromus griseus
-233820,2022-09-27,-108.034653,25.0551682,3D,-19,G,OK,gps,Limnodromus griseus
-233820,2022-10-07,-108.134056,24.9979515,3D,0,G,OK,gps,Limnodromus griseus
-233820,2022-10-09,-108.082703,25.0073223,3D,-13,G,OK,gps,Limnodromus griseus
-233820,2022-10-11,-108.079269,25.0104961,3D,-18,G,OK,gps,Limnodromus griseus
-233820,2022-10-13,-108.088997,25.0062466,3D,-20,G,OK,gps,Limnodromus griseus
-233820,2022-10-15,-108.082291,25.0064507,3D,-18,G,OK,gps,Limnodromus griseus
-233820,2022-10-17,-108.137001,24.9961605,3D,-30,G,OK,gps,Limnodromus griseus
-233820,2022-10-21,-108.136688,24.9935741,3D,-16,G,OK,gps,Limnodromus griseus
-233820,2022-10-23,-108.149414,25.0160503,3D,-1,G,OK,gps,Limnodromus griseus
-233820,2022-10-25,-108.088562,24.9990788,3D,-22,G,OK,gps,Limnodromus griseus
-233820,2022-10-31,-108.08905,25.0034561,3D,-17,G,OK,gps,Limnodromus griseus
-233820,2022-11-02,-108.134338,24.9951611,3D,-20,G,OK,gps,Limnodromus griseus
-233820,2022-11-07,-108.095039,25.007885,3D,-23,G,OK,gps,Limnodromus griseus
-233820,2022-11-12,-108.102005,25.0115204,3D,-23,G,OK,gps,Limnodromus griseus
-233820,2022-11-17,-108.074249,25.0092411,3D,-20,G,OK,gps,Limnodromus griseus
-233820,2022-11-22,-108.1595,25.0423431,3D,-21,G,OK,gps,Limnodromus griseus
-233820,2022-12-07,-108.159248,25.0445175,3D,-24,G,OK,gps,Limnodromus griseus
-233820,2022-12-12,-108.062401,25.0048122,3D,-24,G,OK,gps,Limnodromus griseus
-233820,2022-12-27,-108.137741,25.0173321,3D,-22,G,OK,gps,Limnodromus griseus
-233820,2023-01-01,-108.13308,25.0029697,3D,-23,G,OK,gps,Limnodromus griseus
-233820,2023-01-06,-108.061249,25.0073223,3D,-24,G,OK,gps,Limnodromus griseus
-233820,2023-01-11,-108.138306,25.017767,3D,-29,G,OK,gps,Limnodromus griseus
-233820,2023-01-16,-108.135307,24.9994621,3D,-15,G,OK,gps,Limnodromus griseus
-233820,2023-01-21,-108.143524,25.028595,3D,-15,G,OK,gps,Limnodromus griseus
-233820,2022-07-15,-122.138405,37.6046219,3D,-20,C,OK(corrected),gps,Limnodromus griseus
-233820,2022-10-19,-108.134872,24.9944954,2D,0,C,OK(corrected),gps,Limnodromus griseus
-233820,2022-11-27,-108.061272,25.00494,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233820,2022-12-02,-108.040794,25.0275974,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233821,2022-06-05,-156.6173096,58.6880112,,43,,,gps,Limnodromus griseus
-233821,2022-06-10,-156.6179962,58.6871414,,48,,,gps,Limnodromus griseus
-233821,2022-06-15,-156.6179962,58.6871414,,45,,,gps,Limnodromus griseus
-233821,2022-06-20,-156.6179657,58.6871414,,45,,,gps,Limnodromus griseus
-233821,2022-06-25,-156.6179657,58.6871681,,47,,,gps,Limnodromus griseus
-233821,2022-06-30,-156.6179657,58.6871185,,43,,,gps,Limnodromus griseus
-233821,2022-07-01,-156.6179657,58.6871414,,44,,,gps,Limnodromus griseus
-233821,2022-07-03,-156.6170044,58.687809,,39,,,gps,Limnodromus griseus
-233821,2022-07-05,-156.6007996,58.6883469,,44,,,gps,Limnodromus griseus
-233821,2022-07-07,-156.6026917,58.6874733,,0,,,gps,Limnodromus griseus
-233821,2022-07-09,-156.602325,58.6871185,3D,38,G,OK,gps,Limnodromus griseus
-233821,2022-07-11,-156.600128,58.6935921,3D,42,G,OK,gps,Limnodromus griseus
-233821,2022-07-13,-156.601868,58.6879883,3D,-1,G,OK,gps,Limnodromus griseus
-233821,2022-07-15,-156.601822,58.6879883,3D,51,G,OK,gps,Limnodromus griseus
-233821,2022-07-17,-157.00351,58.8076668,3D,20,G,OK,gps,Limnodromus griseus
-233821,2022-07-19,-157.069382,58.7320442,3D,-2,G,OK,gps,Limnodromus griseus
-233821,2022-07-23,-157.08197,58.7476616,3D,19,G,OK,gps,Limnodromus griseus
-233821,2022-07-25,-157.07019,58.7358093,3D,15,G,OK,gps,Limnodromus griseus
-233821,2022-07-27,-157.066055,58.7354736,2D,0,G,OK,gps,Limnodromus griseus
-233821,2022-07-29,-157.039581,58.7854958,3D,26,G,OK,gps,Limnodromus griseus
-233821,2022-07-31,-157.03894,58.7864685,3D,9,G,OK,gps,Limnodromus griseus
-233821,2022-08-02,-157.036041,58.7880325,3D,26,G,OK,gps,Limnodromus griseus
-233821,2022-08-06,-116.608986,31.7766018,3D,-30,G,OK,gps,Limnodromus griseus
-233821,2022-08-08,-116.615105,31.7651081,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2022-08-10,-110.907532,27.8904457,3D,-30,G,OK,gps,Limnodromus griseus
-233821,2022-08-12,-110.464859,27.3187447,3D,-31,G,OK,gps,Limnodromus griseus
-233821,2022-08-14,-110.464806,27.3188992,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-08-16,-110.464729,27.3192577,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-08-18,-110.459099,27.3152637,3D,-23,G,OK,gps,Limnodromus griseus
-233821,2022-08-20,-110.464294,27.3158779,3D,-22,G,OK,gps,Limnodromus griseus
-233821,2022-08-22,-110.449776,27.3263226,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2022-08-24,-110.451881,27.3262711,3D,-15,G,OK,gps,Limnodromus griseus
-233821,2022-08-26,-110.462219,27.3204861,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2022-08-30,-110.451057,27.3224316,3D,-49,G,OK,gps,Limnodromus griseus
-233821,2022-09-03,-110.461014,27.3184643,3D,-17,G,OK,gps,Limnodromus griseus
-233821,2022-09-05,-110.454262,27.3273468,3D,-26,G,OK,gps,Limnodromus griseus
-233821,2022-09-07,-110.458557,27.3217926,3D,-28,G,OK,gps,Limnodromus griseus
-233821,2022-09-09,-110.451035,27.3267078,3D,-20,G,OK,gps,Limnodromus griseus
-233821,2022-09-11,-110.461861,27.3220215,3D,-23,G,OK,gps,Limnodromus griseus
-233821,2022-09-13,-110.460609,27.3181572,2D,0,G,OK,gps,Limnodromus griseus
-233821,2022-09-15,-110.461761,27.3184128,3D,-17,G,OK,gps,Limnodromus griseus
-233821,2022-09-17,-110.461502,27.3187447,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-09-19,-110.462273,27.3186169,3D,-27,G,OK,gps,Limnodromus griseus
-233821,2022-09-27,-110.462166,27.3186436,3D,-22,G,OK,gps,Limnodromus griseus
-233821,2022-10-07,-110.451363,27.321434,3D,-16,G,OK,gps,Limnodromus griseus
-233821,2022-10-09,-110.468391,27.3112183,3D,-17,G,OK,gps,Limnodromus griseus
-233821,2022-10-11,-110.475197,27.3126793,3D,2,G,OK,gps,Limnodromus griseus
-233821,2022-10-13,-110.470695,27.3014145,3D,-12,G,OK,gps,Limnodromus griseus
-233821,2022-10-15,-110.467903,27.2985725,3D,-26,G,OK,gps,Limnodromus griseus
-233821,2022-10-17,-110.471184,27.3013115,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-10-19,-110.290367,27.182375,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-10-21,-110.411331,27.3032322,3D,9,G,OK,gps,Limnodromus griseus
-233821,2022-10-23,-110.406487,27.2985992,3D,-22,G,OK,gps,Limnodromus griseus
-233821,2022-10-25,-110.418137,27.3110905,3D,-28,G,OK,gps,Limnodromus griseus
-233821,2022-10-27,-110.418114,27.3111172,3D,-22,G,OK,gps,Limnodromus griseus
-233821,2022-10-29,-110.468132,27.311348,3D,-18,G,OK,gps,Limnodromus griseus
-233821,2022-10-31,-110.471024,27.3014908,3D,23,G,OK,gps,Limnodromus griseus
-233821,2022-11-02,-110.470078,27.299469,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2022-11-07,-110.482803,27.3311615,3D,-43,G,OK,gps,Limnodromus griseus
-233821,2022-11-12,-110.468163,27.3104515,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2022-12-07,-110.482162,27.3299847,3D,-25,G,OK,gps,Limnodromus griseus
-233821,2022-12-12,-110.482346,27.3105793,3D,-23,G,OK,gps,Limnodromus griseus
-233821,2022-12-17,-110.47625,27.3101959,3D,-25,G,OK,gps,Limnodromus griseus
-233821,2022-12-22,-110.468056,27.3088379,3D,-22,G,OK,gps,Limnodromus griseus
-233821,2023-01-01,-110.477249,27.3094521,3D,-26,G,OK,gps,Limnodromus griseus
-233821,2023-01-06,-110.491226,27.3116035,3D,-26,G,OK,gps,Limnodromus griseus
-233821,2023-01-11,-110.487411,27.3108349,3D,-25,G,OK,gps,Limnodromus griseus
-233821,2023-01-16,-110.472641,27.3101692,3D,-20,G,OK,gps,Limnodromus griseus
-233821,2023-01-26,-110.478096,27.3140087,3D,-16,G,OK,gps,Limnodromus griseus
-233821,2023-01-31,-110.466393,27.3083,3D,-27,G,OK,gps,Limnodromus griseus
-233821,2023-02-05,-110.48877,27.3197956,3D,-24,G,OK,gps,Limnodromus griseus
-233821,2023-02-10,-110.479424,27.3140354,3D,19,G,OK,gps,Limnodromus griseus
-233821,2022-09-01,-110.461708,27.3184891,3D,-15,C,OK(corrected),gps,Limnodromus griseus
-233821,2022-09-25,-110.462349,27.3184128,3D,-19,C,OK(corrected),gps,Limnodromus griseus
-233821,2022-12-27,-110.483856,27.3107319,3D,-26,C,OK(corrected),gps,Limnodromus griseus
-233821,2023-01-21,-110.486847,27.3098373,3D,-11,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-06-25,-156.6282043,58.6470528,,23,,,gps,Limnodromus griseus
-233823,2022-06-30,-142.4148102,53.1137161,,1976,,,gps,Limnodromus griseus
-233823,2022-07-01,-127.3302689,42.4987259,,796,,,gps,Limnodromus griseus
-233823,2022-07-03,-122.1436005,37.6437378,,-20,,,gps,Limnodromus griseus
-233823,2022-07-05,-122.1445007,37.6439934,,-27,,,gps,Limnodromus griseus
-233823,2022-07-07,-122.0525665,37.4925194,,-24,,,gps,Limnodromus griseus
-233823,2022-07-09,-118.043816,33.6950645,3D,-29,G,OK,gps,Limnodromus griseus
-233823,2022-07-11,-114.014481,31.5171204,3D,-27,G,OK,gps,Limnodromus griseus
-233823,2022-07-15,-113.936089,31.6410503,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-07-17,-113.938698,31.6295547,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2022-07-19,-113.931892,31.6104317,3D,-18,G,OK,gps,Limnodromus griseus
-233823,2022-07-21,-113.929642,31.59305,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-07-23,-113.928566,31.5948162,3D,-10,G,OK,gps,Limnodromus griseus
-233823,2022-07-25,-113.930305,31.5919743,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-07-27,-113.929794,31.5915394,3D,-30,G,OK,gps,Limnodromus griseus
-233823,2022-07-29,-113.931328,31.6064644,3D,-29,G,OK,gps,Limnodromus griseus
-233823,2022-07-31,-113.932762,31.6108932,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-08-02,-113.934631,31.6133251,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-08-04,-113.927155,31.6071815,3D,-25,G,OK,gps,Limnodromus griseus
-233823,2022-08-08,-113.920753,31.5917435,3D,-39,G,OK,gps,Limnodromus griseus
-233823,2022-08-10,-113.922035,31.5950985,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-08-12,-113.932686,31.6129913,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-08-14,-113.935837,31.6410751,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-08-16,-113.93425,31.6150398,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-08-18,-113.934044,31.6065407,3D,-21,G,OK,gps,Limnodromus griseus
-233823,2022-08-20,-113.93084,31.6002693,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-08-22,-113.91584,31.5875969,3D,-25,G,OK,gps,Limnodromus griseus
-233823,2022-08-24,-113.92897,31.5899258,3D,-20,G,OK,gps,Limnodromus griseus
-233823,2022-08-26,-113.928207,31.5926151,3D,-29,G,OK,gps,Limnodromus griseus
-233823,2022-08-28,-113.932709,31.611124,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-08-30,-113.934685,31.6172161,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-09-07,-113.921295,31.5940475,3D,-30,G,OK,gps,Limnodromus griseus
-233823,2022-09-11,-113.932556,31.6102524,3D,-19,G,OK,gps,Limnodromus griseus
-233823,2022-09-13,-113.933174,31.6119423,3D,-18,G,OK,gps,Limnodromus griseus
-233823,2022-09-15,-113.927177,31.6076927,3D,-19,G,OK,gps,Limnodromus griseus
-233823,2022-09-17,-113.927895,31.5998077,3D,-27,G,OK,gps,Limnodromus griseus
-233823,2022-09-19,-113.932068,31.5942783,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-09-21,-113.921089,31.5921783,3D,-34,G,OK,gps,Limnodromus griseus
-233823,2022-09-23,-113.930664,31.5929222,3D,1,G,OK,gps,Limnodromus griseus
-233823,2022-09-25,-113.92511,31.6038265,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2022-09-27,-113.833382,31.5778179,3D,-21,G,OK,gps,Limnodromus griseus
-233823,2022-09-29,-113.698212,31.5230598,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2022-10-01,-113.698288,31.5231609,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-10-03,-113.708786,31.5259514,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2022-10-05,-113.713264,31.5246983,3D,-5,G,OK,gps,Limnodromus griseus
-233823,2022-10-07,-113.712708,31.5216255,3D,-21,G,OK,gps,Limnodromus griseus
-233823,2022-10-09,-113.723251,31.5293312,3D,6,G,OK,gps,Limnodromus griseus
-233823,2022-10-11,-113.725067,31.5330944,3D,-4,G,OK,gps,Limnodromus griseus
-233823,2022-10-15,-113.686493,31.5141239,3D,-27,G,OK,gps,Limnodromus griseus
-233823,2022-10-17,-113.708221,31.5242882,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2022-10-19,-113.713013,31.5249023,3D,-17,G,OK,gps,Limnodromus griseus
-233823,2022-10-21,-113.715622,31.5244675,3D,4,G,OK,gps,Limnodromus griseus
-233823,2022-10-23,-113.711243,31.5253372,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-10-25,-113.748955,31.5381641,3D,-27,G,OK,gps,Limnodromus griseus
-233823,2022-10-27,-113.746445,31.5416965,3D,-30,G,OK,gps,Limnodromus griseus
-233823,2022-10-29,-113.726883,31.5352707,3D,-16,G,OK,gps,Limnodromus griseus
-233823,2022-10-31,-113.708534,31.5270519,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2022-11-02,-113.716034,31.5261307,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-11-07,-113.71711,31.5237503,3D,-28,G,OK,gps,Limnodromus griseus
-233823,2022-11-12,-113.636391,31.4526081,3D,-17,G,OK,gps,Limnodromus griseus
-233823,2022-11-17,-113.712677,31.5250568,3D,-33,G,OK,gps,Limnodromus griseus
-233823,2022-11-22,-113.717667,31.5219841,3D,-31,G,OK,gps,Limnodromus griseus
-233823,2022-11-27,-113.713318,31.5293827,3D,-27,G,OK,gps,Limnodromus griseus
-233823,2022-12-02,-113.725479,31.5286655,3D,-33,G,OK,gps,Limnodromus griseus
-233823,2022-12-07,-113.717033,31.5241089,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2022-12-12,-113.719872,31.5321217,3D,-25,G,OK,gps,Limnodromus griseus
-233823,2022-12-17,-113.935143,31.5987072,3D,-24,G,OK,gps,Limnodromus griseus
-233823,2022-12-22,-113.724251,31.5249023,3D,-31,G,OK,gps,Limnodromus griseus
-233823,2022-12-27,-113.934349,31.6057224,3D,-26,G,OK,gps,Limnodromus griseus
-233823,2023-01-01,-113.957802,31.6092796,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2023-01-06,-113.71685,31.5252361,3D,-29,G,OK,gps,Limnodromus griseus
-233823,2023-01-21,-113.895821,31.5565948,3D,-22,G,OK,gps,Limnodromus griseus
-233823,2023-01-26,-113.897461,31.606823,3D,-23,G,OK,gps,Limnodromus griseus
-233823,2023-01-31,-113.935577,31.5983486,3D,-14,G,OK,gps,Limnodromus griseus
-233823,2023-02-05,-113.724144,31.5297146,3D,-20,G,OK,gps,Limnodromus griseus
-233823,2023-02-10,-113.647423,31.4850178,3D,-14,G,OK,gps,Limnodromus griseus
-233823,2023-02-15,-113.933731,31.5976315,3D,-19,G,OK,gps,Limnodromus griseus
-233823,2023-02-20,-113.939827,31.6055927,3D,-31,G,OK,gps,Limnodromus griseus
-233823,2023-02-25,-113.939598,31.6094589,3D,-17,G,OK,gps,Limnodromus griseus
-233823,2023-03-07,-113.721718,31.5294857,3D,0,G,OK,gps,Limnodromus griseus
-233823,2022-07-13,-113.929047,31.5932026,3D,-24,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-08-06,-113.929893,31.5927944,3D,-18,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-09-01,-113.935448,31.61166,3D,1,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-09-03,-113.92897,31.604826,3D,-23,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-09-05,-113.928284,31.5978374,3D,-28,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-09-09,-113.930634,31.592308,3D,-29,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-10-13,-113.691559,31.5193214,3D,-19,C,OK(corrected),gps,Limnodromus griseus
-233823,2022-10-24,100.997772,31.5381641,3D,-1000,C,OK(corrected),gps,Limnodromus griseus
-233823,2023-01-16,-113.937012,31.6010113,3D,-26,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-06-05,-156.6172333,58.6880112,,43,,,gps,Limnodromus griseus
-233824,2022-06-10,-156.6227875,58.6897774,,46,,,gps,Limnodromus griseus
-233824,2022-06-15,-156.6179199,58.6878319,,46,,,gps,Limnodromus griseus
-233824,2022-06-20,-156.6221924,58.6495361,,28,,,gps,Limnodromus griseus
-233824,2022-06-25,-156.6217041,58.6494331,,25,,,gps,Limnodromus griseus
-233824,2022-06-30,-156.5906525,58.6518898,,21,,,gps,Limnodromus griseus
-233824,2022-07-01,-156.6427002,58.6488457,,26,,,gps,Limnodromus griseus
-233824,2022-07-03,-156.6418304,58.6485367,,28,,,gps,Limnodromus griseus
-233824,2022-07-05,-156.6426239,58.6487427,,30,,,gps,Limnodromus griseus
-233824,2022-07-07,-156.6201782,58.6570358,,24,,,gps,Limnodromus griseus
-233824,2022-07-09,-156.628113,58.6464386,3D,39,G,OK,gps,Limnodromus griseus
-233824,2022-07-11,-157.560852,57.4994049,3D,-2,G,OK,gps,Limnodromus griseus
-233824,2022-07-13,-157.560257,57.498661,3D,24,G,OK,gps,Limnodromus griseus
-233824,2022-07-15,-157.537476,57.6523399,3D,34,G,OK,gps,Limnodromus griseus
-233824,2022-07-17,-157.537567,57.6527481,3D,66,G,OK,gps,Limnodromus griseus
-233824,2022-07-19,-157.537704,57.6524162,3D,21,G,OK,gps,Limnodromus griseus
-233824,2022-07-21,-157.536392,57.6523895,3D,30,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-07-23,-157.534912,57.6518784,3D,28,G,OK,gps,Limnodromus griseus
-233824,2022-07-25,-157.537323,57.6524658,3D,30,G,OK,gps,Limnodromus griseus
-233824,2022-07-27,-157.5354,57.6520081,3D,29,G,OK,gps,Limnodromus griseus
-233824,2022-07-29,-157.598679,57.6110992,3D,44,G,OK,gps,Limnodromus griseus
-233824,2022-07-31,-157.598663,57.6110992,3D,23,G,OK,gps,Limnodromus griseus
-233824,2022-08-02,-157.598907,57.6106377,3D,32,G,OK,gps,Limnodromus griseus
-233824,2022-08-04,-133.151855,40.7857552,2D,0,G,OK,gps,Limnodromus griseus
-233824,2022-08-06,-124.15712,40.8180351,3D,-27,G,OK,gps,Limnodromus griseus
-233824,2022-08-08,-124.155174,40.8577919,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-08-10,-124.17028,40.8319092,3D,-22,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-08-12,-122.08255,37.4991226,3D,-8,G,OK,gps,Limnodromus griseus
-233824,2022-08-22,-122.091507,37.4457741,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-08-24,-122.096497,37.4383736,3D,-31,G,OK,gps,Limnodromus griseus
-233824,2022-08-26,-122.090843,37.4428558,3D,-31,G,OK,gps,Limnodromus griseus
-233824,2022-08-28,-122.092735,37.4412155,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-08-30,-122.093147,37.4409866,3D,-28,G,OK,gps,Limnodromus griseus
-233824,2022-09-01,-122.035522,37.4561653,3D,-23,G,OK,gps,Limnodromus griseus
-233824,2022-09-03,-122.093246,37.4407539,3D,-21,G,OK,gps,Limnodromus griseus
-233824,2022-09-05,-122.096886,37.438118,3D,-21,G,OK,gps,Limnodromus griseus
-233824,2022-09-07,-122.096909,37.4380417,3D,-20,G,OK,gps,Limnodromus griseus
-233824,2022-09-09,-122.043022,37.4570618,3D,-17,G,OK,gps,Limnodromus griseus
-233824,2022-09-11,-122.041641,37.4619789,3D,-17,G,OK,gps,Limnodromus griseus
-233824,2022-09-13,-122.038467,37.4760818,3D,-13,G,OK,gps,Limnodromus griseus
-233824,2022-09-15,-122.099747,37.4392204,3D,-19,G,OK,gps,Limnodromus griseus
-233824,2022-09-17,-122.099083,37.4356346,3D,-21,G,OK,gps,Limnodromus griseus
-233824,2022-09-19,-122.097832,37.4373245,3D,-22,G,OK,gps,Limnodromus griseus
-233824,2022-09-21,-122.09742,37.4371452,3D,-18,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-10-01,-122.098778,37.4348412,3D,-23,G,OK,gps,Limnodromus griseus
-233824,2022-10-03,-122.098831,37.4348412,3D,-20,G,OK,gps,Limnodromus griseus
-233824,2022-10-05,-122.096092,37.4385033,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-10-07,-122.095833,37.4378891,3D,-18,G,OK,gps,Limnodromus griseus
-233824,2022-10-09,-122.044144,37.4554749,3D,-25,G,OK,gps,Limnodromus griseus
-233824,2022-10-11,-122.037926,37.4500732,3D,-20,G,OK,gps,Limnodromus griseus
-233824,2022-10-13,-122.037773,37.4499207,3D,-20,G,OK,gps,Limnodromus griseus
-233824,2022-10-15,-122.037773,37.4499702,3D,-18,G,OK,gps,Limnodromus griseus
-233824,2022-10-17,-122.006592,37.4703217,3D,-19,G,OK,gps,Limnodromus griseus
-233824,2022-10-19,-122.058098,37.492878,3D,-20,G,OK,gps,Limnodromus griseus
-233824,2022-10-21,-122.046936,37.4552956,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-10-23,-122.03775,37.4600067,3D,-1,G,OK,gps,Limnodromus griseus
-233824,2022-10-25,-122.009155,37.4595451,3D,-14,G,OK,gps,Limnodromus griseus
-233824,2022-10-27,-122.018166,37.4587021,3D,-21,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-10-29,-122.01796,37.4583931,3D,-21,G,OK,gps,Limnodromus griseus
-233824,2022-10-31,-122.017982,37.4585724,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-11-02,-122.040001,37.4720116,3D,-24,G,OK,gps,Limnodromus griseus
-233824,2022-11-07,-122.09343,37.4962044,3D,-25,G,OK,gps,Limnodromus griseus
-233824,2022-11-12,-122.079575,37.5010414,3D,-45,G,OK,gps,Limnodromus griseus
-233824,2022-11-17,-122.060684,37.4926987,3D,-29,G,OK,gps,Limnodromus griseus
-233824,2022-11-22,-122.086288,37.4938736,3D,-29,C,OK(corrected),gps,Limnodromus griseus
-233824,2022-11-27,-122.010483,37.4604912,3D,-23,C,OK(corrected),gps,Limnodromus griseus
+id,timestamp,long,lat,gps:fix-type-raw,height-above-ellipsoid,lotek:crc-status,lotek:crc-status-text,sensor-type
+181624,2022-07-03,-151.0293121,61.2111473,,,,,gps
+181624,2022-07-05,-151.0252228,61.2096367,,,,,gps
+181624,2022-07-07,-150.994751,61.1754379,,,,,gps
+181624,2022-07-09,-151.0250092,61.166069,,,,,gps
+181624,2022-07-11,-150.9924927,61.1838341,,,,,gps
+181624,2022-07-13,-151.0291901,61.1608429,,,,,gps
+181624,2022-07-15,-151.452652,61.0144386,,,,,gps
+181624,2022-07-17,-124.08078,46.9017715,,,,,gps
+181624,2022-07-21,-124.1136475,47.0179443,,,,,gps
+181624,2022-07-23,-124.0930939,46.992115,,,,,gps
+181624,2022-07-25,-124.0270462,46.9097099,,,,,gps
+181624,2022-07-27,-124.0502396,46.89468,,,,,gps
+181624,2022-08-06,-120.2522278,37.1700592,,,,,gps
+181624,2022-08-08,-119.5403137,34.401062,,,,,gps
+181624,2022-08-10,-119.6627808,34.4213104,,,,,gps
+181624,2022-08-12,-114.545372,31.7214336,,,,,gps
+181624,2022-08-14,-111.3942108,28.3638401,,,,,gps
+181624,2022-08-16,-109.5437698,26.6968956,,,,,gps
+181624,2022-08-20,-109.556976,26.6939526,3D,-1000,G,OK,gps
+181624,2022-08-22,-109.556313,26.6943607,3D,-1000,G,OK,gps
+181624,2022-08-26,-109.554573,26.6932354,3D,-1000,G,OK,gps
+181624,2022-08-28,-109.554237,26.6937218,2D,-1000,G,OK,gps
+181624,2022-08-30,-109.557137,26.6937733,3D,-1000,G,OK,gps
+181624,2022-09-03,-109.556236,26.6934395,3D,-1000,G,OK,gps
+181624,2022-09-05,-109.533585,26.7081089,3D,-1000,G,OK,gps
+181624,2022-09-07,-109.55529,26.6939774,2D,-1000,G,OK,gps
+181624,2022-09-09,-109.555161,26.6940041,3D,-1000,G,OK,gps
+181624,2022-09-11,-109.554497,26.6939259,2D,-1000,G,OK,gps
+181624,2022-09-13,-109.554138,26.693594,3D,-1000,G,OK,gps
+181624,2022-09-15,-109.586319,26.7008133,3D,-1000,G,OK,gps
+181625,2022-06-25,-150.9251709,61.2120209,,,,,gps
+181625,2022-06-30,-150.9511566,61.2188797,,,,,gps
+181625,2022-07-01,-150.9510498,61.2188797,,,,,gps
+181625,2022-07-03,-150.9255524,61.2124786,,,,,gps
+181625,2022-07-05,-150.8340302,61.2454529,,,,,gps
+181625,2022-07-07,-150.8327484,61.2451439,,,,,gps
+181625,2022-07-09,-150.8327332,61.2452736,,,,,gps
+181625,2022-07-11,-150.8330841,61.2448654,,,,,gps
+181625,2022-07-13,-142.7277679,57.2551537,,,,,gps
+181625,2022-07-15,-124.1620636,40.8410492,,,,,gps
+181625,2022-07-17,-122.2304153,37.513588,,,,,gps
+181625,2022-07-19,-122.245079,37.5182991,,,,,gps
+181625,2022-07-21,-122.2457504,37.5169907,,,,,gps
+181625,2022-07-23,-115.9666824,30.3954296,,,,,gps
+181625,2022-07-25,-114.1791382,27.7489281,,,,,gps
+181625,2022-07-27,-114.1794968,27.7496967,,,,,gps
+181625,2022-07-29,-114.1903992,27.7281666,,,,,gps
+181625,2022-07-31,-114.1861725,27.7218952,,,,,gps
+181625,2022-08-08,-114.1811829,27.7525368,,,,,gps
+181625,2022-08-10,-114.2343826,27.7005692,,,,,gps
+181625,2022-08-12,-114.2247314,27.7119865,,,,,gps
+181625,2022-08-14,-114.2267761,27.71278,,,,,gps
+181625,2022-08-16,-114.2341537,27.698061,,,,,gps
+181625,2022-08-18,-114.2335587,27.6958599,,,,,gps
+181625,2022-08-20,-114.1812897,27.7524872,,,,,gps
+181625,2022-08-22,-114.1810532,27.7523327,,,,,gps
+181625,2022-08-24,-114.2342529,27.7000313,,,,,gps
+181625,2022-08-26,-114.23159,27.699852,3D,-1000,G,OK,gps
+181625,2022-08-28,-114.222786,27.7083778,3D,-1000,G,OK,gps
+181625,2022-08-30,-114.229851,27.7118073,3D,-1000,G,OK,gps
+181625,2022-09-01,-114.229698,27.7136002,3D,-1000,G,OK,gps
+181625,2022-09-03,-114.18351,27.755558,3D,-1000,G,OK,gps
+181625,2022-09-05,-114.181313,27.7524872,3D,-1000,G,OK,gps
+181625,2022-09-07,-114.181129,27.7525368,3D,-1000,G,OK,gps
+181625,2022-09-09,-114.176758,27.7548923,3D,-1000,G,OK,gps
+181625,2022-09-11,-114.180367,27.7514877,3D,-1000,G,OK,gps
+181625,2022-09-13,-114.227753,27.707098,3D,-1000,G,OK,gps
+181625,2022-09-15,-114.180824,27.7522812,3D,-1000,G,OK,gps
+181626,2022-06-25,-151.0236816,61.2151184,,,,,gps
+181626,2022-06-30,-151.0254669,61.2136078,,,,,gps
+181626,2022-07-01,-151.0164337,61.2169609,,,,,gps
+181626,2022-07-03,-151.0173798,61.2163696,,,,,gps
+181626,2022-07-05,-151.0231476,61.2134781,,,,,gps
+181626,2022-07-07,-150.9237823,61.212429,,,,,gps
+181626,2022-07-09,-151.0228119,61.2134514,,,,,gps
+181626,2022-07-11,-151.0167389,61.1774864,,,,,gps
+181626,2022-07-13,-151.0287781,61.160511,,,,,gps
+181626,2022-07-15,-151.0168915,61.2146797,,,,,gps
+181626,2022-07-17,-151.0108032,61.1726723,,,,,gps
+181626,2022-07-19,-151.0174103,61.2150917,,,,,gps
+181626,2022-07-21,-150.993927,61.1770477,,,,,gps
+181626,2022-07-25,-151.025238,61.1660919,,,,,gps
+181626,2022-07-27,-151.0454407,61.1529617,,,,,gps
+181626,2022-07-29,-133.9013214,55.0538864,,,,,gps
+181626,2022-07-31,-124.0607605,46.9631615,,,,,gps
+181626,2022-08-02,-123.9701385,46.9679985,,,,,gps
+181626,2022-08-04,-123.9700317,46.9680519,,,,,gps
+181626,2022-08-06,-124.1243744,47.0322304,,,,,gps
+181626,2022-08-08,-124.0075378,46.9951363,,,,,gps
+181626,2022-08-10,-123.9607391,46.9670792,,,,,gps
+181626,2022-08-12,-123.9630966,46.9674873,,,,,gps
+181626,2022-08-14,-123.9621735,46.969101,,,,,gps
+181626,2022-08-16,-124.0647049,46.9100914,,,,,gps
+181626,2022-08-18,-122.4413071,38.1233521,,,,,gps
+181626,2022-08-20,-122.1248932,37.5963783,,,,,gps
+181626,2022-08-24,-122.1073303,37.616703,,,,,gps
+181626,2022-08-26,-122.1282654,37.6053123,,,,,gps
+181626,2022-08-28,-122.1326752,37.6030083,,,,,gps
+181626,2022-08-30,-122.1392517,37.6052361,,,,,gps
+181626,2022-09-01,-122.1407394,37.6041603,,,,,gps
+181626,2022-09-03,-122.231926,37.5120239,,,,,gps
+181626,2022-09-05,-122.2347107,37.511898,,,,,gps
+181626,2022-09-07,-122.2345581,37.5096703,,,,,gps
+181626,2022-09-11,-122.2326126,37.5092354,,,,,gps
+233811,2022-06-10,-151.0164795,61.2110214,,28,,,gps
+233811,2022-06-15,-151.0178986,61.2120438,,31,,,gps
+233811,2022-06-20,-151.01651,61.2118416,,36,,,gps
+233811,2022-06-25,-150.9169006,61.2119675,,15,,,gps
+233811,2022-06-30,-150.9184418,61.2128639,,2,,,gps
+233811,2022-07-01,-150.918457,61.2130432,,18,,,gps
+233811,2022-07-03,-150.9184418,61.2129936,,3,,,gps
+233811,2022-07-05,-151.0166931,61.2118416,,33,,,gps
+233811,2022-07-07,-150.1302643,60.7982483,,77,,,gps
+233811,2022-07-09,-146.3188171,59.4272652,,20,,,gps
+233811,2022-07-11,-146.318604,59.4272652,3D,16,G,OK,gps
+233811,2022-07-13,-146.39476,59.4036369,3D,19,G,OK,gps
+233811,2022-07-15,-146.386597,59.4110603,3D,19,C,OK(corrected),gps
+233811,2022-07-17,-146.377335,59.4103432,3D,30,C,OK(corrected),gps
+233811,2022-07-19,-146.377106,59.4083443,3D,21,G,OK,gps
+233811,2022-07-21,-120.645546,34.9635468,3D,-31,G,OK,gps
+233811,2022-07-23,-121.740608,36.8151436,3D,-27,G,OK,gps
+233811,2022-07-25,-121.789963,36.7923317,3D,-24,G,OK,gps
+233811,2022-07-27,-121.790398,36.7930222,3D,-33,G,OK,gps
+233811,2022-07-29,-121.791626,36.7894402,3D,-27,G,OK,gps
+233811,2022-07-31,-121.789452,36.7938423,3D,-25,G,OK,gps
+233811,2022-08-02,-121.789757,36.7933311,3D,-28,G,OK,gps
+233811,2022-08-04,-114.041718,27.6789627,3D,-26,G,OK,gps
+233811,2022-08-06,-109.37455,25.8487415,3D,-5,G,OK,gps
+233811,2022-08-08,-109.37233,25.8493824,3D,-17,G,OK,gps
+233811,2022-08-10,-109.374832,25.8486137,3D,-25,G,OK,gps
+233811,2022-08-12,-109.373505,25.8501759,2D,0,G,OK,gps
+233811,2022-08-14,-109.375221,25.8483334,3D,-24,G,OK,gps
+233811,2022-08-16,-109.374863,25.8307972,3D,-11,G,OK,gps
+233811,2022-08-18,-109.360115,25.8091145,3D,-14,G,OK,gps
+233811,2022-08-20,-109.360603,25.8117752,3D,-21,G,OK,gps
+233811,2022-08-22,-109.359856,25.8091908,2D,0,G,OK,gps
+233811,2022-08-24,-109.360268,25.8116474,3D,-22,G,OK,gps
+233811,2022-08-26,-109.359604,25.8118782,3D,-1,G,OK,gps
+233811,2022-08-28,-109.367439,25.7987194,2D,0,G,OK,gps
+233811,2022-08-30,-109.357658,25.8090115,2D,0,G,OK,gps
+233811,2022-09-01,-109.353539,25.8208637,3D,-6,G,OK,gps
+233811,2022-09-03,-109.351997,25.8212223,3D,-19,G,OK,gps
+233811,2022-09-07,-109.359528,25.8262653,3D,-22,G,OK,gps
+233811,2022-09-09,-109.360603,25.8103161,3D,-22,G,OK,gps
+233811,2022-09-11,-109.359116,25.8119545,3D,-15,G,OK,gps
+233811,2022-09-13,-109.361931,25.8117752,3D,-18,G,OK,gps
+233811,2022-09-19,-109.379318,25.8609276,3D,-17,G,OK,gps
+233811,2022-09-21,-109.366745,25.804327,3D,-19,G,OK,gps
+233811,2022-09-23,-109.365669,25.7950592,3D,16,G,OK,gps
+233811,2022-09-27,-109.383385,25.8642559,3D,-17,G,OK,gps
+233811,2022-09-29,-109.396439,25.8718586,3D,-19,G,OK,gps
+233811,2022-10-01,-109.383286,25.8613625,3D,-17,G,OK,gps
+233811,2022-10-03,-109.387253,25.8658943,3D,-16,C,OK(corrected),gps
+233811,2022-10-05,-109.38446,25.8633595,3D,8,C,OK(corrected),gps
+233811,2022-10-07,-109.388329,25.8492279,3D,-13,G,OK,gps
+233811,2022-10-09,-109.392784,25.8243713,3D,-16,G,OK,gps
+233811,2022-10-11,-109.367996,25.8037376,3D,-20,G,OK,gps
+233811,2022-10-13,-109.367081,25.8046856,3D,-22,G,OK,gps
+233811,2022-10-15,-109.367386,25.8037376,3D,-27,G,OK,gps
+233811,2022-10-17,-109.368439,25.8043003,3D,-17,G,OK,gps
+233811,2022-10-19,-109.369125,25.810112,3D,-16,G,OK,gps
+233811,2022-10-21,-109.396515,25.8509178,3D,-17,G,OK,gps
+233811,2022-11-12,-109.397034,26.0121727,3D,-26,G,OK,gps
+233811,2022-11-17,-109.400589,26.006567,3D,-28,G,OK,gps
+233811,2022-11-22,-109.388428,26.0141449,3D,-24,G,OK,gps
+233811,2022-11-27,-109.385124,26.0046711,3D,-10,G,OK,gps
+233811,2022-12-02,-109.399696,26.0059013,3D,-29,G,OK,gps
+233811,2022-12-07,-109.393036,25.996582,3D,-25,G,OK,gps
+233811,2022-12-12,-109.409142,25.9908218,3D,-24,G,OK,gps
+233811,2022-12-17,-109.441986,26.7134075,3D,-28,G,OK,gps
+233811,2022-12-22,-109.443237,26.6902142,3D,-25,G,OK,gps
+233811,2022-12-27,-109.464767,26.6914692,3D,-21,G,OK,gps
+233812,2022-06-10,-151.0220642,61.2099953,,34,,,gps
+233812,2022-06-15,-151.0181732,61.2113533,,45,,,gps
+233812,2022-06-20,-150.9458618,61.2221832,,10,,,gps
+233812,2022-06-25,-150.4843445,61.2573586,,46,,,gps
+233812,2022-06-30,-150.4850311,61.2575607,,16,,,gps
+233812,2022-07-01,-150.4837189,61.2575378,,20,,,gps
+233812,2022-07-03,-150.4834137,61.2571526,,12,,,gps
+233812,2022-07-05,-150.4874115,61.257946,,19,,,gps
+233812,2022-07-09,-150.4871826,61.257946,,12,,,gps
+233812,2022-07-11,-150.484955,61.2599411,3D,19,G,OK,gps
+233812,2022-07-13,-150.483063,61.2587395,3D,14,G,OK,gps
+233812,2022-07-15,-147.606003,60.9575539,3D,25,G,OK,gps
+233812,2022-07-17,-145.360123,60.2842484,3D,19,G,OK,gps
+233812,2022-07-19,-145.269257,60.342411,3D,23,G,OK,gps
+233812,2022-07-21,-145.329773,60.2831993,3D,-1,G,OK,gps
+233812,2022-07-23,-145.330368,60.2818451,2D,0,G,OK,gps
+233812,2022-07-25,-144.22731,60.1052284,3D,17,G,OK,gps
+233812,2022-07-27,-144.178497,60.1341057,3D,24,G,OK,gps
+233812,2022-07-29,-145.665543,60.3630981,3D,23,G,OK,gps
+233812,2022-07-31,-145.269089,60.342617,3D,23,G,OK,gps
+233812,2022-08-02,-145.431,60.3812981,3D,19,G,OK,gps
+233812,2022-08-04,-145.430878,60.3826065,3D,45,G,OK,gps
+233812,2022-08-06,-145.431381,60.3829117,3D,30,G,OK,gps
+233812,2022-08-12,-145.421021,60.3760757,3D,23,G,OK,gps
+233812,2022-08-14,-145.419205,60.3753853,2D,0,G,OK,gps
+233812,2022-08-16,-145.421036,60.3761024,3D,32,G,OK,gps
+233812,2022-08-18,-145.421478,60.3762817,2D,0,G,OK,gps
+233812,2022-08-22,-145.420837,60.3759995,3D,26,G,OK,gps
+233812,2022-08-24,-145.421097,60.3761292,3D,20,G,OK,gps
+233812,2022-08-28,-145.421066,60.3761024,3D,23,G,OK,gps
+233812,2022-08-30,-145.421097,60.3760757,3D,24,G,OK,gps
+233813,2022-06-10,-151.0160828,61.216526,,39,,,gps
+233813,2022-06-15,-151.0161743,61.2163963,,33,,,gps
+233813,2022-06-20,-151.0158691,61.2167282,,36,,,gps
+233813,2022-06-25,-150.9497681,61.195713,,8,,,gps
+233813,2022-06-30,-151.0314941,61.2091789,,37,,,gps
+233813,2022-07-01,-151.0453949,61.2058258,,31,,,gps
+233813,2022-07-03,-151.0218353,61.2128639,,35,,,gps
+233813,2022-07-05,-151.0703735,61.1756172,,49,,,gps
+233813,2022-07-07,-151.0318909,61.2125816,,34,,,gps
+233813,2022-07-09,-151.0333557,61.2115593,,37,,,gps
+233813,2022-07-11,-150.9958038,61.1841393,,21,,,gps
+233813,2022-07-13,-151.0410919,61.1537552,,10,,,gps
+233813,2022-07-15,-151.026108,61.2114296,3D,39,G,OK,gps
+233813,2022-07-17,-150.994598,61.178894,3D,14,G,OK,gps
+233813,2022-07-19,-151.025497,61.2110977,3D,38,G,OK,gps
+233813,2022-07-21,-150.994629,61.1774597,3D,13,G,OK,gps
+233813,2022-07-23,-150.950363,61.1980171,3D,11,G,OK,gps
+233813,2022-07-25,-150.990326,61.1812744,3D,12,G,OK,gps
+233813,2022-07-27,-151.025848,61.2122765,3D,40,G,OK,gps
+233813,2022-07-29,-150.991013,61.178688,3D,11,G,OK,gps
+233813,2022-07-31,-150.990555,61.1792259,3D,16,G,OK,gps
+233813,2022-08-04,-145.440063,60.3856773,3D,19,G,OK,gps
+233813,2022-08-06,-145.456085,60.3929214,3D,111,G,OK,gps
+233813,2022-08-08,-145.488525,60.4000626,3D,35,G,OK,gps
+233813,2022-08-10,-145.458984,60.3684464,3D,20,G,OK,gps
+233813,2022-08-12,-145.457428,60.3726196,3D,24,G,OK,gps
+233813,2022-08-14,-145.45932,60.3891068,3D,29,G,OK,gps
+233813,2022-08-16,-145.457428,60.3726196,3D,24,G,OK,gps
+233813,2022-08-18,-145.457397,60.3726196,3D,21,G,OK,gps
+233813,2022-08-20,-145.457504,60.372673,3D,19,G,OK,gps
+233813,2022-08-22,-145.489365,60.4001656,3D,31,G,OK,gps
+233813,2022-08-24,-144.884567,60.3204994,3D,246,G,OK,gps
+233813,2022-08-28,-119.194511,43.2516975,3D,1236,G,OK,gps
+233813,2022-09-07,-118.811378,43.2952461,3D,1230,G,OK,gps
+233813,2022-09-09,-118.792923,43.2988014,3D,1235,G,OK,gps
+233813,2022-09-11,-119.237389,43.2450676,3D,1240,G,OK,gps
+233813,2022-09-13,-119.261963,43.2606087,3D,1241,G,OK,gps
+233813,2022-09-15,-119.085175,43.2470131,3D,1237,G,OK,gps
+233813,2022-09-17,-114.389465,36.1287041,3D,299,G,OK,gps
+233813,2022-09-19,-114.474022,36.1036148,3D,300,G,OK,gps
+233813,2022-09-21,-114.473869,36.1038971,3D,301,G,OK,gps
+233813,2022-09-23,-114.473846,36.1039238,3D,301,G,OK,gps
+233813,2022-09-25,-112.313766,29.3374329,3D,-18,G,OK,gps
+233813,2022-09-27,-112.300606,29.3343353,3D,-22,G,OK,gps
+233813,2022-09-29,-112.30806,29.3296509,3D,-20,G,OK,gps
+233813,2022-10-01,-111.832741,28.7736969,3D,-21,G,OK,gps
+233813,2022-10-03,-111.44529,28.3768711,3D,-19,G,OK,gps
+233813,2022-10-05,-111.391808,28.3683453,3D,-14,G,OK,gps
+233813,2022-10-07,-111.855476,28.7721081,3D,-20,G,OK,gps
+233813,2022-10-09,-111.856499,28.7716217,3D,-18,G,OK,gps
+233813,2022-10-11,-111.892494,28.7794552,3D,-21,G,OK,gps
+233813,2022-10-13,-111.91256,28.8049793,3D,-25,G,OK,gps
+233813,2022-10-15,-111.406448,28.3638916,3D,-23,G,OK,gps
+233813,2022-10-19,-111.402176,28.3614845,3D,-22,G,OK,gps
+233813,2022-10-23,-111.392548,28.367424,3D,-33,G,OK,gps
+233813,2022-10-25,-111.403709,28.3667831,3D,-23,G,OK,gps
+233813,2022-10-27,-111.401382,28.3656311,3D,-20,G,OK,gps
+233813,2022-10-29,-111.436554,28.3667583,3D,-17,G,OK,gps
+233813,2022-10-31,-111.448128,28.3620224,3D,-20,G,OK,gps
+233813,2022-11-02,-111.400848,28.3521156,3D,-17,G,OK,gps
+233813,2022-11-07,-111.400871,28.3520641,3D,-24,G,OK,gps
+233813,2022-11-12,-111.400848,28.3520641,3D,-27,G,OK,gps
+233813,2022-11-17,-111.400871,28.3520889,3D,-29,G,OK,gps
+233813,2022-11-22,-111.400848,28.3521156,3D,-19,G,OK,gps
+233813,2022-11-27,-111.400871,28.3521156,3D,-26,G,OK,gps
+233813,2022-12-07,-111.400871,28.3521156,3D,-31,G,OK,gps
+233813,2022-12-12,-111.400818,28.3520889,3D,-23,G,OK,gps
+233813,2022-12-17,-111.400871,28.3520889,3D,-30,G,OK,gps
+233813,2022-12-22,-111.400848,28.3520889,3D,-29,G,OK,gps
+233813,2022-12-27,-111.40097,28.3520393,3D,3,G,OK,gps
+233813,2023-01-01,-111.400894,28.3520889,3D,-18,G,OK,gps
+233813,2023-01-06,-111.400871,28.3521156,3D,-24,G,OK,gps
+233813,2023-01-11,-111.400871,28.3521156,3D,-27,G,OK,gps
+233813,2023-01-16,-111.400894,28.3521671,3D,-28,G,OK,gps
+233813,2023-01-21,-111.400818,28.3520889,3D,-24,G,OK,gps
+233813,2022-08-26,-145.486481,60.4006004,3D,25,C,OK(corrected),gps
+233813,2022-10-21,-111.392471,28.3677559,3D,-23,C,OK(corrected),gps
+233813,2022-12-02,-111.400871,28.3520889,3D,-21,C,OK(corrected),gps
+233815,2022-06-05,-156.678772,58.682663,,21,,,gps
+233815,2022-06-10,-156.7088013,58.7091331,,42,,,gps
+233815,2022-06-15,-156.719574,58.7166061,,43,,,gps
+233815,2022-06-20,-156.7463531,58.7210884,,43,,,gps
+233815,2022-06-25,-156.7435455,58.7207794,,38,,,gps
+233815,2022-06-30,-156.7436371,58.7190666,,38,,,gps
+233815,2022-07-01,-156.7348938,58.7228546,,37,,,gps
+233815,2022-07-03,-156.849823,58.7716217,,51,,,gps
+233815,2022-07-05,-156.849823,58.7721863,,50,,,gps
+233815,2022-07-07,-156.848938,58.7674751,,58,,,gps
+233815,2022-07-09,-156.840973,58.7657585,3D,52,C,OK(corrected),gps
+233815,2022-07-11,-156.848526,58.7665291,3D,51,C,OK(corrected),gps
+233815,2022-07-13,-122.860916,38.0376701,3D,542,G,OK,gps
+233815,2022-07-15,-117.104988,32.6097031,3D,-22,G,OK,gps
+233815,2022-07-17,-117.109879,32.6364784,3D,-23,C,OK(corrected),gps
+233815,2022-07-19,-117.111488,32.6374016,3D,-26,C,OK(corrected),gps
+233815,2022-07-21,-117.111206,32.6483841,3D,-22,G,OK,gps
+233815,2022-07-23,-117.10936,32.6488686,3D,-32,G,OK,gps
+233815,2022-07-25,-117.129486,32.6076279,3D,-27,G,OK,gps
+233815,2022-07-27,-117.097893,32.6180725,3D,-25,G,OK,gps
+233815,2022-07-29,-114.065269,27.6838779,3D,-31,G,OK,gps
+233815,2022-08-02,-114.073257,27.6776314,3D,-36,G,OK,gps
+233815,2022-08-04,-114.059433,27.6816521,3D,-25,G,OK,gps
+233815,2022-08-06,-114.057487,27.679142,3D,-3,G,OK,gps
+233815,2022-08-08,-114.059151,27.679987,3D,-18,G,OK,gps
+233815,2022-08-10,-114.063889,27.68713,3D,-27,G,OK,gps
+233815,2022-08-12,-114.040077,27.6846714,3D,-18,G,OK,gps
+233815,2022-08-14,-114.06015,27.6923256,3D,-31,G,OK,gps
+233815,2022-08-16,-114.079529,27.680397,3D,-22,G,OK,gps
+233815,2022-08-18,-114.07914,27.6803207,3D,-11,G,OK,gps
+233815,2022-08-20,-114.070389,27.6844921,3D,-29,G,OK,gps
+233815,2022-08-22,-114.064011,27.6872311,3D,-31,G,OK,gps
+233815,2022-08-24,-114.065834,27.6834431,3D,-34,G,OK,gps
+233815,2022-08-26,-114.065704,27.6832638,3D,-33,G,OK,gps
+233815,2022-08-28,-114.081367,27.6775551,3D,-19,C,OK(corrected),gps
+233815,2022-08-30,-114.064011,27.6837769,3D,-13,G,OK,gps
+233815,2022-09-01,-114.078705,27.6796799,3D,-13,G,OK,gps
+233815,2022-09-03,-114.065346,27.6851845,3D,-25,G,OK,gps
+233815,2022-09-05,-114.060402,27.671257,3D,-33,G,OK,gps
+233815,2022-09-07,-114.065315,27.685236,3D,-17,G,OK,gps
+233815,2022-09-09,-114.064781,27.6834431,3D,-34,G,OK,gps
+233815,2022-09-11,-114.065117,27.6825218,3D,-16,G,OK,gps
+233815,2022-09-13,-114.065521,27.682394,3D,-26,G,OK,gps
+233815,2022-09-15,-114.054108,27.6880264,3D,-21,G,OK,gps
+233815,2022-09-17,-114.065292,27.6854649,3D,-20,G,OK,gps
+233815,2022-09-19,-114.064629,27.6843128,3D,-28,G,OK,gps
+233815,2022-09-21,-114.064911,27.6847744,3D,-20,G,OK,gps
+233815,2022-09-23,-114.067825,27.6817017,3D,-22,G,OK,gps
+233815,2022-09-25,-114.080215,27.6758919,3D,-28,G,OK,gps
+233815,2022-09-27,-114.074379,27.6787319,3D,-27,G,OK,gps
+233815,2022-09-29,-114.06514,27.6802692,3D,-25,G,OK,gps
+233815,2022-10-01,-114.062042,27.6857986,3D,-22,G,OK,gps
+233815,2022-10-03,-114.039024,27.6621189,3D,-19,G,OK,gps
+233815,2022-10-05,-114.064957,27.6844921,3D,-12,G,OK,gps
+233815,2022-10-07,-114.03936,27.6897926,3D,-13,G,OK,gps
+233815,2022-10-09,-114.091148,27.6785278,3D,4,G,OK,gps
+233815,2022-10-11,-114.085648,27.6824951,3D,-3,G,OK,gps
+233815,2022-10-13,-113.996864,27.6618366,3D,-21,G,OK,gps
+233815,2022-10-15,-114.074051,27.6770172,3D,-27,G,OK,gps
+233815,2022-10-17,-114.051414,27.6797047,3D,-23,G,OK,gps
+233815,2022-10-21,-114.069748,27.6612225,3D,-25,G,OK,gps
+233815,2022-10-23,-114.079193,27.6542587,3D,-28,G,OK,gps
+233815,2022-10-25,-114.065956,27.6939907,3D,-27,G,OK,gps
+233815,2022-10-27,-114.049828,27.6519032,3D,-25,C,OK(corrected),gps
+233815,2022-10-29,-113.995789,27.6619911,3D,-23,G,OK,gps
+233815,2022-10-31,-114.008362,27.6627064,3D,-21,G,OK,gps
+233815,2022-11-02,-114.051186,27.6805,3D,-26,G,OK,gps
+233815,2022-11-07,-114.086128,27.6730232,3D,-14,G,OK,gps
+233815,2022-11-12,-114.048241,27.6535416,3D,-27,G,OK,gps
+233815,2022-11-17,-114.047501,27.6525955,3D,-30,G,OK,gps
+233815,2022-11-22,-114.086235,27.6723843,3D,-26,G,OK,gps
+233815,2022-11-27,-114.049858,27.6817017,3D,-25,G,OK,gps
+233815,2022-12-02,-114.064423,27.6828041,3D,-29,G,OK,gps
+233815,2022-12-07,-114.087746,27.6789112,3D,-34,G,OK,gps
+233815,2022-12-12,-114.049881,27.6907387,3D,-28,G,OK,gps
+233815,2022-12-17,-114.075996,27.6838779,3D,-25,G,OK,gps
+233815,2022-12-22,-114.085289,27.6776066,3D,-30,C,OK(corrected),gps
+233815,2022-12-27,-114.082314,27.6814213,3D,-30,G,OK,gps
+233815,2023-01-11,-114.075172,27.6595592,3D,-31,G,OK,gps
+233815,2023-01-16,-114.063934,27.6754055,3D,-20,G,OK,gps
+233816,2022-06-05,-156.7175598,58.7134094,,40,,,gps
+233816,2022-06-10,-156.7113342,58.7135353,,42,,,gps
+233816,2022-06-15,-156.713562,58.7142525,,45,,,gps
+233816,2022-06-20,-156.7127991,58.7142029,,42,,,gps
+233816,2022-06-25,-156.7107239,58.7146378,,42,,,gps
+233816,2022-06-30,-156.9972076,58.8073845,,27,,,gps
+233816,2022-07-01,-156.9969025,58.8074112,,24,,,gps
+233816,2022-07-03,-157.0128021,58.8027267,,24,,,gps
+233816,2022-07-05,-157.0827942,58.7448196,,18,,,gps
+233816,2022-07-07,-157.0820007,58.7463036,,32,,,gps
+233816,2022-07-09,-157.081924,58.7421074,3D,16,G,OK,gps
+233816,2022-07-11,-157.082352,58.7428474,3D,23,G,OK,gps
+233816,2022-07-15,-120.84433,35.3407097,3D,-27,G,OK,gps
+233816,2022-07-17,-120.843124,35.3417091,3D,-24,G,OK,gps
+233816,2022-07-19,-120.842583,35.3436546,3D,-21,G,OK,gps
+233816,2022-07-21,-120.842766,35.3437576,3D,-30,G,OK,gps
+233816,2022-07-23,-120.843658,35.3442955,3D,-27,G,OK,gps
+233816,2022-07-25,-110.341133,27.1929989,3D,-19,G,OK,gps
+233816,2022-07-27,-109.776245,26.7705212,3D,-25,G,OK,gps
+233816,2022-07-29,-109.773811,26.7693958,3D,-20,G,OK,gps
+233816,2022-07-31,-109.822655,26.787878,3D,-20,G,OK,gps
+233816,2022-08-02,-109.776344,26.7682953,3D,-24,G,OK,gps
+233816,2022-08-06,-109.780952,26.7666302,3D,-28,G,OK,gps
+233816,2022-08-08,-109.823273,26.7876472,3D,-16,G,OK,gps
+233816,2022-08-10,-109.811264,26.7901573,3D,-22,G,OK,gps
+233816,2022-08-12,-109.821556,26.7870083,3D,-24,G,OK,gps
+233816,2022-08-14,-109.823502,26.7883129,3D,-14,G,OK,gps
+233816,2022-08-18,-109.824547,26.7869816,3D,-14,G,OK,gps
+233816,2022-08-20,-109.823753,26.787878,3D,-18,G,OK,gps
+233816,2022-08-22,-109.823318,26.7869568,3D,-19,G,OK,gps
+233816,2022-08-24,-109.824371,26.7873669,3D,-21,G,OK,gps
+233816,2022-08-26,-109.82296,26.7874947,3D,-26,G,OK,gps
+233816,2022-08-28,-109.82235,26.7876472,3D,-20,G,OK,gps
+233816,2022-08-30,-109.824806,26.7863426,3D,-26,G,OK,gps
+233816,2022-09-01,-109.821732,26.7871876,3D,-21,G,OK,gps
+233816,2022-09-03,-109.819305,26.7868538,2D,0,G,OK,gps
+233816,2022-09-05,-109.823166,26.7872124,3D,-19,G,OK,gps
+233816,2022-09-07,-109.804787,26.8004475,3D,-28,G,OK,gps
+233816,2022-09-09,-109.814156,26.7872391,3D,-19,G,OK,gps
+233816,2022-09-11,-109.821915,26.7870331,3D,-24,G,OK,gps
+233816,2022-09-13,-109.811928,26.7866745,3D,-17,G,OK,gps
+233816,2022-09-15,-109.811958,26.786726,3D,-15,G,OK,gps
+233816,2022-09-17,-109.811699,26.7958908,3D,-10,G,OK,gps
+233816,2022-09-19,-109.803223,26.7963257,3D,-22,G,OK,gps
+233816,2022-09-21,-109.826851,26.7943802,3D,-21,G,OK,gps
+233816,2022-09-23,-109.81295,26.7754879,3D,-17,G,OK,gps
+233816,2022-09-25,-109.823296,26.7868805,3D,-23,G,OK,gps
+233816,2022-09-27,-109.813339,26.7750015,3D,-19,G,OK,gps
+233816,2022-09-29,-109.807884,26.7971458,3D,-16,G,OK,gps
+233816,2022-10-01,-109.824753,26.7839108,3D,0,G,OK,gps
+233816,2022-10-03,-109.819939,26.7862148,2D,0,G,OK,gps
+233816,2022-10-05,-109.833435,26.7780743,3D,-16,G,OK,gps
+233816,2022-10-07,-109.813797,26.7733631,3D,-23,G,OK,gps
+233816,2022-10-09,-109.810677,26.7956104,3D,-18,G,OK,gps
+233816,2022-10-15,-109.814926,26.7725182,3D,-17,G,OK,gps
+233816,2022-10-17,-109.824654,26.7746181,3D,-28,G,OK,gps
+233816,2022-10-19,-109.833641,26.7785091,3D,-17,G,OK,gps
+233816,2022-10-21,-109.743805,26.7300987,3D,0,G,OK,gps
+233816,2022-10-23,-109.831718,26.7820168,3D,-24,G,OK,gps
+233816,2022-10-25,-109.83149,26.7790203,3D,-23,G,OK,gps
+233816,2022-10-27,-109.82975,26.782196,2D,0,G,OK,gps
+233816,2022-10-29,-109.738945,26.7352962,3D,-4,G,OK,gps
+233816,2022-11-02,-109.744652,26.7405434,3D,-23,G,OK,gps
+233816,2022-11-07,-109.596535,26.7146111,3D,-22,G,OK,gps
+233816,2022-11-12,-109.511284,26.7029629,3D,-22,G,OK,gps
+233816,2022-11-17,-109.597168,26.7129726,3D,-31,G,OK,gps
+233816,2022-11-27,-109.51062,26.6983299,3D,-29,G,OK,gps
+233816,2022-12-02,-109.542976,26.7065468,3D,-26,G,OK,gps
+233816,2022-12-07,-109.512283,26.7033463,3D,-15,G,OK,gps
+233816,2022-12-12,-109.510796,26.7027836,3D,-28,G,OK,gps
+233816,2022-12-17,-109.503754,26.7266693,3D,-26,G,OK,gps
+233816,2023-01-01,-109.501862,26.7299709,3D,-23,G,OK,gps
+233816,2023-01-06,-109.511459,26.701479,3D,-24,G,OK,gps
+233816,2022-08-16,-109.821091,26.7867775,3D,-21,C,OK(corrected),gps
+233816,2022-10-11,-109.817329,26.7692165,3D,-21,C,OK(corrected),gps
+233816,2022-10-13,-109.814514,26.7738743,3D,-20,C,OK(corrected),gps
+233816,2022-10-31,-109.735741,26.7359352,3D,-21,C,OK(corrected),gps
+233816,2022-12-27,-109.505501,26.7224712,3D,-24,C,OK(corrected),gps
+233816,2023-01-11,-109.513535,26.6892414,3D,-26,C,OK(corrected),gps
+233817,2022-06-05,-156.7088013,58.7091064,,40,,,gps
+233817,2022-06-10,-156.7088013,58.709671,,42,,,gps
+233817,2022-06-15,-156.7087708,58.7091331,,42,,,gps
+233817,2022-06-20,-156.7304535,58.7205238,,42,,,gps
+233817,2022-06-25,-156.7137451,58.7236481,,40,,,gps
+233817,2022-06-30,-156.7302551,58.7204208,,39,,,gps
+233817,2022-07-01,-156.7291565,58.7199097,,37,,,gps
+233817,2022-07-03,-156.7302246,58.7204475,,37,,,gps
+233817,2022-07-05,-142.8343201,49.2754555,,1297,,,gps
+233817,2022-07-07,-123.8762589,40.7041168,,1363,,,gps
+233817,2022-07-09,-122.216232,37.7471619,3D,-29,G,OK,gps
+233817,2022-07-11,-122.216919,37.7470856,3D,-21,G,OK,gps
+233817,2022-07-13,-122.215332,37.746521,3D,-20,G,OK,gps
+233817,2022-07-15,-122.215408,37.7442436,3D,-21,G,OK,gps
+233817,2022-07-17,-122.216331,37.7468796,3D,-22,G,OK,gps
+233817,2022-07-19,-117.097847,32.6181488,3D,-22,G,OK,gps
+233817,2022-07-23,-112.198128,28.9735031,3D,-27,G,OK,gps
+233817,2022-07-25,-112.195442,28.9736328,3D,-32,G,OK,gps
+233817,2022-07-27,-111.907646,28.8271751,3D,-26,G,OK,gps
+233817,2022-07-29,-111.906677,28.8270473,3D,-24,G,OK,gps
+233817,2022-07-31,-111.907188,28.8273544,3D,-28,G,OK,gps
+233817,2022-08-02,-111.908211,28.8269176,3D,-30,G,OK,gps
+233817,2022-08-04,-107.944176,24.7619705,3D,-18,G,OK,gps
+233817,2022-08-06,-107.652412,24.5047932,3D,-19,G,OK,gps
+233817,2022-08-08,-107.670647,24.528244,3D,-11,G,OK,gps
+233817,2022-08-10,-107.659813,24.5505409,3D,-24,G,OK,gps
+233817,2022-08-12,-107.662857,24.5321865,3D,-17,G,OK,gps
+233817,2022-08-14,-107.656746,24.534029,3D,-18,G,OK,gps
+233817,2022-08-16,-107.656975,24.5400696,3D,-18,G,OK,gps
+233817,2022-08-18,-107.666496,24.5419388,3D,-7,G,OK,gps
+233817,2022-08-20,-107.911255,24.7649403,3D,-20,G,OK,gps
+233817,2022-08-22,-107.968086,24.7571068,3D,-1,G,OK,gps
+233817,2022-08-24,-107.967888,24.7569542,3D,-17,G,OK,gps
+233817,2022-08-28,-107.967812,24.7572346,3D,-15,G,OK,gps
+233817,2022-09-05,-107.966476,24.7604351,3D,-21,G,OK,gps
+233817,2022-07-21,-112.195824,28.9739132,3D,-27,C,OK(corrected),gps
+233817,2022-08-26,-107.914505,24.7670135,3D,-6,C,OK(corrected),gps
+233817,2022-09-03,-107.967934,24.7571068,3D,-27,C,OK(corrected),gps
+233818,2022-06-05,-156.7175293,58.7133827,,38,,,gps
+233818,2022-06-10,-156.7113342,58.7135353,,43,,,gps
+233818,2022-06-15,-156.7233124,58.6617966,,36,,,gps
+233818,2022-06-20,-157.6691132,57.5168915,,25,,,gps
+233818,2022-06-25,-157.6623993,57.5095406,,26,,,gps
+233818,2022-06-30,-156.7095947,58.7403374,,39,,,gps
+233818,2022-07-01,-156.6776886,58.7373428,,42,,,gps
+233818,2022-07-03,-157.0317383,58.9485435,,28,,,gps
+233818,2022-07-05,-157.0393677,58.9240723,,25,,,gps
+233818,2022-07-07,-157.0307465,58.9217682,,4,,,gps
+233818,2022-07-09,-157.035049,58.9256592,3D,22,G,OK,gps
+233818,2022-07-11,-156.989532,58.8614006,3D,23,G,OK,gps
+233818,2022-07-13,-124.116394,40.8461685,3D,-27,G,OK,gps
+233818,2022-07-17,-124.171326,40.8279419,3D,-21,G,OK,gps
+233818,2022-07-19,-124.169205,40.8176765,3D,-20,G,OK,gps
+233818,2022-07-21,-124.170563,40.8300171,3D,-20,G,OK,gps
+233818,2022-07-25,-114.063217,28.1512833,3D,-30,G,OK,gps
+233818,2022-07-27,-114.053749,28.1579647,3D,-27,G,OK,gps
+233818,2022-07-29,-114.236938,27.7004414,3D,-28,G,OK,gps
+233818,2022-07-31,-114.23671,27.7009277,3D,-32,G,OK,gps
+233818,2022-08-02,-114.229721,27.7087097,3D,-32,G,OK,gps
+233818,2022-08-04,-114.237526,27.7007751,3D,-27,G,OK,gps
+233818,2022-08-06,-114.24247,27.7017727,3D,-27,G,OK,gps
+233818,2022-08-08,-114.240982,27.7014904,3D,-29,G,OK,gps
+233818,2022-08-10,-114.236687,27.6999035,3D,-31,G,OK,gps
+233818,2022-08-12,-114.236458,27.7011833,3D,-32,G,OK,gps
+233818,2022-08-14,-114.234482,27.7013378,3D,-32,G,OK,gps
+233818,2022-08-16,-114.236534,27.700058,3D,-23,G,OK,gps
+233818,2022-08-18,-114.239754,27.699852,3D,-29,G,OK,gps
+233818,2022-08-20,-114.239502,27.699852,3D,-26,G,OK,gps
+233818,2022-08-22,-114.236275,27.7002888,3D,-35,G,OK,gps
+233818,2022-08-24,-114.236427,27.700058,3D,-28,G,OK,gps
+233818,2022-08-26,-114.235939,27.7014408,3D,-34,G,OK,gps
+233818,2022-08-28,-114.224861,27.7062531,3D,-28,G,OK,gps
+233818,2022-08-30,-114.236816,27.6998272,2D,0,G,OK,gps
+233818,2022-09-01,-114.236481,27.6996727,3D,-24,G,OK,gps
+233818,2022-09-03,-114.243111,27.7020283,3D,-31,G,OK,gps
+233818,2022-09-05,-114.244034,27.7008514,3D,-27,G,OK,gps
+233818,2022-09-07,-114.237122,27.7006969,3D,-28,G,OK,gps
+233818,2022-09-09,-114.244003,27.704998,3D,-23,G,OK,gps
+233818,2022-09-11,-114.237251,27.7023354,3D,-33,G,OK,gps
+233818,2022-09-13,-114.222961,27.709734,3D,-22,G,OK,gps
+233818,2022-09-15,-114.228157,27.7123203,3D,-24,G,OK,gps
+233818,2022-09-19,-114.236427,27.7000828,3D,-17,G,OK,gps
+233818,2022-09-23,-114.23661,27.699955,3D,-13,G,OK,gps
+233818,2022-09-25,-114.227264,27.7052803,3D,-25,G,OK,gps
+233818,2022-09-27,-114.224655,27.7064571,3D,-25,G,OK,gps
+233818,2022-07-15,-124.174324,40.8222084,3D,-24,C,OK(corrected),gps
+233818,2022-07-23,-124.155075,40.8580208,3D,-22,C,OK(corrected),gps
+233818,2022-09-17,-114.239426,27.6994686,3D,-20,C,OK(corrected),gps
+233818,2022-09-29,-114.254196,27.7097092,2D,0,C,OK(corrected),gps
+233818,2022-10-03,-114.254608,27.7097607,3D,-3,C,OK(corrected),gps
+233819,2022-06-05,-156.6592407,58.709671,,32,,,gps
+233819,2022-06-10,-156.9867859,58.7485809,,0,,,gps
+233819,2022-06-15,-156.8725128,58.6745987,,46,,,gps
+233819,2022-06-20,-157.0854034,58.751194,,20,,,gps
+233819,2022-06-25,-157.0733185,58.7415924,,21,,,gps
+233819,2022-06-30,-156.9961395,58.8089218,,23,,,gps
+233819,2022-07-01,-156.9962158,58.8089981,,25,,,gps
+233819,2022-07-03,-156.998642,58.8085136,,23,,,gps
+233819,2022-07-05,-157.0778198,58.746254,,24,,,gps
+233819,2022-07-07,-157.0675812,58.7454834,,19,,,gps
+233819,2022-07-11,-157.009811,58.8045425,3D,24,G,OK,gps
+233819,2022-07-13,-123.200729,36.3498116,3D,757,G,OK,gps
+233819,2022-07-17,-117.09951,32.6191483,3D,-34,G,OK,gps
+233819,2022-07-19,-117.097969,32.6184311,3D,-23,G,OK,gps
+233819,2022-07-23,-117.106674,32.6130829,3D,-29,G,OK,gps
+233819,2022-07-25,-117.115997,32.6465149,3D,-28,G,OK,gps
+233819,2022-07-27,-117.114944,32.6471291,3D,-26,G,OK,gps
+233819,2022-07-29,-113.921906,31.6261253,3D,-28,G,OK,gps
+233819,2022-07-31,-113.926231,31.6220036,3D,-25,G,OK,gps
+233819,2022-08-02,-113.925415,31.6235142,3D,-24,G,OK,gps
+233819,2022-08-04,-113.922829,31.6229,3D,-20,G,OK,gps
+233819,2022-08-06,-113.909798,31.6243076,3D,-32,G,OK,gps
+233819,2022-08-08,-113.922829,31.6272774,2D,0,G,OK,gps
+233819,2022-08-10,-113.922546,31.6268158,3D,-22,G,OK,gps
+233819,2022-08-14,-113.91095,31.6403065,3D,-25,G,OK,gps
+233819,2022-08-16,-113.925621,31.6244602,3D,-26,G,OK,gps
+233819,2022-08-18,-113.920547,31.628788,3D,-17,G,OK,gps
+233819,2022-08-20,-113.909821,31.6236935,3D,-30,G,OK,gps
+233819,2022-08-22,-113.910515,31.6248188,3D,-26,G,OK,gps
+233819,2022-08-24,-113.920677,31.6263561,3D,-15,G,OK,gps
+233819,2022-08-26,-113.922653,31.6273022,3D,-23,G,OK,gps
+233819,2022-08-28,-113.921753,31.6266365,3D,-30,G,OK,gps
+233819,2022-08-30,-113.921165,31.6290169,3D,-26,G,OK,gps
+233819,2022-09-01,-113.922806,31.6245632,3D,-22,G,OK,gps
+233819,2022-09-03,-113.921806,31.6270466,3D,-22,G,OK,gps
+233819,2022-09-05,-113.920883,31.6272774,3D,-26,G,OK,gps
+233819,2022-09-07,-113.922653,31.6272774,3D,-15,G,OK,gps
+233819,2022-09-09,-113.922653,31.6268425,3D,-23,G,OK,gps
+233819,2022-09-11,-113.920425,31.629324,3D,-25,G,OK,gps
+233819,2022-09-19,-110.245361,27.1647625,3D,-25,G,OK,gps
+233819,2022-09-21,-110.133827,27.1304569,3D,-7,G,OK,gps
+233819,2022-09-23,-110.235741,27.1688328,3D,-18,G,OK,gps
+233819,2022-09-25,-110.260925,27.1555977,3D,-7,G,OK,gps
+233819,2022-09-27,-110.245949,27.1670399,3D,-21,G,OK,gps
+233819,2022-09-29,-110.140991,27.1291256,3D,-5,G,OK,gps
+233819,2022-10-01,-110.141968,27.1291256,3D,-20,G,OK,gps
+233819,2022-10-03,-110.140533,27.1292038,3D,-21,G,OK,gps
+233819,2022-10-05,-110.16687,27.1448193,3D,-17,G,OK,gps
+233819,2022-10-07,-110.142349,27.1284866,3D,-15,G,OK,gps
+233819,2022-10-09,-110.137947,27.1286144,3D,-25,G,OK,gps
+233819,2022-10-11,-110.133751,27.1236744,3D,-11,G,OK,gps
+233819,2022-10-13,-110.173759,27.1381111,3D,-15,G,OK,gps
+233819,2022-10-15,-110.163597,27.1385975,3D,-22,G,OK,gps
+233819,2022-10-17,-110.171326,27.1363201,3D,24,G,OK,gps
+233819,2022-11-12,-108.997597,25.6530552,3D,-28,G,OK,gps
+233819,2022-11-17,-108.933258,25.6608391,3D,-24,G,OK,gps
+233819,2022-11-22,-108.943344,25.6625023,3D,-27,G,OK,gps
+233819,2022-12-12,-108.041046,24.9995651,3D,-21,G,OK,gps
+233819,2022-12-17,-108.04023,25.0072193,3D,-23,G,OK,gps
+233819,2022-12-22,-107.553421,24.47118,3D,-21,G,OK,gps
+233819,2022-12-27,-107.58419,24.5252228,3D,-23,G,OK,gps
+233819,2023-01-11,-107.51722,24.4866428,3D,-20,G,OK,gps
+233819,2023-01-16,-107.586266,24.5251713,3D,-9,G,OK,gps
+233819,2022-07-09,-157.082336,58.7504768,3D,17,C,OK(corrected),gps
+233819,2022-07-15,-117.104935,32.6090622,3D,-30,C,OK(corrected),gps
+233819,2022-07-21,-117.106903,32.6134148,3D,-28,C,OK(corrected),gps
+233819,2022-09-15,-113.922058,31.6237431,3D,-17,C,OK(corrected),gps
+233819,2022-09-17,-110.55835,27.4519176,3D,-23,C,OK(corrected),gps
+233819,2022-10-19,-110.168869,27.1336327,3D,-18,C,OK(corrected),gps
+233819,2022-10-21,-110.172508,27.142643,3D,-9,C,OK(corrected),gps
+233819,2022-10-23,-110.176422,27.1399288,3D,-24,C,OK(corrected),gps
+233819,2022-11-27,-108.973915,25.669466,3D,-23,C,OK(corrected),gps
+233819,2023-01-01,-107.584526,24.5251198,3D,-15,C,OK(corrected),gps
+233819,2023-01-06,-107.606003,24.5062008,3D,-22,C,OK(corrected),gps
+233820,2022-06-10,-156.7117767,58.7160721,,40,,,gps
+233820,2022-06-15,-156.7146606,58.7175827,,46,,,gps
+233820,2022-06-20,-156.7148895,58.7174797,,43,,,gps
+233820,2022-06-25,-156.6282349,58.6470795,,28,,,gps
+233820,2022-06-30,-142.4147339,53.1137657,,1977,,,gps
+233820,2022-07-01,-127.3301926,42.4985199,,795,,,gps
+233820,2022-07-03,-122.1691742,37.6786804,,-35,,,gps
+233820,2022-07-05,-122.1126785,37.5638924,,-22,,,gps
+233820,2022-07-07,-122.248024,37.5213699,,-22,,,gps
+233820,2022-07-09,-122.116135,37.5652237,3D,-28,G,OK,gps
+233820,2022-07-11,-122.245796,37.5187836,3D,-29,G,OK,gps
+233820,2022-07-13,-122.248642,37.5211143,3D,-18,G,OK,gps
+233820,2022-07-17,-122.116341,37.5653,3D,-21,G,OK,gps
+233820,2022-07-19,-122.237968,37.5052147,3D,-23,G,OK,gps
+233820,2022-07-21,-115.127281,29.5982971,3D,2386,G,OK,gps
+233820,2022-07-23,-113.068787,26.6279297,3D,-26,G,OK,gps
+233820,2022-07-25,-109.374374,25.8602886,3D,-24,G,OK,gps
+233820,2022-07-27,-108.033882,25.0537338,3D,-1,G,OK,gps
+233820,2022-07-29,-108.034164,25.0538368,3D,-26,G,OK,gps
+233820,2022-07-31,-108.033981,25.0537605,3D,-16,G,OK,gps
+233820,2022-08-02,-108.034447,25.0534534,3D,-16,G,OK,gps
+233820,2022-08-04,-108.034416,25.0538883,3D,-17,G,OK,gps
+233820,2022-08-06,-108.034676,25.0529156,3D,-19,G,OK,gps
+233820,2022-08-08,-108.033936,25.0539913,3D,-15,G,OK,gps
+233820,2022-08-10,-108.033546,25.0539646,2D,0,G,OK,gps
+233820,2022-08-12,-108.043304,25.0288773,3D,-22,G,OK,gps
+233820,2022-08-14,-108.043633,25.0317192,3D,-14,G,OK,gps
+233820,2022-08-16,-108.042992,25.0345592,3D,-25,G,OK,gps
+233820,2022-08-18,-108.041641,25.032999,3D,-13,G,OK,gps
+233820,2022-08-20,-108.039307,25.0289288,3D,-23,G,OK,gps
+233820,2022-08-22,-108.04438,25.0629768,3D,-18,G,OK,gps
+233820,2022-08-24,-108.034164,25.0537605,3D,-25,G,OK,gps
+233820,2022-08-26,-108.034058,25.0539131,3D,-13,G,OK,gps
+233820,2022-08-28,-108.033905,25.0541439,3D,-16,G,OK,gps
+233820,2022-08-30,-108.035133,25.0477695,3D,-22,G,OK,gps
+233820,2022-09-03,-108.034851,25.0468731,3D,-21,G,OK,gps
+233820,2022-09-05,-108.034264,25.0538883,3D,-13,G,OK,gps
+233820,2022-09-07,-108.035316,25.0476418,3D,-20,G,OK,gps
+233820,2022-09-09,-108.035088,25.0466423,3D,-18,G,OK,gps
+233820,2022-09-11,-108.035088,25.0462589,3D,-11,G,OK,gps
+233820,2022-09-13,-108.035164,25.04846,3D,-5,G,OK,gps
+233820,2022-09-15,-108.034698,25.0456696,3D,-10,G,OK,gps
+233820,2022-09-25,-108.035492,25.0420361,3D,-12,G,OK,gps
+233820,2022-09-27,-108.034653,25.0551682,3D,-19,G,OK,gps
+233820,2022-10-07,-108.134056,24.9979515,3D,0,G,OK,gps
+233820,2022-10-09,-108.082703,25.0073223,3D,-13,G,OK,gps
+233820,2022-10-11,-108.079269,25.0104961,3D,-18,G,OK,gps
+233820,2022-10-13,-108.088997,25.0062466,3D,-20,G,OK,gps
+233820,2022-10-15,-108.082291,25.0064507,3D,-18,G,OK,gps
+233820,2022-10-17,-108.137001,24.9961605,3D,-30,G,OK,gps
+233820,2022-10-21,-108.136688,24.9935741,3D,-16,G,OK,gps
+233820,2022-10-23,-108.149414,25.0160503,3D,-1,G,OK,gps
+233820,2022-10-25,-108.088562,24.9990788,3D,-22,G,OK,gps
+233820,2022-10-31,-108.08905,25.0034561,3D,-17,G,OK,gps
+233820,2022-11-02,-108.134338,24.9951611,3D,-20,G,OK,gps
+233820,2022-11-07,-108.095039,25.007885,3D,-23,G,OK,gps
+233820,2022-11-12,-108.102005,25.0115204,3D,-23,G,OK,gps
+233820,2022-11-17,-108.074249,25.0092411,3D,-20,G,OK,gps
+233820,2022-11-22,-108.1595,25.0423431,3D,-21,G,OK,gps
+233820,2022-12-07,-108.159248,25.0445175,3D,-24,G,OK,gps
+233820,2022-12-12,-108.062401,25.0048122,3D,-24,G,OK,gps
+233820,2022-12-27,-108.137741,25.0173321,3D,-22,G,OK,gps
+233820,2023-01-01,-108.13308,25.0029697,3D,-23,G,OK,gps
+233820,2023-01-06,-108.061249,25.0073223,3D,-24,G,OK,gps
+233820,2023-01-11,-108.138306,25.017767,3D,-29,G,OK,gps
+233820,2023-01-16,-108.135307,24.9994621,3D,-15,G,OK,gps
+233820,2023-01-21,-108.143524,25.028595,3D,-15,G,OK,gps
+233820,2022-07-15,-122.138405,37.6046219,3D,-20,C,OK(corrected),gps
+233820,2022-10-19,-108.134872,24.9944954,2D,0,C,OK(corrected),gps
+233820,2022-11-27,-108.061272,25.00494,3D,-24,C,OK(corrected),gps
+233820,2022-12-02,-108.040794,25.0275974,3D,-24,C,OK(corrected),gps
+233821,2022-06-05,-156.6173096,58.6880112,,43,,,gps
+233821,2022-06-10,-156.6179962,58.6871414,,48,,,gps
+233821,2022-06-15,-156.6179962,58.6871414,,45,,,gps
+233821,2022-06-20,-156.6179657,58.6871414,,45,,,gps
+233821,2022-06-25,-156.6179657,58.6871681,,47,,,gps
+233821,2022-06-30,-156.6179657,58.6871185,,43,,,gps
+233821,2022-07-01,-156.6179657,58.6871414,,44,,,gps
+233821,2022-07-03,-156.6170044,58.687809,,39,,,gps
+233821,2022-07-05,-156.6007996,58.6883469,,44,,,gps
+233821,2022-07-07,-156.6026917,58.6874733,,0,,,gps
+233821,2022-07-09,-156.602325,58.6871185,3D,38,G,OK,gps
+233821,2022-07-11,-156.600128,58.6935921,3D,42,G,OK,gps
+233821,2022-07-13,-156.601868,58.6879883,3D,-1,G,OK,gps
+233821,2022-07-15,-156.601822,58.6879883,3D,51,G,OK,gps
+233821,2022-07-17,-157.00351,58.8076668,3D,20,G,OK,gps
+233821,2022-07-19,-157.069382,58.7320442,3D,-2,G,OK,gps
+233821,2022-07-23,-157.08197,58.7476616,3D,19,G,OK,gps
+233821,2022-07-25,-157.07019,58.7358093,3D,15,G,OK,gps
+233821,2022-07-27,-157.066055,58.7354736,2D,0,G,OK,gps
+233821,2022-07-29,-157.039581,58.7854958,3D,26,G,OK,gps
+233821,2022-07-31,-157.03894,58.7864685,3D,9,G,OK,gps
+233821,2022-08-02,-157.036041,58.7880325,3D,26,G,OK,gps
+233821,2022-08-06,-116.608986,31.7766018,3D,-30,G,OK,gps
+233821,2022-08-08,-116.615105,31.7651081,3D,-24,G,OK,gps
+233821,2022-08-10,-110.907532,27.8904457,3D,-30,G,OK,gps
+233821,2022-08-12,-110.464859,27.3187447,3D,-31,G,OK,gps
+233821,2022-08-14,-110.464806,27.3188992,3D,-18,G,OK,gps
+233821,2022-08-16,-110.464729,27.3192577,3D,-18,G,OK,gps
+233821,2022-08-18,-110.459099,27.3152637,3D,-23,G,OK,gps
+233821,2022-08-20,-110.464294,27.3158779,3D,-22,G,OK,gps
+233821,2022-08-22,-110.449776,27.3263226,3D,-24,G,OK,gps
+233821,2022-08-24,-110.451881,27.3262711,3D,-15,G,OK,gps
+233821,2022-08-26,-110.462219,27.3204861,3D,-24,G,OK,gps
+233821,2022-08-30,-110.451057,27.3224316,3D,-49,G,OK,gps
+233821,2022-09-03,-110.461014,27.3184643,3D,-17,G,OK,gps
+233821,2022-09-05,-110.454262,27.3273468,3D,-26,G,OK,gps
+233821,2022-09-07,-110.458557,27.3217926,3D,-28,G,OK,gps
+233821,2022-09-09,-110.451035,27.3267078,3D,-20,G,OK,gps
+233821,2022-09-11,-110.461861,27.3220215,3D,-23,G,OK,gps
+233821,2022-09-13,-110.460609,27.3181572,2D,0,G,OK,gps
+233821,2022-09-15,-110.461761,27.3184128,3D,-17,G,OK,gps
+233821,2022-09-17,-110.461502,27.3187447,3D,-18,G,OK,gps
+233821,2022-09-19,-110.462273,27.3186169,3D,-27,G,OK,gps
+233821,2022-09-27,-110.462166,27.3186436,3D,-22,G,OK,gps
+233821,2022-10-07,-110.451363,27.321434,3D,-16,G,OK,gps
+233821,2022-10-09,-110.468391,27.3112183,3D,-17,G,OK,gps
+233821,2022-10-11,-110.475197,27.3126793,3D,2,G,OK,gps
+233821,2022-10-13,-110.470695,27.3014145,3D,-12,G,OK,gps
+233821,2022-10-15,-110.467903,27.2985725,3D,-26,G,OK,gps
+233821,2022-10-17,-110.471184,27.3013115,3D,-18,G,OK,gps
+233821,2022-10-19,-110.290367,27.182375,3D,-18,G,OK,gps
+233821,2022-10-21,-110.411331,27.3032322,3D,9,G,OK,gps
+233821,2022-10-23,-110.406487,27.2985992,3D,-22,G,OK,gps
+233821,2022-10-25,-110.418137,27.3110905,3D,-28,G,OK,gps
+233821,2022-10-27,-110.418114,27.3111172,3D,-22,G,OK,gps
+233821,2022-10-29,-110.468132,27.311348,3D,-18,G,OK,gps
+233821,2022-10-31,-110.471024,27.3014908,3D,23,G,OK,gps
+233821,2022-11-02,-110.470078,27.299469,3D,-24,G,OK,gps
+233821,2022-11-07,-110.482803,27.3311615,3D,-43,G,OK,gps
+233821,2022-11-12,-110.468163,27.3104515,3D,-24,G,OK,gps
+233821,2022-12-07,-110.482162,27.3299847,3D,-25,G,OK,gps
+233821,2022-12-12,-110.482346,27.3105793,3D,-23,G,OK,gps
+233821,2022-12-17,-110.47625,27.3101959,3D,-25,G,OK,gps
+233821,2022-12-22,-110.468056,27.3088379,3D,-22,G,OK,gps
+233821,2023-01-01,-110.477249,27.3094521,3D,-26,G,OK,gps
+233821,2023-01-06,-110.491226,27.3116035,3D,-26,G,OK,gps
+233821,2023-01-11,-110.487411,27.3108349,3D,-25,G,OK,gps
+233821,2023-01-16,-110.472641,27.3101692,3D,-20,G,OK,gps
+233821,2023-01-26,-110.478096,27.3140087,3D,-16,G,OK,gps
+233821,2023-01-31,-110.466393,27.3083,3D,-27,G,OK,gps
+233821,2023-02-05,-110.48877,27.3197956,3D,-24,G,OK,gps
+233821,2023-02-10,-110.479424,27.3140354,3D,19,G,OK,gps
+233821,2022-09-01,-110.461708,27.3184891,3D,-15,C,OK(corrected),gps
+233821,2022-09-25,-110.462349,27.3184128,3D,-19,C,OK(corrected),gps
+233821,2022-12-27,-110.483856,27.3107319,3D,-26,C,OK(corrected),gps
+233821,2023-01-21,-110.486847,27.3098373,3D,-11,C,OK(corrected),gps
+233823,2022-06-25,-156.6282043,58.6470528,,23,,,gps
+233823,2022-06-30,-142.4148102,53.1137161,,1976,,,gps
+233823,2022-07-01,-127.3302689,42.4987259,,796,,,gps
+233823,2022-07-03,-122.1436005,37.6437378,,-20,,,gps
+233823,2022-07-05,-122.1445007,37.6439934,,-27,,,gps
+233823,2022-07-07,-122.0525665,37.4925194,,-24,,,gps
+233823,2022-07-09,-118.043816,33.6950645,3D,-29,G,OK,gps
+233823,2022-07-11,-114.014481,31.5171204,3D,-27,G,OK,gps
+233823,2022-07-15,-113.936089,31.6410503,3D,-23,G,OK,gps
+233823,2022-07-17,-113.938698,31.6295547,3D,-22,G,OK,gps
+233823,2022-07-19,-113.931892,31.6104317,3D,-18,G,OK,gps
+233823,2022-07-21,-113.929642,31.59305,3D,-24,G,OK,gps
+233823,2022-07-23,-113.928566,31.5948162,3D,-10,G,OK,gps
+233823,2022-07-25,-113.930305,31.5919743,3D,-24,G,OK,gps
+233823,2022-07-27,-113.929794,31.5915394,3D,-30,G,OK,gps
+233823,2022-07-29,-113.931328,31.6064644,3D,-29,G,OK,gps
+233823,2022-07-31,-113.932762,31.6108932,3D,-24,G,OK,gps
+233823,2022-08-02,-113.934631,31.6133251,3D,-26,G,OK,gps
+233823,2022-08-04,-113.927155,31.6071815,3D,-25,G,OK,gps
+233823,2022-08-08,-113.920753,31.5917435,3D,-39,G,OK,gps
+233823,2022-08-10,-113.922035,31.5950985,3D,-26,G,OK,gps
+233823,2022-08-12,-113.932686,31.6129913,3D,-23,G,OK,gps
+233823,2022-08-14,-113.935837,31.6410751,3D,-23,G,OK,gps
+233823,2022-08-16,-113.93425,31.6150398,3D,-24,G,OK,gps
+233823,2022-08-18,-113.934044,31.6065407,3D,-21,G,OK,gps
+233823,2022-08-20,-113.93084,31.6002693,3D,-26,G,OK,gps
+233823,2022-08-22,-113.91584,31.5875969,3D,-25,G,OK,gps
+233823,2022-08-24,-113.92897,31.5899258,3D,-20,G,OK,gps
+233823,2022-08-26,-113.928207,31.5926151,3D,-29,G,OK,gps
+233823,2022-08-28,-113.932709,31.611124,3D,-26,G,OK,gps
+233823,2022-08-30,-113.934685,31.6172161,3D,-23,G,OK,gps
+233823,2022-09-07,-113.921295,31.5940475,3D,-30,G,OK,gps
+233823,2022-09-11,-113.932556,31.6102524,3D,-19,G,OK,gps
+233823,2022-09-13,-113.933174,31.6119423,3D,-18,G,OK,gps
+233823,2022-09-15,-113.927177,31.6076927,3D,-19,G,OK,gps
+233823,2022-09-17,-113.927895,31.5998077,3D,-27,G,OK,gps
+233823,2022-09-19,-113.932068,31.5942783,3D,-26,G,OK,gps
+233823,2022-09-21,-113.921089,31.5921783,3D,-34,G,OK,gps
+233823,2022-09-23,-113.930664,31.5929222,3D,1,G,OK,gps
+233823,2022-09-25,-113.92511,31.6038265,3D,-22,G,OK,gps
+233823,2022-09-27,-113.833382,31.5778179,3D,-21,G,OK,gps
+233823,2022-09-29,-113.698212,31.5230598,3D,-22,G,OK,gps
+233823,2022-10-01,-113.698288,31.5231609,3D,-26,G,OK,gps
+233823,2022-10-03,-113.708786,31.5259514,3D,-26,G,OK,gps
+233823,2022-10-05,-113.713264,31.5246983,3D,-5,G,OK,gps
+233823,2022-10-07,-113.712708,31.5216255,3D,-21,G,OK,gps
+233823,2022-10-09,-113.723251,31.5293312,3D,6,G,OK,gps
+233823,2022-10-11,-113.725067,31.5330944,3D,-4,G,OK,gps
+233823,2022-10-15,-113.686493,31.5141239,3D,-27,G,OK,gps
+233823,2022-10-17,-113.708221,31.5242882,3D,-22,G,OK,gps
+233823,2022-10-19,-113.713013,31.5249023,3D,-17,G,OK,gps
+233823,2022-10-21,-113.715622,31.5244675,3D,4,G,OK,gps
+233823,2022-10-23,-113.711243,31.5253372,3D,-23,G,OK,gps
+233823,2022-10-25,-113.748955,31.5381641,3D,-27,G,OK,gps
+233823,2022-10-27,-113.746445,31.5416965,3D,-30,G,OK,gps
+233823,2022-10-29,-113.726883,31.5352707,3D,-16,G,OK,gps
+233823,2022-10-31,-113.708534,31.5270519,3D,-22,G,OK,gps
+233823,2022-11-02,-113.716034,31.5261307,3D,-24,G,OK,gps
+233823,2022-11-07,-113.71711,31.5237503,3D,-28,G,OK,gps
+233823,2022-11-12,-113.636391,31.4526081,3D,-17,G,OK,gps
+233823,2022-11-17,-113.712677,31.5250568,3D,-33,G,OK,gps
+233823,2022-11-22,-113.717667,31.5219841,3D,-31,G,OK,gps
+233823,2022-11-27,-113.713318,31.5293827,3D,-27,G,OK,gps
+233823,2022-12-02,-113.725479,31.5286655,3D,-33,G,OK,gps
+233823,2022-12-07,-113.717033,31.5241089,3D,-23,G,OK,gps
+233823,2022-12-12,-113.719872,31.5321217,3D,-25,G,OK,gps
+233823,2022-12-17,-113.935143,31.5987072,3D,-24,G,OK,gps
+233823,2022-12-22,-113.724251,31.5249023,3D,-31,G,OK,gps
+233823,2022-12-27,-113.934349,31.6057224,3D,-26,G,OK,gps
+233823,2023-01-01,-113.957802,31.6092796,3D,-22,G,OK,gps
+233823,2023-01-06,-113.71685,31.5252361,3D,-29,G,OK,gps
+233823,2023-01-21,-113.895821,31.5565948,3D,-22,G,OK,gps
+233823,2023-01-26,-113.897461,31.606823,3D,-23,G,OK,gps
+233823,2023-01-31,-113.935577,31.5983486,3D,-14,G,OK,gps
+233823,2023-02-05,-113.724144,31.5297146,3D,-20,G,OK,gps
+233823,2023-02-10,-113.647423,31.4850178,3D,-14,G,OK,gps
+233823,2023-02-15,-113.933731,31.5976315,3D,-19,G,OK,gps
+233823,2023-02-20,-113.939827,31.6055927,3D,-31,G,OK,gps
+233823,2023-02-25,-113.939598,31.6094589,3D,-17,G,OK,gps
+233823,2023-03-07,-113.721718,31.5294857,3D,0,G,OK,gps
+233823,2022-07-13,-113.929047,31.5932026,3D,-24,C,OK(corrected),gps
+233823,2022-08-06,-113.929893,31.5927944,3D,-18,C,OK(corrected),gps
+233823,2022-09-01,-113.935448,31.61166,3D,1,C,OK(corrected),gps
+233823,2022-09-03,-113.92897,31.604826,3D,-23,C,OK(corrected),gps
+233823,2022-09-05,-113.928284,31.5978374,3D,-28,C,OK(corrected),gps
+233823,2022-09-09,-113.930634,31.592308,3D,-29,C,OK(corrected),gps
+233823,2022-10-13,-113.691559,31.5193214,3D,-19,C,OK(corrected),gps
+233823,2022-10-24,100.997772,31.5381641,3D,-1000,C,OK(corrected),gps
+233823,2023-01-16,-113.937012,31.6010113,3D,-26,C,OK(corrected),gps
+233824,2022-06-05,-156.6172333,58.6880112,,43,,,gps
+233824,2022-06-10,-156.6227875,58.6897774,,46,,,gps
+233824,2022-06-15,-156.6179199,58.6878319,,46,,,gps
+233824,2022-06-20,-156.6221924,58.6495361,,28,,,gps
+233824,2022-06-25,-156.6217041,58.6494331,,25,,,gps
+233824,2022-06-30,-156.5906525,58.6518898,,21,,,gps
+233824,2022-07-01,-156.6427002,58.6488457,,26,,,gps
+233824,2022-07-03,-156.6418304,58.6485367,,28,,,gps
+233824,2022-07-05,-156.6426239,58.6487427,,30,,,gps
+233824,2022-07-07,-156.6201782,58.6570358,,24,,,gps
+233824,2022-07-09,-156.628113,58.6464386,3D,39,G,OK,gps
+233824,2022-07-11,-157.560852,57.4994049,3D,-2,G,OK,gps
+233824,2022-07-13,-157.560257,57.498661,3D,24,G,OK,gps
+233824,2022-07-15,-157.537476,57.6523399,3D,34,G,OK,gps
+233824,2022-07-17,-157.537567,57.6527481,3D,66,G,OK,gps
+233824,2022-07-19,-157.537704,57.6524162,3D,21,G,OK,gps
+233824,2022-07-21,-157.536392,57.6523895,3D,30,C,OK(corrected),gps
+233824,2022-07-23,-157.534912,57.6518784,3D,28,G,OK,gps
+233824,2022-07-25,-157.537323,57.6524658,3D,30,G,OK,gps
+233824,2022-07-27,-157.5354,57.6520081,3D,29,G,OK,gps
+233824,2022-07-29,-157.598679,57.6110992,3D,44,G,OK,gps
+233824,2022-07-31,-157.598663,57.6110992,3D,23,G,OK,gps
+233824,2022-08-02,-157.598907,57.6106377,3D,32,G,OK,gps
+233824,2022-08-04,-133.151855,40.7857552,2D,0,G,OK,gps
+233824,2022-08-06,-124.15712,40.8180351,3D,-27,G,OK,gps
+233824,2022-08-08,-124.155174,40.8577919,3D,-24,G,OK,gps
+233824,2022-08-10,-124.17028,40.8319092,3D,-22,C,OK(corrected),gps
+233824,2022-08-12,-122.08255,37.4991226,3D,-8,G,OK,gps
+233824,2022-08-22,-122.091507,37.4457741,3D,-24,G,OK,gps
+233824,2022-08-24,-122.096497,37.4383736,3D,-31,G,OK,gps
+233824,2022-08-26,-122.090843,37.4428558,3D,-31,G,OK,gps
+233824,2022-08-28,-122.092735,37.4412155,3D,-24,G,OK,gps
+233824,2022-08-30,-122.093147,37.4409866,3D,-28,G,OK,gps
+233824,2022-09-01,-122.035522,37.4561653,3D,-23,G,OK,gps
+233824,2022-09-03,-122.093246,37.4407539,3D,-21,G,OK,gps
+233824,2022-09-05,-122.096886,37.438118,3D,-21,G,OK,gps
+233824,2022-09-07,-122.096909,37.4380417,3D,-20,G,OK,gps
+233824,2022-09-09,-122.043022,37.4570618,3D,-17,G,OK,gps
+233824,2022-09-11,-122.041641,37.4619789,3D,-17,G,OK,gps
+233824,2022-09-13,-122.038467,37.4760818,3D,-13,G,OK,gps
+233824,2022-09-15,-122.099747,37.4392204,3D,-19,G,OK,gps
+233824,2022-09-17,-122.099083,37.4356346,3D,-21,G,OK,gps
+233824,2022-09-19,-122.097832,37.4373245,3D,-22,G,OK,gps
+233824,2022-09-21,-122.09742,37.4371452,3D,-18,C,OK(corrected),gps
+233824,2022-10-01,-122.098778,37.4348412,3D,-23,G,OK,gps
+233824,2022-10-03,-122.098831,37.4348412,3D,-20,G,OK,gps
+233824,2022-10-05,-122.096092,37.4385033,3D,-24,G,OK,gps
+233824,2022-10-07,-122.095833,37.4378891,3D,-18,G,OK,gps
+233824,2022-10-09,-122.044144,37.4554749,3D,-25,G,OK,gps
+233824,2022-10-11,-122.037926,37.4500732,3D,-20,G,OK,gps
+233824,2022-10-13,-122.037773,37.4499207,3D,-20,G,OK,gps
+233824,2022-10-15,-122.037773,37.4499702,3D,-18,G,OK,gps
+233824,2022-10-17,-122.006592,37.4703217,3D,-19,G,OK,gps
+233824,2022-10-19,-122.058098,37.492878,3D,-20,G,OK,gps
+233824,2022-10-21,-122.046936,37.4552956,3D,-24,G,OK,gps
+233824,2022-10-23,-122.03775,37.4600067,3D,-1,G,OK,gps
+233824,2022-10-25,-122.009155,37.4595451,3D,-14,G,OK,gps
+233824,2022-10-27,-122.018166,37.4587021,3D,-21,C,OK(corrected),gps
+233824,2022-10-29,-122.01796,37.4583931,3D,-21,G,OK,gps
+233824,2022-10-31,-122.017982,37.4585724,3D,-24,G,OK,gps
+233824,2022-11-02,-122.040001,37.4720116,3D,-24,G,OK,gps
+233824,2022-11-07,-122.09343,37.4962044,3D,-25,G,OK,gps
+233824,2022-11-12,-122.079575,37.5010414,3D,-45,G,OK,gps
+233824,2022-11-17,-122.060684,37.4926987,3D,-29,G,OK,gps
+233824,2022-11-22,-122.086288,37.4938736,3D,-29,C,OK(corrected),gps
+233824,2022-11-27,-122.010483,37.4604912,3D,-23,C,OK(corrected),gps
