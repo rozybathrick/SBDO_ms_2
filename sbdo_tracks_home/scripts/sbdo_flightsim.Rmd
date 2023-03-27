@@ -1,0 +1,43 @@
+---
+title: "SBDO track simulation"
+output: html_document
+date: "2023-03-24"
+---
+
+```{r}
+library(aniMotum)
+library(tidyverse)
+library(AICcmodavg)
+```
+
+## Step One
+
+Load the data
+
+```{r}
+get(wd)
+sbdo_22<-read.csv("raw_data/9.29.22_fall_22_animotum.csv")
+```
+
+## Step Two 
+
+Fit a correlated random walk: movements are random and correlated in direction and magnitude. The movement persistence can happen later
+
+Experiment at different timesteps to find the best fit 
+
+### 24 hour timestep
+```{r}
+
+fitcrw24_speed <-
+  fit_ssm(
+    x = sbdo_22,
+    model = "crw",
+    time.step = 24,
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+plot(fitcrw24_speed, what="fitted")
+plot(fitcrw24_speed, what="predicted")
+
+```
+
