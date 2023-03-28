@@ -32,6 +32,7 @@ fitcrw24_speed <-
     time.step = 24,
     vmax=20,
     control=ssm_control(verbose=0))
+summary(fitcrw24_speed)
 
 ## model visualization
 

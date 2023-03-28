@@ -3,14 +3,42 @@
 library(aniMotum)
 library(tidyverse)
 library(TMB)
+library(sf)
+library(sp)
 
 ##bringing in dataset that I cleaned 3/27 - all data from Movebank, filtered for repeat dates
 
 sbdo_mar<-(read.csv("raw_data/clean_SBDO_2022.csv"))
 
-## before August 5 - all birds left by then
+## running a 24 hour model for all birds to look at AICc together
+allcrw_24<-
+  fit_ssm(
+    x = sbdo_mar,
+    model = "crw",
+    time.step = 24,
+    vmax=20,
+    control=ssm_control(verbose=0))
+summary(allcrw_24)
+plot(allcrw_24, what="predicted")
 
-sbdo_clean_dep<-filter(sbdo_mar, timestamp < '2022-08-05 00:00:00')
+allcrw_48<-
+  fit_ssm(
+    x = sbdo_mar,
+    model = "crw",
+    time.step = 48,
+    vmax=20,
+    control=ssm_control(verbose=0))
+summary(allcrw_48)
+
+allcrw_36 <-
+  fit_ssm(
+  x = sbdo_mar,
+  model = "crw",
+  time.step = 36,
+  vmax=20,
+  control=ssm_control(verbose=0))
+summary(allcrw_36)
+
 
 ## make dataframes for each 2022 bird
 
@@ -36,9 +64,11 @@ B21_198767_recap<-read.csv("raw_data/198767_Beluga_recap.csv")
 
 ### trying out some models on the individual tracks
 
-### BIRD ONE ####
+### BIRD ONE: Beluga 181624 ####
 
-## 24 hour time step with max speed
+### first: 24 hour time step ###
+
+## 24 hour time step with max speed of 20
 B1_crw24 <-
   fit_ssm(
     x = B_181624,
@@ -49,6 +79,18 @@ B1_crw24 <-
 
 plot(B1_crw24, what="fitted")
 plot(B1_crw24, what="predicted")
+
+## 36 hour
+B1_crw36 <-
+  fit_ssm(
+    x = B_181624,
+    model = "crw",
+    time.step = 36,
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+plot(B1_crw36, what="fitted")
+plot(B1_crw36, what="predicted")
 
 ##add an mpm
 
@@ -63,23 +105,93 @@ map(B1_crw24, B1_mpm, what="predicted", silent=TRUE)
 plot(B1_crw24, "p", type=2, alpha=0.1)
 
 ## validating model - needs to be done with one-step-ahead-prediction residual
+#calculate and plot residuals. 
 
-require(patchwork)
-
-#calculate and plot residuals
+##interp: the Q-Q plots are concerning, residuals / date look okay
 
 res.bird1<-osar(B1_crw24)
 
 (plot(res.bird1, type="ts")| plot(res.bird1, type="qq")) / (plot(res.bird1, type="acf"))
 
+## 36 hour residuals
+res.bird1_36<-osar(B1_crw36)
 
-## simulate track
+(plot(res.bird1_36, type="ts")| plot(res.bird1_36, type="qq")) / (plot(res.bird1_36, type="acf"))
+summary(B1_crw36)
+summary(B1_crw24)
+
+## simulate track: this is mayhem
 s1<-sim_fit(B1_crw24, what="p", reps=100)
 plot(s1)
 
 ## grabbing predicted locations and se, AICc
 
-p_bird1<- ploc <- grab(B1_crw24, what = "predicted", as_sf = TRUE)
+p_bird1<- grab(B1_crw24, what = "predicted", as_sf=TRUE) %>% 
+  st_transform(coords=c("long", "lat"), crs=4326)
+
+summary(B1_crw24)
+
+
+### Bird One at 12 hours (to compare models)
+
+B1_crw12 <-
+  fit_ssm(
+    x = B_181624,
+    model = "crw",
+    time.step = 12,
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+plot(B1_crw12, what="fitted")
+plot(B1_crw12, what="predicted")
+
+##add an mpm
+
+B1_mpm12<- fit_mpm(B1_crw12, 
+                 what= "predicted",
+                 model="mp",
+                 control=mpm_control(verbose=0))
+plot(B1_mpm12)
+map(B1_crw12, B1_mpm12, what="predicted", silent=TRUE)
+
+## visualizing as 2D tracks: this maps predicted plots on top of observations
+plot(B1_crw12, "p", type=2, alpha=0.1)
+
+## validating model - needs to be done with one-step-ahead-prediction residual
+#calculate and plot residuals. 
+
+##interp: 
+
+res.bird1_12<-osar(B1_crw12)
+
+(plot(res.bird1_12, type="ts")| plot(res.bird1_12, type="qq")) / (plot(res.bird1_12, type="acf"))
+
+
+## grabbing predicted locations and se, AICc
+
+p_bird1_12<- ploc <- grab(B1_crw12, what = "predicted", as_sf = TRUE, st_as_sf(coords=c("long", "lat"), crs=4326))
+summary(B1_crw12)
+
+
+
+## BIRD 1 AT 48
+
+B1_crw48 <-
+  fit_ssm(
+    x = B_181624,
+    model = "crw",
+    time.step = 48,
+    vmax=20,
+    control=ssm_control(verbose=0))
+
+plot(B1_crw48, what="fitted")
+plot(B1_crw48, what="predicted")
+
+## 36 hour residuals
+res.bird1_48<-osar(B1_crw48)
+
+(plot(res.bird1_48, type="ts")| plot(res.bird1_48, type="qq")) / (plot(res.bird1_48, type="acf"))
+summary(B1_crw48)
 
 
 ## BIRD 2 ###
@@ -134,8 +246,6 @@ res.bird1<-osar(B1_crw24)
 ## grabbing predicted locations and se, AICc
 
 p_bird1<- ploc <- grab(B1_crw24, what = "predicted", as_sf = TRUE)
-
-
 
 
 
