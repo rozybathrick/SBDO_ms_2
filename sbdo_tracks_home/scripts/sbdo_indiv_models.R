@@ -9,6 +9,7 @@ library(sp)
 ##bringing in dataset that I cleaned 3/27 - all data from Movebank, filtered for repeat dates
 
 sbdo_mar<-(read.csv("raw_data/clean_SBDO_2022.csv"))
+summary(sbdo_mar)
 
 ## running a 24 hour model for all birds to look at AICc together
 allcrw_24<-
@@ -19,7 +20,13 @@ allcrw_24<-
     vmax=20,
     control=ssm_control(verbose=0))
 summary(allcrw_24)
+
 plot(allcrw_24, what="predicted")
+
+p_bird1<- grab(allcrw_24, what = "predicted", as_sf=TRUE) %>% 
+  st_transform(coords=c("long", "lat"), crs=4326)
+
+
 
 allcrw_48<-
   fit_ssm(
