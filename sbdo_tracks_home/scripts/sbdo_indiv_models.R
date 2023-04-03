@@ -253,6 +253,11 @@ res.bird1<-osar(B1_crw24)
 ## grabbing predicted locations and se, AICc
 
 p_bird1<- ploc <- grab(B1_crw24, what = "predicted", as_sf = TRUE)
+summary(p_bird1)
 
+## grabbing fitted and filtered data locations
+datacrw24<-grab(allcrw_24, what="data")
 
-
+write.csv(datacrw24, file="crw24_datapoints.csv")
+fittedcrw24<-grab(allcrw_24, what="fitted")
+write.csv(fittedcrw24, file="crw24_fittedpoints.csv")
