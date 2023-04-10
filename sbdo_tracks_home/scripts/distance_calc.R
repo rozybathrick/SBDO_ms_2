@@ -51,4 +51,24 @@ sbdo_dist_bybird<-sbdo_distance %>%
 #bail to csv
 write.csv(sbdo_distance, file="sbdo_distance.csv")
 
+## Beluga recap bird distance
+
+recap<-read.csv("raw_data/198767_Beluga_recap.csv")
+
+recap1<-recap %>% 
+  select("id", "timestamp", "long", "lat", 
+         "Altitude") %>% 
+  rename(id="id",
+         long="long",
+         lat="lat",
+         elevation="Altitude") %>% 
+  mutate(site=(c("Beluga"))) %>% 
+  mutate(year=(c("2021"))) %>% 
+  mutate(Jdate=yday(timestamp)) %>% 
+  st_as_sf(coords=c("long", "lat"), crs=4326) %>% 
+  mutate(dist_to_next = st_distance(lag(geometry), geometry, by_element = TRUE)) %>% 
+  mutate(timetilnext = difftime(lead(timestamp), timestamp, unit="hours"))
+
+#bail to csv
+write.csv(recap1, file="recap1_dist.csv")
 
