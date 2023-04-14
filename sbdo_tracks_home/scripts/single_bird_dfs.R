@@ -9,7 +9,8 @@ KS_bird_locs <- KS_ws %>%
            (Lat == 58.7 & Long == -156.98) | (Lat == 58.7 & Long == -156.73)) %>% 
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(ws),
-            mean(tw))
+            mean(tw),
+            max(ws))
 
 write.csv(KS_bird_locs, file="KS_bird_locs.csv")
 
@@ -22,7 +23,8 @@ BEL_bird_locs22 <- BELUGA_ws %>%
            (Lat == 61.26 & Long == -150.48) | (Lat == 61.26 & Long == -150.98)) %>% 
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(ws),
-            mean(tw))
+            mean(tw), 
+            max(ws))
 
 write.csv(BEL_bird_locs22, file="BEL_bird_locs22.csv")
 
@@ -31,6 +33,7 @@ BEL_bird_loc21<-BELUGA_ws_21 %>%
   filter(Lat == 61.26 & Long == -150.98) %>% 
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(ws),
-            mean(tw))
+            mean(tw), 
+            max(ws))
 
 write.csv(BEL_bird_loc21, file="BEL_bird_loc21.csv")
