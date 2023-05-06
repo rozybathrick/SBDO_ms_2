@@ -1,31 +1,31 @@
 
 library(ggplot2)
-install.packages("lme4")
-no
 library(lme4)
 library(tidyverse)
 library(sf)
 library(lubridate)
 library(mapview)
 library(units)
-library(dplyr)
+library(ddplyr)
 
 
 ###comparing significance between sites and years
 
-require(here)
-fly_dates<-read.csv(here("raw_data", "flydates_sbdo.csv"))
+getwd()
+fly_dates<-read.csv("flydates_sbdo.csv")
 head(fly_dates)
 
  ##add J date column for each date
 Jfly_datez<- fly_dates %>%
-  subset(select=c("id", "dep_day", "lat_arcata_40.8", "lat_sand_32.7", "arr_day", "site", "year")) 
+  subset(select=c("id", "final_day_home", "lat_arcata_40.8", "lat_sand_32.7", "arr_day", "site", "year"))
 head(Jfly_datez)
 
+summary(Jfly_datez)
+
 Jfly<-Jfly_datez %>% 
-  mutate(dep_day=mdy(dep_day)) %>%
-  na.pass() %>% 
-  mutate(Jdep_date=yday(dep_day)) %>% 
+  #mutate(dep_day=mdy(final_day_home)) %>%
+  #na.pass() %>% 
+  #mutate(Jdep_date=yday(final_day_home)) %>% 
   mutate(lat_arcata_40.8=mdy(lat_arcata_40.8)) %>% 
   na.pass() %>% 
   mutate(Jlat_arcata_40.8=yday(lat_arcata_40.8)) %>% 
@@ -35,6 +35,8 @@ Jfly<-Jfly_datez %>%
   mutate(arr_day=mdy(arr_day)) %>% 
   na.pass() %>% 
   mutate(Jarr_day=yday(arr_day))
+
+
 
 ##are there any differences between year for dep date
 belmod<-lm(Jdep_date~site+factor(year), data=Jfly); summary(belmod)
