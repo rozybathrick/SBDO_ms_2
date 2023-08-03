@@ -1,7 +1,5 @@
 
 library(ggplot2)
-install.packages("lme4")
-no
 library(lme4)
 library(tidyverse)
 library(sf)
@@ -13,19 +11,18 @@ library(dplyr)
 
 ###comparing significance between sites and years
 
-require(here)
-fly_dates<-read.csv(here("raw_data", "flydates_sbdo.csv"))
+getwd()
+fly_dates<-read.csv("flydates_sbdo.csv", as.is=TRUE)
+
+summary(fly_dates)
 head(fly_dates)
 
  ##add J date column for each date
-Jfly_datez<- fly_dates %>%
-  subset(select=c("id", "dep_day", "lat_arcata_40.8", "lat_sand_32.7", "arr_day", "site", "year")) 
-head(Jfly_datez)
-
-Jfly<-Jfly_datez %>% 
-  mutate(dep_day=mdy(dep_day)) %>%
+Jfly<- fly_dates %>%
+  subset(select=c("id", "final_day_home", "lat_arcata_40.8", "lat_sand_32.7", "arr_day", "site", "year")) %>% 
+  mutate(final_day_home=mdy(final_day_home)) %>%
   na.pass() %>% 
-  mutate(Jdep_date=yday(dep_day)) %>% 
+  mutate(Jfinal_day_home=yday(final_day_home)) %>% 
   mutate(lat_arcata_40.8=mdy(lat_arcata_40.8)) %>% 
   na.pass() %>% 
   mutate(Jlat_arcata_40.8=yday(lat_arcata_40.8)) %>% 
@@ -36,35 +33,35 @@ Jfly<-Jfly_datez %>%
   na.pass() %>% 
   mutate(Jarr_day=yday(arr_day))
 
-##are there any differences between year for dep date
-belmod<-lm(Jdep_date~site+factor(year), data=Jfly); summary(belmod)
+
+##are there any differences between year for dep date and arrival?
+belmod<-lm(Jfinal_day_home~site+factor(year), data=Jfly); summary(belmod)
 anova(belmod)
 
-belmod2<-lm(Jarr_day~site+factor(year), data=Jfly); summary(belmod2)
+belmod2<-lm(Jarr_day~site+factor(year), data=Jfly_datez); summary(belmod2)
 
 ##no
 
 
-##departure date by site both years
-mod1<-lm(Jdep_date~site, data=Jfly); summary(mod1)
-null1<-lm(Jdep_date~1, data=Jfly); summary(null1)
+##does site explain departure date? departure date = continuous, predictor = categorical
 
+dep_mod<-lm(Jfinal_day_home~site, data=Jfly); summary(dep_mod)
+null1<-lm(Jfinal_day_home~1, data=Jfly); summary(null1)
 
-
-#departure date not sig different by site
+#NO - there is not a significant difference between departure dates
 
 ##date south of arcata by site
-mod2<-lm(Jlat_arcata_40.8~site, data=Jfly); summary(mod2)
+arc_mod<-lm(Jlat_arcata_40.8~site, data=Jfly); summary(arc_mod)
 null2<-lm(Jlat_arcata_40.8~1, data=Jfly); summary(null2)
-##king salmon birds arrived south arcata an average of 23 days earlier than beluga birds
+##king salmon birds arrived south arcata an average of 24 days earlier than beluga birds
 
 ##date south of san diego by site
-mod3<-lm(Jlat_sand_32.7~site, data=Jfly); summary(mod3)
+sand_mod<-lm(Jlat_sand_32.7~site, data=Jfly); summary(sand_mod)
 null3<-lm(Jlat_sand_32.7~1, data=Jfly); summary(null3)
 ##king salmon birds arrived south of san diego an average of 22 days earlier than beluga birds 
 
 ##arrival date by site
-mod4<-lm(Jarr_day~site, data=Jfly); summary(mod4)
+arr_mod<-lm(Jarr_day~site, data=Jfly); summary(arr_mod)
 null4<-lm(Jarr_day~1, data=Jfly); summary(null4)
 ##ks birds arrive at wintering sites an avg of 19 days earlier
 
