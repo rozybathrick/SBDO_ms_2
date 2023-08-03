@@ -10,9 +10,10 @@ KS_bird_locs_rWind <- KS_rWind %>%
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(speed),
             mean(tw),
-            max(speed))
+            max(speed)) %>% 
+  mutate(date=as.Date(Jdate, origin = as.Date('2022-01-01')))
+write.csv(KS_bird_locs_rWind, file="KS_bird_locs_rWind.csv")  
 
-write.csv(KS_bird_locs, file="KS_bird_locs.csv")
 
 
 ### BELUGA 2022
@@ -24,9 +25,10 @@ BEL22_bird_locs_rWind <- BEL22_rWind %>%
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(speed),
             mean(tw), 
-            max(speed))
+            max(speed)) %>% 
+  mutate(date=as.Date(Jdate, origin = as.Date('2022-01-01')))
 
-write.csv(BEL_bird_locs22, file="BEL_bird_locs22.csv")
+write.csv(BEL22_bird_locs_rWind, file="BEL22_bird_locs_rWind.csv")
 
 ### BELUGA 2021
 BEL21_bird_locs_rWind<-BEL21_rWind %>% 
@@ -34,6 +36,7 @@ BEL21_bird_locs_rWind<-BEL21_rWind %>%
   group_by(Long, Lat, Jdate) %>%
   summarise(mean(speed),
             mean(tw), 
-            max(speed))
-
+            max(speed)) %>% 
+  mutate(date=as.Date(Jdate, origin = as.Date('2021-01-01')))
+write.csv(BEL21_bird_locs_rWind, file="BEL21_bird_locs_rWind.csv")
 
