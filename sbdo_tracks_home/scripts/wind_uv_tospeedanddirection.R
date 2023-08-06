@@ -10,6 +10,7 @@ library(viridis)
 ## BELGUA 2022
 BELUGA_wind_finalak<-read.csv("processed_data/BELUGA_wind_final_aktime.csv")
 
+
 summary(BELUGA_wind_finalak)
 
 BELUGA_wind_finalak <- type.convert(BELUGA_wind_finalak, as.is = TRUE)
@@ -39,7 +40,8 @@ BELUGA_ws<-BELUGA_wind_finalak %>%
   mutate(wd=(270-atan2(BELUGA_wind_finalak$v, BELUGA_wind_finalak$u)*180/pi)%%360) %>% 
   mutate(date=BELUGA_wind_finalak$Date <- as.Date(BELUGA_wind_finalak$Timestamp_AK, format = '%m/%d/%Y %H:%M')) %>%
   mutate(Jdate=yday(date)) %>% 
-  mutate(tw=BELUGA_ws$ws*cos(118-BELUGA_ws$wd))#adds wind profit, given the bearing of 118
+  mutate(tw=BELUGA_ws$ws*cos(118-BELUGA_ws$wd)) %>% #adds wind profit, given the bearing of 118M
+  filter(Jdate > 152)
 
 View(BELUGA_ws)
 
@@ -58,10 +60,12 @@ KS_ws<-KS_wind_finalak %>%
   mutate(wd=(270-atan2(KS_wind_finalak$v, KS_wind_finalak$u)*180/pi)%%360) %>%
   mutate(date=KS_wind_finalak$date <- as.Date(KS_wind_finalak$Timestamp_AK, format='%m/%d/%Y %H:%M')) %>%
   mutate(Jdate=yday(date)) %>% 
-  mutate(tw=KS_ws$ws*cos(116-KS_ws$wd))#adds tail wind profit, given the bearing of 116
+  mutate(tw=KS_ws$ws*cos(116-KS_ws$wd)) %>%  #adds tail wind profit, given the bearing of 116
+  filter(Jdate>152)
 
 
 windRose(KS_ws,
+         
          ws = "ws",
          wd = "wd", 
          type="month")

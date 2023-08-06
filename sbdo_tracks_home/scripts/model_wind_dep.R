@@ -17,10 +17,11 @@ dep_mod1 <- read.csv("rWind_birds.csv")
 
 head(dep_mod1)
 
-class(dep_mod1$id)
+class(dep_mod1$dep_prob)
 dep_mod1$id<-as.factor(dep_mod1$id)
 
 dep_mod1$day.before.dep<-as.integer(dep_mod1$day.before.dep)
+dep_mod1$dep_prob<-as.factor(dep_mod1$dep_prob)
 
 ## standardizing tailwind
 wind.std <- scale(dep_mod1[c("mean.speed", "mean.tw", "max.speed")])
@@ -46,7 +47,40 @@ ggplot(dep_mod1, aes(x = mean_tw, y = day_4, colour = site)) +
   stat_smooth(method = "loess", color = "blue") +
   theme_light()
 
-ggplot(dep_mod1, aes(x = mean_tw, y = day_4, colour = site)) +
+
+### BOX PLOTS TO SHOW WIND CONDITIONS DIFFER BETWEEN SITES
+ggplot(dep_mod1, aes(y = mean.tw, x = dep_prob, fill = site)) +
+  geom_boxplot(alpha=0.75) +
+  geom_jitter(alpha=0.5)+
+  scale_fill_manual(breaks = dep_mod1$site,
+                    values = group.colors)+
+  theme(legend.position="right", plot.title=element_text(hjust=0.5))%>% na.omit()+
+  labs(y="tail wind assistance", x=" ", title="Tail wind on departure and non-departure days")+
+  theme(panel.background = element_rect(fill = "white",color = "grey",size = 0.5,linetype='solid'))+
+  theme(plot.title=element_text(size=20), axis.text=element_text(size=10),
+        text = element_text(family = "Times New Roman"))+
+  scale_x_discrete(breaks = c(0,1), labels=c("Did not depart", "Departed"))
+
+ggplot(dep_mod1, aes(y = mean.speed, x = dep_prob, fill = site)) +
+  geom_boxplot(alpha=0.75) +
+  geom_jitter(alpha=0.5)+
+  scale_fill_manual(breaks = dep_mod1$site,
+                    values = group.colors)+
+  theme(legend.position="right", plot.title=element_text(hjust=0.5))%>% na.omit()+
+  labs(y="wind speed (m/s)", x=" ", title="Wind speed on departure and non-departure days")+
+  theme(panel.background = element_rect(fill = "white",color = "grey",size = 0.5,linetype='solid'))+
+  theme(plot.title=element_text(size=20), axis.text=element_text(size=10),
+        text = element_text(family = "Times New Roman"))+
+  scale_x_discrete(breaks = c(0,1), labels=c("Did not depart", "Departed"))
+
+
+ggplot(dep_mod1, aes(y = mean.speed, x = dep_prob, fill = site)) +
+  scale_fill_manual(group.colors)+
+  geom_boxplot()
+
+group.colors <- c(KS = "dodgerblue4", Beluga = "brown3", alpha=0.75)
+
+ggplot(dep_mod1, aes(x = mean_tw, y = day_4, fill = site)) +
   geom_jitter(size = 2, alpha = 0.4, position = position_jitter(height = 0.02)) +
   stat_smooth(method = "loess", color = "blue") +
   theme_light()
